@@ -1,0 +1,144 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "model": "파우스트",
+      "content": "…Dante?"
+    },
+    {
+      "id": 1,
+      "content": "Il Mephistopheles non ruggiva e brontolava tutto il giorno. È un motore che deve riposare ogni tanto, proprio come Charon è ancora un essere umano che ha bisogno di pause regolari."
+    },
+    {
+      "id": 2,
+      "model": "단테",
+      "content": "<Sei ancora sveglia, Faust?>"
+    },
+    {
+      "id": 3,
+      "model": "파우스트",
+      "content": "Devo ancora controllare alcune cose. Dato che il motore viene maltrattato mentre opera, deve essere mantenuto bene a riposo."
+    },
+    {
+      "id": 4,
+      "content": "A confermare le sue parole, Faust aveva con sé degli attrezzi leggeri e un piccolo marchingeno meccanico, al posto della sua solita zweihander."
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<Stai lavorando duramente.>"
+    },
+    {
+      "id": 6,
+      "model": "파우스트",
+      "content": "Questo si può considerare a malapena un lavoro. Piuttosto, sarebbe più difficile vedere l'opera in cui Faust ha messo l'anima venir sfruttata senza tempo per i controlli."
+    },
+    {
+      "id": 7,
+      "content": "Disse dopo aver fatto un lieve sorriso…"
+    },
+    {
+      "id": 8,
+      "model": "파우스트",
+      "content": "Ti piace questo gadget?"
+    },
+    {
+      "id": 9,
+      "content": "Faust guardò il congegno portatile che stavo usando."
+    },
+    {
+      "id": 10,
+      "model": "단테",
+      "content": "<Oh… Questo coso?>"
+    },
+    {
+      "id": 11,
+      "model": "파우스트",
+      "content": "Sì, non credo che lo usassi così spesso prima."
+    },
+    {
+      "id": 12,
+      "model": "단테",
+      "content": "<Non è niente di che, stavo solo… usando questa nuova funzione il più possibile, mi serviva.>"
+    },
+    {
+      "id": 13,
+      "content": "Ogni volta che Faust richiedeva una pausa per la manutenzione abituale, anche il mio 'LCB-PDA' riceve degli aggiornamenti."
+    },
+    {
+      "id": 14,
+      "content": "Gli aggiornamenti a volte aggiungevano funzioni, e stavolta…"
+    },
+    {
+      "id": 15,
+      "model": "파우스트",
+      "content": "…Una nota? Il dispositivo non aveva ancora qeulla funzionalità?"
+    },
+    {
+      "id": 16,
+      "model": "단테",
+      "content": "<Non l'aveva, stranamente.>"
+    },
+    {
+      "id": 17,
+      "model": "단테",
+      "content": "<…Sei stupita? Credevo che sapessi tutto, Faust.>"
+    },
+    {
+      "id": 18,
+      "model": "파우스트",
+      "content": "Faust conosce solo tutto ciò che conosce Faust."
+    },
+    {
+      "id": 19,
+      "model": "파우스트",
+      "content": "Scusami un secondo."
+    },
+    {
+      "id": 20,
+      "content": "Diede una sbirciata allo schermo del mio tablet."
+    },
+    {
+      "id": 21,
+      "model": "파우스트",
+      "content": "Stai tentando di scrivere un'enciclopedia, Dante?"
+    },
+    {
+      "id": 22,
+      "model": "단테",
+      "content": "<Ecco… Continuate ad usare delle parole che non conosco, come “Fixer”, o le “Ali”…>"
+    },
+    {
+      "id": 23,
+      "model": "단테",
+      "content": "<Saranno parole comuni per voi, ma per me…>"
+    },
+    {
+      "id": 24,
+      "model": "파우스트",
+      "content": "Capisco. Suppongo tu abbia perso ogni ricordo della Città."
+    },
+    {
+      "id": 25,
+      "model": "단테",
+      "content": "<Già. Quindi voglio scrivere quasi tutto qui.>"
+    },
+    {
+      "id": 26,
+      "model": "단테",
+      "content": "<E copiare quello che stavo scrivendo su carta, già che ci sono…>"
+    },
+    {
+      "id": 27,
+      "content": "L'orologio sulle mie spalle sarebbe potuto essere rimpiazzato rimpiazzato da un'altra testa in qualunque momento. Niente mi avrebbe garantito che i ricordi che avevo mi sarebbero rimasti."
+    },
+    {
+      "id": 28,
+      "content": "Dovevo preparare un piano di emergenza."
+    },
+    {
+      "id": 29,
+      "content": "Per non dimenticare di nuovo."
+    }
+  ]
+}

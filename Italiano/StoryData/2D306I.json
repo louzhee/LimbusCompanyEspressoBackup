@@ -1,0 +1,116 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Dentro il Castello di Ghiaccio",
+      "content": "BOOOM!"
+    },
+    {
+      "id": 1,
+      "model": "단테",
+      "content": "<Ma che…?>"
+    },
+    {
+      "id": 2,
+      "content": "Il castello tremò intensamente, mentre delle macerie gelide cadevano dall'alto."
+    },
+    {
+      "id": 3,
+      "model": "단테",
+      "content": "<Oh no, se continua così…>"
+    },
+    {
+      "id": 4,
+      "content": "Un'inquietante idea fece capolino nella mia testa."
+    },
+    {
+      "id": 5,
+      "content": "Il ticchettio del mio orologio mi ricordò di quanto tempo avevamo ancora a disposizione."
+    },
+    {
+      "id": 6,
+      "model": "단테",
+      "content": "<Fuo… Tutti fuori, adesso!>"
+    },
+    {
+      "id": 7,
+      "place": "Castello Ghiacciato Dove I Vicini Giacciono",
+      "content": "Uscimmo dal castello in fretta e furia."
+    },
+    {
+      "id": 8,
+      "model": "이스마엘",
+      "content": "…Sto impazzendo o…?"
+    },
+    {
+      "id": 9,
+      "model": "이스마엘",
+      "content": "Il castello non sta crollando, è come se…"
+    },
+    {
+      "id": 10,
+      "model": "파우스트",
+      "content": "Esatto, si sta alzando in piedi."
+    },
+    {
+      "id": 11,
+      "model": "그레고르",
+      "content": "Non ve ne state lì impalate a guardare! Correte!"
+    },
+    {
+      "id": 12,
+      "model": "단테",
+      "content": "<Oogh… Aahh… A, abbiamo corso un bel po', e ora…?>"
+    },
+    {
+      "id": 13,
+      "model": "뫼르소",
+      "content": "Dei passi. Non umani. Molto lenti e pesanti."
+    },
+    {
+      "id": 14,
+      "model": "이스마엘",
+      "content": "…Basta dire che c'è qualcosa di enorme che ci insegue!"
+    },
+    {
+      "id": 15,
+      "model": "뫼르소",
+      "content": "Sarebbe stato decisamente più utile."
+    },
+    {
+      "id": 16,
+      "model": "로쟈",
+      "content": "D—Dante! Il nostro lavoro l'abbiamo fatto, a questo punto possiamo svignarcela! D'accordo?"
+    },
+    {
+      "id": 17,
+      "model": "단테",
+      "content": "<Da-Dammi un secondo! Non ho mai pensato a cosa fare <i>dopo</> essere scesi qui…>"
+    },
+    {
+      "id": 18,
+      "model": "로쟈",
+      "content": "Oh, ma davvero! Ti sembra il momento adatto per un piano idiota?!"
+    },
+    {
+      "id": 19,
+      "model": "그레고르",
+      "content": "Il bus… Dov'è il bus?"
+    },
+    {
+      "id": 20,
+      "model": "히스클리프",
+      "content": "Smettetela di sparare stronzate! Dobbiamo darcela a gambe!"
+    },
+    {
+      "id": 21,
+      "model": "파우스트",
+      "content": "Questa potrebbe essere la prima affermazione sensata che sento uscire dalla tua bocca, Heathcliff."
+    },
+    {
+      "id": 22,
+      "model": "히스클리프",
+      "content": "…Giuro che più tardi ti spacco il cranio."
+    }
+  ]
+}
