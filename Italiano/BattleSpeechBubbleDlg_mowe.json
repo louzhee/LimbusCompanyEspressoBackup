@@ -1,0 +1,74 @@
+{
+  "dataList": [
+    {
+      "id": "6SV-009-002",
+      "desc": "카세티 피격시",
+      "dlg": "Mannaggia, mannaggia!"
+    },
+    {
+      "id": "6SV-009-002-01",
+      "desc": "카세티 피격시",
+      "dlg": "Mannaggia, mannaggia!"
+    },
+    {
+      "id": "6SV-010-001",
+      "desc": "카세티 공격시_1",
+      "dlg": "Haha! Inginocchiati!"
+    },
+    {
+      "id": "6SV-010-002",
+      "desc": "카세티 공격시_2",
+      "dlg": "Esatto, a cuccia..."
+    },
+    {
+      "id": "6SV-010-003-01",
+      "desc": "카세티 공격시_3",
+      "dlg": "Sei mio! C-Che cosa? Va-Vattene via!"
+    },
+    {
+      "id": "6SV-011-001",
+      "desc": "카세티가 전투 중 등장할 때",
+      "dlg": "Inginocchiati dinanzi al Principe del reame!"
+    },
+    {
+      "id": "6SV-011-002",
+      "desc": "카세티가 전투 중 등장할 때",
+      "dlg": "Il tradimento è un crimine punibile con la morte!"
+    },
+    {
+      "id": "6SV-012",
+      "desc": "카세티 등장 턴",
+      "dlg": "N-non c'è fretta... Khh! Posso farcela... Li zittirò non appena moriranno tutti."
+    },
+    {
+      "id": "6SV-013-001",
+      "desc": "카세티 나는… 이 행진의… 왕자이다…! 사용 시",
+      "dlg": "Quando questa marcia finirà... Diventerò Re! E regnerò su tutti voi!"
+    },
+    {
+      "id": "6SV-013-002",
+      "desc": "카세티 나는… 이 행진의… 왕자이다…! 사용 시",
+      "dlg": "Ammirate...! Questa è la marcia del Principe!"
+    },
+    {
+      "id": "6SV-014",
+      "desc": "카세티 나는… 이 행진의… 왕자이다…! 사용 후 다음 턴",
+      "dlg": "Fa malissimo... Ma devo vedere... la vastità dei miei poteri!"
+    },
+    {
+      "id": "6SV-015",
+      "desc": "사샤 등장 시",
+      "dlg": "Non capiscono? Haah... diventare delle Sacche di Sangue sarà un miglioramento, una vera e propria ascensione!"
+    },
+    {
+      "id": "6SV-017_2",
+      "desc": "사샤 스킬 사용시",
+      "dlg": "Prendiamoci un po di sangue!!"
+    },
+    {
+      "id": "6SV-017_2-02",
+      "desc": "사샤 스킬 사용시",
+      "dlg": "Prendiamoci un po di sangue, ha ha ha...!"
+    }
+  ]
+}

@@ -1,0 +1,1979 @@
+{
+  "dataList": [
+    {
+      "id": "battle_speechbubble_cromer_1",
+      "desc": "말풍선 특수 대사_크로머",
+      "dlg": "Aah... Possibile... Che tu sia...\nIl mio Sinclair...?"
+    },
+    {
+      "id": "battle_speechbubble_10808_1",
+      "desc": "말풍선 특수 대사_피쿼드호 선장 이스마엘",
+      "dlg": "Tutta colpa mia, dici...? Quale colpa?\nOso dire è tutto grazie a me."
+    },
+    {
+      "id": "battle_speechbubble_10408_1",
+      "desc": "말풍선 특수 대사_에드가 가문 치프 버틀러 료슈",
+      "dlg": "S.U.D.\nUn vero fallimento di Capo Maggiordomo."
+    },
+    {
+      "id": "battle_react_10710_1",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "Che accoglienza patetica!"
+    },
+    {
+      "id": "battle_react_10710_2",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "... Ti caverò quegli\nocchi spregevoli."
+    },
+    {
+      "id": "battle_react_10710_3",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "Ancora non capisci?\nTu... sei soltanto una preda!"
+    },
+    {
+      "id": "battle_react_10710_4",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "Sei proprio un cane randagio, eh?\nOh, non ti ricorda del giorno in cui\nho preso il tuo posto?! HAHAHAHA!"
+    },
+    {
+      "id": "battle_react_10710_5",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "Hmph, questi lavapiatti glorificati\nosano lanciarmi dei coltelli?"
+    },
+    {
+      "id": "battle_react_10710_6",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "Catherine...?! Sono io, Heathcliff...!\nAbbracciami, ti scongiuro!!!"
+    },
+    {
+      "id": "battle_react_10710_7",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "Non importa quale Heathcliff tu sia!\nAbbraccerò ogni Catherine come se fosse mia!!!"
+    },
+    {
+      "id": "battle_react_10310_10",
+      "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+      "dlg": "... E tu avresti rinunciato al sogno per la Famiglia?\nTu, che hai passato ogni secondo della tua vita\na inseguire quello stupido sogno...?"
+    },
+    {
+      "id": "battle_react_10310_11",
+      "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+      "dlg": "No... non è come mia sorella."
+    },
+    {
+      "id": "battle_react_10310_12",
+      "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+      "dlg": "Osi puntare quelle forbici verso una Parente di grado superiore?\nTi attende una punizione esemplare.\n... E suppongo che spetti anche a me..."
+    },
+    {
+      "id": "battle_react_10310_13",
+      "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+      "dlg": "Quelle ferite... quindi anche il Prete di questo mondo\nè tormentato dal senso di colpa."
+    },
+    {
+      "id": "battle_1137_FirstKill",
+      "desc": "말풍선 특수 대사_가치우_첫킬",
+      "dlg": "Mi aspetto che lottiate fino alla morte in questo\nscontro cruciale, per quanto vi sia reversibile."
+    },
+    {
+      "id": "8SV-015",
+      "desc": "가치우사용 시 대사 ",
+      "dlg": "Svelala."
+    },
+    {
+      "id": "8SV-016",
+      "desc": "가치우홍루 강제 타겟팅 1",
+      "dlg": "Deve pur essere lì, per quanto annebbiata."
+    },
+    {
+      "id": "8SV-017",
+      "desc": "가치우홍루 강제 타겟팅 2",
+      "dlg": "Vuoi lasciarla sepolta per sempre?"
+    },
+    {
+      "id": "8SV-018",
+      "desc": "가치우홍루 강제 타겟팅 합 패배",
+      "dlg": "Mostrami il tuo animo."
+    },
+    {
+      "id": "8SV-019",
+      "desc": "가치우홍루 강제 타겟팅 합 승리",
+      "dlg": "Quel doloroso nodo nel tuo cuore... è difficile scioglierlo."
+    },
+    {
+      "id": "8SV-020",
+      "desc": "가치우광역기 사용시",
+      "dlg": "È la presenza dei tuoi compagni che serra la tua lingua?\nAllora forse devono essere scossi...\naffinchè tu dica il vero."
+    },
+    {
+      "id": "8SV-021",
+      "desc": "가치우광역기  합 패배 후 다음턴",
+      "dlg": "Non temere il futile. Avrai tempo per quello, dopo che avrai detto ciò che pensi."
+    },
+    {
+      "id": "8SV-022",
+      "desc": "가치우대상 처치시",
+      "dlg": "Riposate... Finché l'orologio non girerà."
+    },
+    {
+      "id": "8SV-023",
+      "desc": "가치우묘 부리기",
+      "dlg": "Abbattili, Mao."
+    },
+    {
+      "id": "8SV-024",
+      "desc": "가치우자로 소환",
+      "dlg": "Vieni a me, Zilu."
+    },
+    {
+      "id": "8SV-025",
+      "desc": "뇌횡",
+      "dlg": "Huh... Niente male!\nSu di voi le munizioni non si sprecano, eh~?"
+    },
+    {
+      "id": "8SV-026",
+      "desc": "뇌횡사용 시: 탄환 충분 - 강력한 스킬",
+      "dlg": "Su con lo sguardo, ragazzi!\nNon vogliamo mica perdere la testa~?"
+    },
+    {
+      "id": "8SV-027",
+      "desc": "뇌횡사용 시: 탄환 부족 - 강력한 스킬",
+      "dlg": "Be', Come ve la passate? Fin qui tutto bene?"
+    },
+    {
+      "id": "8SV-028",
+      "desc": "뇌횡턴 시작 : 매우 강력한 스킬",
+      "dlg": "Sto per tirarvi una botta bella grossa!\nFate i bravi e rimanete in vita!"
+    },
+    {
+      "id": "8SV-029",
+      "desc": "뇌횡합 승리 : 매우 강력한 스킬",
+      "dlg": "Eccheccazzo, non ditemi\nche siete già stanchi~!"
+    },
+    {
+      "id": "8SV-030",
+      "desc": "뇌횡턴 시작 : [체력 n% 이하]에 버프 획득",
+      "dlg": "Ora si che si ragiona.\nMi sto solo scaldando!"
+    },
+    {
+      "id": "8SV-031",
+      "desc": "뇌횡사용 시 : [체력 n% 이하] 필살기(",
+      "dlg": "La caccia alle tigri non è adatta a chi non\nè pronto a farsi sbranare dalle loro fauci!"
+    },
+    {
+      "id": "8SV-032",
+      "desc": "뇌횡턴 시작 : [체력 n% 이하]에 버프 변경",
+      "dlg": "Mai lasciare una danza a metà.\nNon è così~?"
+    },
+    {
+      "id": "8SV-034",
+      "desc": "가환E.G.O 침식률 n 이상",
+      "dlg": "Non ho tempo da perdere con voi...\nInsetti schifosi. Mi fate salire il vomito."
+    },
+    {
+      "id": "8SV-035",
+      "desc": "가환홍루메인타겟",
+      "dlg": "Non far finta di essere cambiato.\nSei sempre stato così disgustoso... mi fai schifo!"
+    },
+    {
+      "id": "8SV-036",
+      "desc": "가환경멸나선모드",
+      "dlg": "... Anche questo è tra i poteri dell'E.G.O?"
+    },
+    {
+      "id": "8SV-037",
+      "desc": "가환광역기사용시",
+      "dlg": "Ammirate! Questo sprezzo...\nRicadrà su tutta la feccia!"
+    },
+    {
+      "id": "8SV-038",
+      "desc": "가환전투시작 : n인이상이 자신을 타겟",
+      "dlg": "Idiota."
+    },
+    {
+      "id": "8SV-039",
+      "desc": "구보E.G.O 침식률 10 이상",
+      "dlg": "Hai visto la primavera del passato coi tuoi stessi occhi.\nUn ricordo che raramente giunge persino ai miei."
+    },
+    {
+      "id": "8SV-040",
+      "desc": "구보난사 패턴 진입",
+      "dlg": "Non farti accecare dal passato.\nMi fai venir voglia di sparare a tutti quanti."
+    },
+    {
+      "id": "8SV-041",
+      "desc": "구보아군 살해 패턴 진입",
+      "dlg": "I sacrifici sono necessari\nse sono per la causa maggiore."
+    },
+    {
+      "id": "8SV-042",
+      "desc": "구보체력 n% 미만 / 경멸 나선 모드 감상",
+      "dlg": "... Fiuu. Ha funzionato."
+    },
+    {
+      "id": "8SV-051",
+      "desc": "가모사용 시 : 홍루 가두기",
+      "dlg": "Devi compiere il tuo dovere!"
+    },
+    {
+      "id": "8SV-052",
+      "desc": "가모사용 시 : 홍루 가두기 실패",
+      "dlg": "Come osi?!"
+    },
+    {
+      "id": "8SV-053",
+      "desc": "가모턴 시작 : 보옥 생성",
+      "dlg": "Oh, venerati Xianren! Shi Miyin ha riportato la gemma della famiglia!\nLa bella gemma che rifarà Hongyuan tutta splendida…!"
+    },
+    {
+      "id": "8SV-054",
+      "desc": "가모턴 시작 : 보옥 파괴",
+      "dlg": "Blasfemia!\nVoi estranei non avete il diritto di toccare il tesoro di Daguanyuan!"
+    },
+    {
+      "id": "8SV-055",
+      "desc": "가모사용 시 : 버프 받기",
+      "dlg": "Mi sostiene, vero?\nSapevo che era dalla mia parte, venerato verme Xianhuang!"
+    },
+    {
+      "id": "8SV-056",
+      "desc": "가모가마 체력 0",
+      "dlg": "NO!!!!!!"
+    },
+    {
+      "id": "8SV-057",
+      "desc": "가모사용 시 : 어르신 나무 소환",
+      "dlg": "Tutta la saggezza di Hongyuan...\nDammela! Dalla a Miyin...!"
+    },
+    {
+      "id": "8SV-058",
+      "desc": "가모사용 시 : 어르신 나무 흡수",
+      "dlg": "Diventate tutt'uno con l'immensa storia di Hongyuan!"
+    },
+    {
+      "id": "8SV-059",
+      "desc": "가모턴 시작 : 지고한 불사 흐트러짐 실패",
+      "dlg": "Siamo sfuggiti al giogo della morte...\nCosì, anche Hongyuan potrà brillare in eterno!"
+    },
+    {
+      "id": "8SV-060",
+      "desc": "가모턴 시작 : 지고한 불사 흐트러짐",
+      "dlg": "Ahh... Mi vergogno del mio fallimento..."
+    },
+    {
+      "id": "8SV-061",
+      "desc": "가모사용 시 : 강한 광역기",
+      "dlg": "Obbedisci!"
+    },
+    {
+      "id": "6SV-018-02",
+      "desc": "증오의 여왕 피격",
+      "dlg": "Ow...!"
+    },
+    {
+      "id": "6SV-019-003",
+      "desc": "증오의 여왕 타격",
+      "dlg": "Con Amore!"
+    },
+    {
+      "id": "6SV-019-004",
+      "desc": "증오의 여왕 타격",
+      "dlg": "In Nome della Giustizia!"
+    },
+    {
+      "id": "6SV-020-001",
+      "desc": "증오의 여왕 타격",
+      "dlg": "Battiti Arcani!"
+    },
+    {
+      "id": "6SV-020-001-01",
+      "desc": "증오의 여왕 타격",
+      "dlg": "Battiti Arcani~!"
+    },
+    {
+      "id": "6SV-020-002",
+      "desc": "증오의 여왕 타격",
+      "dlg": "Sparisci~"
+    },
+    {
+      "id": "6SV-021",
+      "desc": "증오의 여왕 첫 등장",
+      "dlg": "In nome dell'Amore e della Giustizia~ Arriva la Maghetta!"
+    },
+    {
+      "id": "6SV-022",
+      "desc": "절망의 기사 첫 흐트러짐 이후 검 소환 패턴에 진입했을 때",
+      "dlg": "E così sei stata consumata anche tu, senpai… Davvero questo ciclo non può essere fermato?"
+    },
+    {
+      "id": "6SV-023",
+      "desc": "아르카나 슬레이브 차징 시작 시",
+      "dlg": "Ascoltami, tu che sei più azzurro della giustizia e più rosso dell'amore…"
+    },
+    {
+      "id": "6SV-024",
+      "desc": "아르카나 슬레이브 차징 중",
+      "dlg": "In nome di coloro sepolti nel destino, faccio appello alla luce."
+    },
+    {
+      "id": "6SV-025",
+      "desc": "아르카나 슬레이브 차징 중",
+      "dlg": "Marchia questi esseri odiosi che si ergono di fronte a me;\nlascia che la tua forza si fonda con la mia,\ncosì da mostrare a tutti il potere dell'amore!"
+    },
+    {
+      "id": "6SV-026",
+      "desc": "아르카나 슬레이브 발사 스킬 사용",
+      "dlg": "<i>FULMINE ARCANO!</i>"
+    },
+    {
+      "id": "6SV-027",
+      "desc": "제압 완료 후 퇴각 대사",
+      "dlg": "Lo stavi... sopprimendo il più che potevi..."
+    },
+    {
+      "id": "6SV-028",
+      "desc": "완전 제압 X, 아르카나 슬레이브 발사 후",
+      "dlg": "Huff, puff, puff... Siamo... siamo riusciti a sconfiggerla?!"
+    },
+    {
+      "id": "6SV-029",
+      "desc": "빈사 퇴각",
+      "dlg": "Ho giurato che avrei... protetto tutti... fino alla fine…"
+    },
+    {
+      "id": "6SV-001_1",
+      "desc": "시간살인마 피격1",
+      "dlg": "Ahi, che male!"
+    },
+    {
+      "id": "6SV-001_2",
+      "desc": "시간살인마 피격2",
+      "dlg": "\"Non potevi schivarlo, idiota?!\""
+    },
+    {
+      "id": "6SV-001_3-03",
+      "desc": "시간살인마 피격4",
+      "dlg": "Oh!\n\"Diamine...\""
+    },
+    {
+      "id": "6SV-002_2",
+      "desc": "시간살인마 공격1",
+      "dlg": "Vi faremo a pezzi."
+    },
+    {
+      "id": "6SV-002_3",
+      "desc": "시간살인마 공격3",
+      "dlg": "Avreste comunque ammazzato quel tempo."
+    },
+    {
+      "id": "6SV-003_1",
+      "desc": "시간살인마 첫 등장",
+      "dlg": "Non possiamo strappargli il tempo...?\n\"Razza di idiota!\"\n\"Ci hanno fregati!\""
+    },
+    {
+      "id": "6SV-004_1",
+      "desc": "시간살인마 재 등장",
+      "dlg": "Prendiamo le ore morenti.\n\"Hai tutto questo tempo! Daccelo!\"\n\"Tagliamo 500... no, 2000 ore.\"\n\"Concentrati, scemo!\""
+    },
+    {
+      "id": "6SV-005_1",
+      "desc": "시간살인마 2페이즈",
+      "dlg": "\"Maledizione... Finiamola qui.\"\n\"Ci stai togliendo troppo tempo...!\"\nIl risultato varrà il costo. Calmati."
+    },
+    {
+      "id": "6SV-006_1",
+      "desc": "시간살인마 시간 살인 시간 사용전",
+      "dlg": "Non abbiamo altra scelta che usarlo.\n\"Fai attenzione che i calcoli siano giusti. Le stesse ore per tutti!\""
+    },
+    {
+      "id": "6SV-007",
+      "desc": "시간살인마 시간 살인 시간 사용",
+      "dlg": "Vi... squarteremo."
+    },
+    {
+      "id": "6SV-008",
+      "desc": "시간살인마 시간 살인 시간 사용후",
+      "dlg": "Zitti— Zitti! Stiamo litigando...! È una perdita di tempo!"
+    },
+    {
+      "id": "battle_react_noVoice_10613_1",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_사화정",
+      "dlg": "Non ho mai visto quel candidato... Hm, sembra che qualsiasi tipo di ciarlatano possa candidarsi a Gerarca in questo \"mondo specchio\"."
+    },
+    {
+      "id": "battle_react_noVoice_10613_2",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_왕청산",
+      "dlg": "Questo non è posto adatto per qualcosa insignificante come la famiglia. Tu, con le tue visioni vuote e immotivate, non sei la benvenuta a Hongyuan."
+    },
+    {
+      "id": "battle_react_noVoice_10613_3",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_사사정",
+      "dlg": "Sei un ignorante. Costringere gli altri a uccidersi per una causa maggiore farà nascere stolti che preferiscono sfidare la morte."
+    },
+    {
+      "id": "battle_react_noVoice_10613_4",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_설반",
+      "dlg": "Quella tua violenza è un talento naturale, nonostante il rancore che provi nei suoi confronti. Persino un vigliacco può diventare... un pazzo, quando le acque scorrono a suo sfavore."
+    },
+    {
+      "id": "battle_react_noVoice_10613_5",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_사이화",
+      "dlg": "Osservate lo sciocco, il giullare! Colui che si riempie di arie, nonostante i cieli siano a lui irraggiungibili."
+    },
+    {
+      "id": "battle_react_10613_6",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가모1페",
+      "dlg": "Ha... ha ha! Non mi stanco mai di uccidere questi vecchi demoni sedotti dall'immortalità!"
+    },
+    {
+      "id": "battle_react_10613_7",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가모2페",
+      "dlg": "Continua a rotolare nel fango, Shi Miyin... Non farà che alimentare la felicità, l'ira, la tristezza e la gioia che proverò mentre ti faccio a pezzi!"
+    },
+    {
+      "id": "battle_react_10613_8",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우1페",
+      "dlg": "Non pensavo che ti avrei mai rivisto a Hongyuan, fratello... Fuhu, quindi, in questo mondo, sei sopravvissuto. E stai anche creando il tuo cammino, proprio come me."
+    },
+    {
+      "id": "battle_react_10613_9",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우3페",
+      "dlg": "Fiuu... okay, va bene...\nIl Lord di Hongyuan ti concederà ascolto."
+    },
+    {
+      "id": "battle_react_10613_10",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가환",
+      "dlg": "Vendicare Jia Huan non dovrebbe influenzarti così tanto, no...? Quand'è che questa sceneggiata ha rimpiazzato il tuo patrocinio per il pragmatismo freddo e calcolatore di cui parlammo?"
+    },
+    {
+      "id": "battle_react_10613_701",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가모 보옥탈출",
+      "dlg": "Non ho mai permesso di farmi mettere in quella culla spregevole, e di certo non inizierò adesso! Non lo farò mai!"
+    },
+    {
+      "id": "battle_react_10613_901",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답1스택",
+      "dlg": "Interessante... Perché nessuno mi ha detto che si potessero tenere dialoghi così interessanti, in questo mondo?"
+    },
+    {
+      "id": "battle_react_10613_902",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답2스택",
+      "dlg": "Ritieni che educare su ciò che è giusto e umano possa ripulire anni di male passato? Il primo passaggio sembra esserti sfuggito: Estirpa il male alla radice. Solo allora ciò che è umano e giusto avrà alcun tipo di senso."
+    },
+    {
+      "id": "battle_react_10613_903",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답3스택",
+      "dlg": "Il male va estirpato alla radice senza pietà (除惡務盡 斬草除根).\nLa Via che ho scelto in quanto Lord è una strada che non ha bisogno dell'approvazione altrui. Dunque, fratello— no, Jia Qiu, questo dialogo ha raggiunto un punto di stallo."
+    },
+    {
+      "id": "battle_turn_start_10613_1",
+      "desc": "START OF LORD HONG LU | Lord Hong Lu - LeashHolder 2+",
+      "dlg": "Oh dodici bestie, rispondetemi! Vi ordino di uccidere tutto ciò che respira."
+    },
+    {
+      "id": "battle_s3-1_10613_1_1",
+      "desc": "Lord Hong Lu - S2",
+      "dlg": "Ti staccherò il collo personalmente."
+    },
+    {
+      "id": "battle_s3-2_10613_1_6-01",
+      "desc": "Lord Hong Lu - S3-1 Mao",
+      "dlg": "Manda la Lepre"
+    },
+    {
+      "id": "battle_s3-2_10613_1_8-01",
+      "desc": "Lord Hong Lu - S3-1 Si",
+      "dlg": "Perfora col Serpente."
+    },
+    {
+      "id": "battle_s3-2_10613_1_9-01",
+      "desc": "Lord Hong Lu - S3-1 Wu",
+      "dlg": "Intercetta col Cavallo."
+    },
+    {
+      "id": "battle_s3-2_10613_1_12-01",
+      "desc": "Lord Hong Lu - S3-1 You",
+      "dlg": "Avanti, Gallo."
+    },
+    {
+      "id": "battle_s3-2_10613_1_10-01",
+      "desc": "Lord Hong Lu - S3-1 Wei",
+      "dlg": "Disperdi la Capra."
+    },
+    {
+      "id": "battle_order_attack_10613_1",
+      "desc": "Lord Hong Lu - Order Heishou S1/S3",
+      "dlg": "Sbarazzati di quel parassita!"
+    },
+    {
+      "id": "battle_s3-2_10613_1_6",
+      "desc": "Lord Hong Lu - S3-2 Mao 1st",
+      "dlg": "Mao..."
+    },
+    {
+      "id": "battle_s3-2_10613_1_8",
+      "desc": "Lord Hong Lu - S3-2 Si 1st",
+      "dlg": "Si..."
+    },
+    {
+      "id": "battle_s3-2_10613_1_9",
+      "desc": "Lord Hong Lu - S3-2 Wu 1st",
+      "dlg": "Wu..."
+    },
+    {
+      "id": "battle_s3-2_10613_1_12",
+      "desc": "Lord Hong Lu - S3-2 You 1st",
+      "dlg": "You..."
+    },
+    {
+      "id": "battle_s3-2_10613_1_10",
+      "desc": "Lord Hong Lu - S3-2 Wei 1st",
+      "dlg": "Wei..."
+    },
+    {
+      "id": "battle_s3-2_10613_1_1",
+      "desc": "Lord Hong Lu - S3-2 Regular Heishou 2nd",
+      "dlg": "Apri la Via."
+    },
+    {
+      "id": "battle_s3-2_10613_1_2-02",
+      "desc": "Lord Hong Lu - S3-2 Adept Heishou 2nd",
+      "dlg": "<i>Apri la Via!</i>"
+    },
+    {
+      "id": "battle_s3-2_10613_1_6-02",
+      "desc": "Lord Hong Lu - Counter Mao",
+      "dlg": "Lepre..."
+    },
+    {
+      "id": "battle_s3-2_10613_1_8-02",
+      "desc": "Lord Hong Lu - Counter Si",
+      "dlg": "Serpente..."
+    },
+    {
+      "id": "battle_s3-2_10613_1_9-02",
+      "desc": "Lord Hong Lu - Counter Wu",
+      "dlg": "Cavallo..."
+    },
+    {
+      "id": "battle_s3-2_10613_1_12-02",
+      "desc": "Lord Hong Lu - Counter You",
+      "dlg": "Gallo..."
+    },
+    {
+      "id": "battle_s3-2_10613_1_10-02",
+      "desc": "Lord Hong Lu - Counter Wei",
+      "dlg": "Capra..."
+    },
+    {
+      "id": "battle_order_defense_10613_1",
+      "desc": "Lord Hong Lu - Heishou Lordsguard",
+      "dlg": "Ti ordino di proteggere Hongyuan."
+    },
+    {
+      "id": "battle_s2_10613_1_1",
+      "desc": "Lord Hong Lu - S3-2 Solo 1st",
+      "dlg": "Lascia che ti mostri..."
+    },
+    {
+      "id": "battle_s2_10613_1_5",
+      "desc": "Lord Hong Lu - S3-2 Solo 2nd",
+      "dlg": "Come espurgai Daguanyuan."
+    },
+    {
+      "id": "battle_nonedead_10613_1",
+      "desc": "Lord Hong Lu - Tainted Blood Resist 1",
+      "dlg": "Non mi inchinerò... dinnanzi a questo sangue corrotto!"
+    },
+    {
+      "id": "battle_nonedead_10613_1-01",
+      "desc": "Lord Hong Lu- Tainted Blood Resist 2",
+      "dlg": "Non importa quanto corrotto il mio sangue diventi, Il Lord non morirà."
+    },
+    {
+      "id": "battle_undead_10613_1",
+      "desc": "Lord Hong Lu - Resist Fatal 1",
+      "dlg": "Il Lord non morirà."
+    },
+    {
+      "id": "battle_undead_10613_1-01",
+      "desc": "Lord Hong Lu - Resist Fatal 2",
+      "dlg": "Sfuggirò alla morte... Ancora e ancora...\nFinché non raggiungerò il mio obiettivo!"
+    },
+    {
+      "id": "battle_turn_end_10613_1",
+      "desc": "Lord Hong Lu - Heishou Retreat",
+      "dlg": "Vattene.\nLa tua vita mi è ancora utile."
+    },
+    {
+      "id": "battle_noneready_10613_1",
+      "desc": "Lord Hong Lu - Heishou Retreat Fail 1",
+      "dlg": "Un'ultima mossa disperata."
+    },
+    {
+      "id": "battle_noneready_10613_1-01",
+      "desc": "Lord Hong Lu - Heishou Retrat Fail 2",
+      "dlg": "Finché c'è un nemico da abbattere, tu resti qui."
+    },
+    {
+      "id": "battle_return_10613_1",
+      "desc": "Lord Hong Lu - Ally Substitute/Return",
+      "dlg": "Fai a pezzi il nemico. Mostrami il tuo valore."
+    },
+    {
+      "id": "battle_s3_10212_1_2",
+      "desc": "Adept Mao Faust - S3",
+      "dlg": "Farò breccia nelle loro debolezze."
+    },
+    {
+      "id": "battle_s3_10212_1_2-01",
+      "desc": "Adept Mao Faust - S3 Coin Reuse",
+      "dlg": "Farò breccia nelle loro debolezze.\nImmediatamente."
+    },
+    {
+      "id": "battle_s3_10411_1_4-04",
+      "desc": "Mao Ryoshu - S3",
+      "dlg": "Gli toglierò il fiato."
+    },
+    {
+      "id": "battle_s3_11112_1_3-01",
+      "desc": "Mao Outis - S3 Reuse",
+      "dlg": "Sprofonda nelle ombre."
+    },
+    {
+      "id": "battle_s3_11212_1_3",
+      "desc": "Si Gregor - S3",
+      "dlg": "Ho l'impressione che tu ti sia perso."
+    },
+    {
+      "id": "battle_s3_10912_1_3",
+      "desc": "Si Rodion - S3",
+      "dlg": "Da qui ti prendo benissimo...\nPurtroppo, lo stesso non vale per te!"
+    },
+    {
+      "id": "battle_s3_11014_1_6-02",
+      "desc": "You Sinclair - S3 1",
+      "dlg": "La Lama Sanguifiamma arde!"
+    },
+    {
+      "id": "battle_s3_11014_1_5",
+      "desc": "You Sinclair - S3 2",
+      "dlg": "Sì!"
+    },
+    {
+      "id": "battle_s3_11014_1_7-01",
+      "desc": "You Sinclair - S3 3",
+      "dlg": "Sì, sì, sì! Haha!"
+    },
+    {
+      "id": "battle_s3_11014_1_3",
+      "desc": "You Sinclair - S3 4",
+      "dlg": "Senza pietà!"
+    },
+    {
+      "id": "battle_s3_11014_1_4-01",
+      "desc": "You Sinclair - Clash Counter",
+      "dlg": "La Lama Sanguifiamma arde."
+    },
+    {
+      "id": "battle_special_10114_1",
+      "desc": "Wu Yisang - Candidate Ishmael Interaction",
+      "dlg": "Ah, sono Yi Sang.\nNonostante il mio aspetto non sia ideale, sono sempre io, Yi Sang.\nIl sorvegliante che aiutò la signorina a inseguire i propri ideali, Yi Sang."
+    },
+    {
+      "id": "battle_s3_10114_1_1",
+      "desc": "Wu Yisang - S3-1 1",
+      "dlg": "Superane uno, superane due."
+    },
+    {
+      "id": "battle_s3_10114_1_3",
+      "desc": "Wu Yisang - S3-1 3",
+      "dlg": "Superali tutti e spazzali via!"
+    },
+    {
+      "id": "battle_s3_10114_1_1-01",
+      "desc": "Wu Yisang - S3-2 1",
+      "dlg": "Superane uno, superane tre."
+    },
+    {
+      "id": "battle_s3_10114_1_3-01",
+      "desc": "Wu Yisang - S3-2 3",
+      "dlg": "Superane molti altri."
+    },
+    {
+      "id": "battle_s3_10114_1_4",
+      "desc": "Wu Yisang - S3-2 4",
+      "dlg": "Superali tutti e spazzali via senza alcun ritegno!"
+    },
+    {
+      "id": "battle_special_10114_2",
+      "desc": "Wu Yisang - Candidate Ishmale Assist",
+      "dlg": "Corra, signorina.\nLei, tra tutti, dovrebbe riuscirci senza problemi."
+    },
+    {
+      "id": "battle_special_10114_3",
+      "desc": "Wu Yisang - Strider Wu Gain Turn End",
+      "dlg": "Ho sopportato di tutto."
+    },
+    {
+      "id": "battle_special_10114_4",
+      "desc": "Wu Yisang - Strider Wu Gain Turn Start",
+      "dlg": "Cancello dopo cancello... Li supererò tutti, dal primo all'ultimo!"
+    },
+    {
+      "id": "battle_s3_10512_1_2-02",
+      "desc": "LEI SAULT START | Leu Sault - S3 w/ ammo",
+      "dlg": "Scarica totale!"
+    },
+    {
+      "id": "battle_s3_10512_1_2-03",
+      "desc": "Lei Sault - S3 w/o ammo",
+      "dlg": "Scarica totale."
+    },
+    {
+      "id": "battle_s4_10512_2",
+      "desc": "Lei Sault - Enhanced S3 Start",
+      "dlg": "Ti colpirò con tutta la mia forza."
+    },
+    {
+      "id": "battle_s3_10512_1_2-01",
+      "desc": "Lei Sault - Enhanced S3",
+      "dlg": "Scarica totale!"
+    },
+    {
+      "id": "battle_s4_10512_1",
+      "desc": "Lei Sault - Reload",
+      "dlg": "Vedo che il costo delle munizioni non è stato vano."
+    },
+    {
+      "id": "battle_s2_11113_1_2",
+      "desc": "TCORP OUTIS START | TCorp Outis - S2 w/o time moratorium",
+      "dlg": "Accelerazione."
+    },
+    {
+      "id": "battle_s2_11113_1_2-01",
+      "desc": "TCorp Outis - S2 w/ time moratorium",
+      "dlg": "Accelerazione."
+    },
+    {
+      "id": "battle_s3_11113_1_1",
+      "desc": "TCorp Outis - S3 Start",
+      "dlg": "Attivazione massima..."
+    },
+    {
+      "id": "battle_s3_11113_1_2",
+      "desc": "TCorp Outis - S3 End",
+      "dlg": "Esecuzione!"
+    },
+    {
+      "id": "battle_s0_10309_1",
+      "desc": "TCORP DON START | TCorp Don - Guard",
+      "dlg": "Impongo la riscossione del tempo."
+    },
+    {
+      "id": "battle_s3_10309_1_3-02",
+      "desc": "TCorp Don - S3 Accelerated",
+      "dlg": "... Accelerazione!"
+    },
+    {
+      "id": "battle_s3_10810_1_4-01",
+      "desc": "ZWEI ISH START | Zwei Ish - S3",
+      "dlg": "La miglior difesa!"
+    },
+    {
+      "id": "battle_g3_10810_1-02",
+      "desc": "Zwei Ish - Guard",
+      "dlg": "Blocco dello spadone."
+    },
+    {
+      "id": "battle_s4_11010_3-02",
+      "desc": "Zwei Sinclair - Guard",
+      "dlg": "Blocco... Dello spadone!"
+    },
+    {
+      "id": "battle_s3_11013_1_1",
+      "desc": "SOLDATO SINCLAIR START | Soldato Sinclair - S3",
+      "dlg": "Propulsione... Fuoco!"
+    },
+    {
+      "id": "battle_s0_11013_1",
+      "desc": "Soldato Sinclair - Ammo Supply Passive",
+      "dlg": "Prenda! Munizioni di scorta."
+    },
+    {
+      "id": "battle_s3_10207_1_4-01",
+      "desc": "Lobotomy EGO Regret Faust - S3 Kill",
+      "dlg": "Soppressione Completata."
+    },
+    {
+      "id": "battle_s3_10609_1_3_4",
+      "desc": "District 20 Yurodivy Hong Lu - S3",
+      "dlg": "Può fare anche questo..."
+    },
+    {
+      "id": "battle_s3_11205_1_1-01",
+      "desc": "Rospanner Greg - S3",
+      "dlg": "Evvai~!"
+    },
+    {
+      "id": "battle_s3_10104_1_4",
+      "desc": "Spicebush Yisang - S3",
+      "dlg": "Sboccia."
+    },
+    {
+      "id": "battle_s3_10106_1_3",
+      "desc": "WCorp Yisang - S3",
+      "dlg": "In un istante."
+    },
+    {
+      "id": "battle_s3_10109_1_4-7",
+      "desc": "Ring Yisang - S3",
+      "dlg": "Sufficiente."
+    },
+    {
+      "id": "battle_s3_10110_1_txt",
+      "desc": "Lament Yisang - S3",
+      "dlg": "Riposa in Pace."
+    },
+    {
+      "id": "battle_s3_10112_1_1-03",
+      "desc": "LIU YISANG START | Liu Yisang - S3 1",
+      "dlg": "E infine..."
+    },
+    {
+      "id": "battle_s3_10112_1_3-02",
+      "desc": "Liu Yisang - S3 2",
+      "dlg": "Verranno inceneriti tutti...!"
+    },
+    {
+      "id": "battle_s3_10113_1_3",
+      "desc": "Fell Yisang - S3",
+      "dlg": "Sparerò e ti trafiggerò così come sei."
+    },
+    {
+      "id": "battle_s3_10204_1_2",
+      "desc": "Grip Faust - S3",
+      "dlg": "Ti riempio di buchi...!"
+    },
+    {
+      "id": "battle_s3_10206_1_1",
+      "desc": "SEVEN FAUST START | Seven Faust - S3 1",
+      "dlg": "L'osservazione..."
+    },
+    {
+      "id": "battle_s3_10206_1_2",
+      "desc": "Seven Faust - S3 2",
+      "dlg": "È giunta al termine."
+    },
+    {
+      "id": "battle_s3_10208_1_1",
+      "desc": "BL FAUST START| BL Faust - S3 1",
+      "dlg": "Alcuni sbocciano."
+    },
+    {
+      "id": "battle_s3_10208_1_3",
+      "desc": "BL Faust - S3 2",
+      "dlg": "Altri appassiscono."
+    },
+    {
+      "id": "battle_s3_10210_1_txt",
+      "desc": "Multicrack Faust - S3",
+      "dlg": "Output Massimo."
+    },
+    {
+      "id": "battle_s3_10305_1_3",
+      "desc": "Cinq South Don - S3",
+      "dlg": "Prenditi una pausa."
+    },
+    {
+      "id": "battle_s3_10306_1_1",
+      "desc": "Middle Don - S3 Kill",
+      "dlg": "Toglietelo dal libro."
+    },
+    {
+      "id": "battle_s3_10311_1_3",
+      "desc": "Cinq East Don - S3",
+      "dlg": "Conclusione!"
+    },
+    {
+      "id": "battle_s2_10312_1_2-02",
+      "desc": "QUEEN DON START | Queen Don - S2 1",
+      "dlg": "Con amore!"
+    },
+    {
+      "id": "battle_s2_10312_1_3",
+      "desc": "Queen Don - S2 2",
+      "dlg": "Nel nome della giustizia!"
+    },
+    {
+      "id": "battle_s3_10312_1_4",
+      "desc": "Queen Don - S3 Beats",
+      "dlg": "Battiti Arcani!"
+    },
+    {
+      "id": "battle_s3_10312_1_3",
+      "desc": "Queen Don - S3 Slave",
+      "dlg": "<i>FULMINE ARCANO!!</i>"
+    },
+    {
+      "id": "become_hysterical_10312_1",
+      "desc": "Queen Don - Hysteria",
+      "dlg": "Perdonatemi... Questo fallimento...\ncade su di me... nella sua interezza..."
+    },
+    {
+      "id": "battle_s2_hysteric_10312_1_2",
+      "desc": "Queen Don - S2 Hysteria",
+      "dlg": "Amore e Giustizia... Hah."
+    },
+    {
+      "id": "battle_s3_hysteric_10312_1_4",
+      "desc": "Queen Don - S3 Beats Hysteria",
+      "dlg": "Haah... Battiti Arcani."
+    },
+    {
+      "id": "battle_s3_hysteric_10312_1_3-02",
+      "desc": "Queen Don - S3 Slave Hysteria",
+      "dlg": "Sparisci...! Agh, nngh..."
+    },
+    {
+      "id": "came_out_of_hysterical_10312_1",
+      "desc": "Queen Don - Hysteria Recovery",
+      "dlg": "... Oh? Cosa fu trasparito?"
+    },
+    {
+      "id": "battle_s3_10402_1",
+      "desc": "Seven Ryoshu - S3",
+      "dlg": "Ti farò a pezzi."
+    },
+    {
+      "id": "battle_s2_10403_1_2",
+      "desc": "Korokumo Ryoshu - S2",
+      "dlg": "È finita."
+    },
+    {
+      "id": "battle_s3_10404_1_1",
+      "desc": "Chef Ryoshu - S3",
+      "dlg": "G.U.S.T.A.R.E.\n(sei una Ghiottoneria Unica e Straordinaria da Tagliare A Rombi Equiformi.)"
+    },
+    {
+      "id": "battle_s3_10408_1_1_4",
+      "desc": "Maid Ryoshu - S3 Kill",
+      "dlg": "Ti aiuterò a riposare in eterno."
+    },
+    {
+      "id": "battle_s3_10410_1_txt",
+      "desc": "RED EYES PENITENCE RYOSHU START | Red Eyes Penitence Ryoshu - S3-1",
+      "dlg": "Mangiatelo tutto!"
+    },
+    {
+      "id": "battle_s3_10410_1_txt-01",
+      "desc": "Red Eyes Penitence Ryoshu - S3-2",
+      "dlg": "Faccia di Teschio, Testa di Ragno! Adesso!"
+    },
+    {
+      "id": "battle_s3_10504_1_2",
+      "desc": "NCorp Meur - S3",
+      "dlg": "Silenzio."
+    },
+    {
+      "id": "battle_s3_10506_1_1",
+      "desc": "RCorp Meur - S3",
+      "dlg": "Vi trapasserò!"
+    },
+    {
+      "id": "battle_s3_10508_1_1-01",
+      "desc": "BL MEUR START | BL Meur - S3-1",
+      "dlg": "Cedo la carne!"
+    },
+    {
+      "id": "battle_s3_10508_1_1-02",
+      "desc": "BL Meur - S3-2 Start",
+      "dlg": "Cedo la carne..."
+    },
+    {
+      "id": "battle_s3_10508_1_4",
+      "desc": "BL Meur - S3-2 End",
+      "dlg": "Per strappare le ossa!"
+    },
+    {
+      "id": "battle_s3_10508_1_4-03",
+      "desc": "BL Meur - S3-2 Premature Kill",
+      "dlg": "Per strappare le ossa."
+    },
+    {
+      "id": "battle_s3_10510_1",
+      "desc": "Dieci Meur - S3",
+      "dlg": "Sii umile... in presenza della cultura!"
+    },
+    {
+      "id": "battle_s3_10511_1_1",
+      "desc": "Cinq Meur - S3",
+      "dlg": "È il momento decisivo."
+    },
+    {
+      "id": "battle_s2_10603_1_3",
+      "desc": "TingTang Hong Lu - S2",
+      "dlg": "È divertentissimo~"
+    },
+    {
+      "id": "battle_s3_10608_1_1-01",
+      "desc": "DIECI HONG LU START | Dieci Hong Lu - S3 Start",
+      "dlg": "Ecco qua!"
+    },
+    {
+      "id": "battle_s3_10608_1_3",
+      "desc": "Dieci Hong Lu - S3 End",
+      "dlg": "Te lo apro io~"
+    },
+    {
+      "id": "battle_s3_10611_1-01",
+      "desc": "FULLSTOP HONG LU START | Fullstop Hong Lu - S3 Start",
+      "dlg": "Punto e Basta..."
+    },
+    {
+      "id": "battle_s3_10611_1-02-1",
+      "desc": "Fullstop Hong Lu - S3 End",
+      "dlg": "Alla vita!"
+    },
+    {
+      "id": "battle_s3_10611_1-01-1",
+      "desc": "Fullstop Hong Lu - S3 End",
+      "dlg": "Alla vita."
+    },
+    {
+      "id": "battle_special_10611_2_2",
+      "desc": "Fullstop Hong Lu - S2 Combo",
+      "dlg": "Occupati di loro.\n<i>/// Okay, li vedo. ///</i>"
+    },
+    {
+      "id": "battle_special_10611_2_1-01",
+      "desc": "Fullstop Hong Lu - S3 Combo",
+      "dlg": "Finisci il lavoro.\n<i>/// Okay, li vedo. ///</i>"
+    },
+    {
+      "id": "battle_special_10611_1_1",
+      "desc": "Fullstop Hong Lu - Target Spotted 1",
+      "dlg": "Adesso, Heathcliff!"
+    },
+    {
+      "id": "battle_special_10611_1_2",
+      "desc": "Fullstop Hong Lu - Target Spotted 2",
+      "dlg": "Via libera."
+    },
+    {
+      "id": "battle_special_10611_1_3",
+      "desc": "Fullstop Hong Lu - Target Spotted 3",
+      "dlg": "Da qui ci arrivi?"
+    },
+    {
+      "id": "battle_special_10611_3",
+      "desc": "Fullstop Hong Lu - Defense Assist 1",
+      "dlg": "Tranquillo, ci penso io~"
+    },
+    {
+      "id": "battle_special_10611_3-01",
+      "desc": "Fullstop Hong Lu - Defense Assist 2",
+      "dlg": "Tranquillo, ci penso io~"
+    },
+    {
+      "id": "battle_s3_10612_1",
+      "desc": "RCorp Hong Lu - S3",
+      "dlg": "Urgh...\nSe non vuoi farti male, allora SPOSTATI!!"
+    },
+    {
+      "id": "battle_s3_10705_1_1",
+      "desc": "Peakcliff - S3",
+      "dlg": "Smamma!"
+    },
+    {
+      "id": "battle_s3_10707_1",
+      "desc": "Harpooner Heathcliff - S3 Kill",
+      "dlg": "Cuore, Fermo."
+    },
+    {
+      "id": "battle_s3_10708_1_1",
+      "desc": "Oufi Heathcliff - S3",
+      "dlg": "Questo è un legittimo ricorso alla forza da parte della Öufi."
+    },
+    {
+      "id": "battle_s2_10710_1_1_txt-01",
+      "desc": "WILD HUNT START | Wild Hunt - S2",
+      "dlg": "Ti farò a pezzi."
+    },
+    {
+      "id": "battle_s2_10710_ride_1",
+      "desc": "Wild Hunt - S2 Horse",
+      "dlg": "Falli a pezzi, Oh Dullahan!"
+    },
+    {
+      "id": "battle_s3_10710_1_1_txt",
+      "desc": "Wild Hunt - S3 Heads",
+      "dlg": "Ti seppellirò nei tuoi rimpianti!"
+    },
+    {
+      "id": "battle_s3_10710_1_1_txt-01",
+      "desc": "Wild Hunt - S3 Tails",
+      "dlg": "Ti seppellirò nei tuoi rimpianti."
+    },
+    {
+      "id": "battle_s3_10710_ride_4",
+      "desc": "Wild Hunt - S3 Horse Tails",
+      "dlg": "<i>CHE LA TEMPESTA TI DIVORI!!</i>"
+    },
+    {
+      "id": "battle_s3_10710_ride_1",
+      "desc": "Wild Hunt - S3 Horse Heads",
+      "dlg": "Che la tempesta... ti divori."
+    },
+    {
+      "id": "battle_s3_10710_large_1",
+      "desc": "Wild Hunt - S3 Large",
+      "dlg": "Ti seppellirò di rimpianti, anche se non riesco a prenderti!"
+    },
+    {
+      "id": "battle_add_10710_1",
+      "desc": "Wild Hunt - Horse Mount",
+      "dlg": "Al galoppo, Dullahan! Correremo fino alla nostra morte."
+    },
+    {
+      "id": "battle_s3_10710_down_1",
+      "desc": "Wild Hunt - Horse Unmount",
+      "dlg": "Di nuovo solo... Devo sempre fare tutto io?"
+    },
+    {
+      "id": "battle_add_10710_2",
+      "desc": "Wild Hunt - Revive",
+      "dlg": "Non vi sarà alcun riposo per te."
+    },
+    {
+      "id": "battle_add_10710_3",
+      "desc": "Wild Hunt - Revive Wuthering",
+      "dlg": "Sento il tuo rancore... quindi piangi, piangi più che puoi!\nPiangi finché la tempesta non prenderà anche te!"
+    },
+    {
+      "id": "battle_s3_10711_1_1",
+      "desc": "FULLSTOP HEATHCLIFF START | Fullstop Heathcliff - ",
+      "dlg": "Punto al centro."
+    },
+    {
+      "id": "battle_special_10711_1_1",
+      "desc": "Fullstop Heathcliff - Target Spotted 1",
+      "dlg": "Via libera... Fuoco."
+    },
+    {
+      "id": "battle_special_10711_1_2",
+      "desc": "Fullstop Heathcliff - Target Spotted 2",
+      "dlg": "Hong Lu, arrivano i rinforzi."
+    },
+    {
+      "id": "battle_special_10711_3_1-01",
+      "desc": "Fullstop Heathcliff - Melee Support 1",
+      "dlg": "Coprimi le spalle!"
+    },
+    {
+      "id": "battle_special_10711_3_2",
+      "desc": "Fullstop Heathcliff - Melee Support 2",
+      "dlg": "Pensaci tu, Hong Lu!"
+    },
+    {
+      "id": "battle_special_10711_4_1",
+      "desc": "Fullstop Heathcliff - Retreat",
+      "dlg": "Tsk. Io vado..."
+    },
+    {
+      "id": "battle_special_10711_5_1",
+      "desc": "Fullstop Heathcliff - Return 1",
+      "dlg": "Ok... Ricarica effettuata."
+    },
+    {
+      "id": "battle_special_10711_5_2",
+      "desc": "Fullstop Heathcliff - Return 2",
+      "dlg": "Riposizionamento effettuato."
+    },
+    {
+      "id": "battle_s3_10712_1_4",
+      "desc": "KOROKUMO HEATHCLIFF START | Korokumo Heathcliff - S3",
+      "dlg": "Hai il collo esposto!"
+    },
+    {
+      "id": "battle_special_10712_1",
+      "desc": "Korokumo Heathcliff - S1 Assist",
+      "dlg": "Osi colpire uno dei nostri?!"
+    },
+    {
+      "id": "battle_special_10712_2",
+      "desc": "Korokumo Heathcliff - S3 Assist",
+      "dlg": "Hah... questi stronzi hanno proprio voglia di morire!"
+    },
+    {
+      "id": "battle_s2_10804_1",
+      "desc": "LCCB ISHMAEL START | LCCB Ishmael - S2",
+      "dlg": "Bersaglio confermato."
+    },
+    {
+      "id": "battle_s3_10804_1_2",
+      "desc": "LCCB Ishmael - S3",
+      "dlg": "Uccisione confermata."
+    },
+    {
+      "id": "battle_s3_10806_1_5",
+      "desc": "Liu Ishmael - S3 Stagger/Kill",
+      "dlg": "Hmph, sono piena di cenere."
+    },
+    {
+      "id": "battle_s3_10807_1_2",
+      "desc": "Molar Ishmael - S3",
+      "dlg": "Fatti schiacciare!"
+    },
+    {
+      "id": "battle_special_10808_1-03",
+      "desc": "CAPTAIN ISHMAEL START | Captain Ishmael - S2 Assist Attack",
+      "dlg": "Rintracciali e colpisci!"
+    },
+    {
+      "id": "battle_special_10808_2",
+      "desc": "Captain Ishmael - S1 Aggro Application",
+      "dlg": "Marinai! Proteggetemi."
+    },
+    {
+      "id": "battle_s3_10808_1_1-01",
+      "desc": "Captain Ishmael - S3 1",
+      "dlg": "Questo arpione...!"
+    },
+    {
+      "id": "battle_s3_10808_1_2",
+      "desc": "Captain Ishmael - S3 2",
+      "dlg": "È colmo di ossessione!"
+    },
+    {
+      "id": "battle_s3_10808_1_3-01",
+      "desc": "Captain Ishmael - S3 3",
+      "dlg": "Heh. Fino all'orlo."
+    },
+    {
+      "id": "battle_s3_10808_1_2-01",
+      "desc": "Captain Ishmael - S3 2 Alt",
+      "dlg": "È colmo di ossessione."
+    },
+    {
+      "id": "battle_s3_10808_1_3-01",
+      "desc": "Captain Ishmael - S3 3 Alt 1",
+      "dlg": "Fino all'orlo."
+    },
+    {
+      "id": "battle_s3_10808_1_3",
+      "desc": "Captain Ishmael - S3 3 Alt 2",
+      "dlg": "Fino all'orlo—"
+    },
+    {
+      "id": "battle_enemy_break_special_10808_1",
+      "desc": "Captain Ishmael - S3 Kills/Staggers",
+      "dlg": "VEDETE?! Il nemico è stato fatto a pezzi...\nLa nostra vittoria è più che assicurata!"
+    },
+    {
+      "id": "battle_s3_10811_1_1-01",
+      "desc": "KOROKUMO ISHMAEL START | Korokumo Ishmael - S3 1",
+      "dlg": "Quarta forma..."
+    },
+    {
+      "id": "battle_s3_10811_1_3-02",
+      "desc": "Korokumo Ishmael - S3 2",
+      "dlg": "Pittura a Inchiostro."
+    },
+    {
+      "id": "battle_special_10811_1",
+      "desc": "Korokumo Ishmael - Dark Cloud",
+      "dlg": "Andate a combattere.\nIo penserò alle retrovie."
+    },
+    {
+      "id": "battle_s3_10812_1_001",
+      "desc": "CANDIDATE ISHMAEL START | Candidate Ishmael - S3 1",
+      "dlg": "Una vita così flebile..."
+    },
+    {
+      "id": "battle_s3_10812_1_003",
+      "desc": "Candidate Ishmael - S3 2",
+      "dlg": "Spenta come una candela."
+    },
+    {
+      "id": "battle_s3_10903_1_2",
+      "desc": "LCCB Rodion - S3",
+      "dlg": "Spacca!"
+    },
+    {
+      "id": "battle_s3_10905_1_2",
+      "desc": "Rosepanner Rodion - S3",
+      "dlg": "E fatti prendere...!"
+    },
+    {
+      "id": "battle_s3_10907_1_1",
+      "desc": "Dieci Rodion - S3",
+      "dlg": "Hai capito?"
+    },
+    {
+      "id": "battle_s3_10908_1_2",
+      "desc": "Liu Rodion - S3 Kill",
+      "dlg": "Non realizzerai nemmeno che sei stato perforato, no?"
+    },
+    {
+      "id": "battle_s3_10911_1_6",
+      "desc": "Princess Rodion - Enhanced S3",
+      "dlg": "Che il finale abbia inizio."
+    },
+    {
+      "id": "battle_s2_10913_1_1",
+      "desc": "KNIGHT RODION START | Knight Rodion - S2 Regular",
+      "dlg": "Per proteggerli..."
+    },
+    {
+      "id": "battle_s2_10913_1_1-01",
+      "desc": "Knight Rodion - S2 Alt",
+      "dlg": "Per proteggerli...!"
+    },
+    {
+      "id": "battle_s3_10913_1_1",
+      "desc": "Knight Rodion - S3 1",
+      "dlg": "Allora..."
+    },
+    {
+      "id": "battle_s3_10913_1_3",
+      "desc": "Knight Rodion - S3 2",
+      "dlg": "Che non rimanga più niente."
+    },
+    {
+      "id": "battle_s2_11004_1_1",
+      "desc": "Mariachi Sinclair - S2",
+      "dlg": "Sù, sù!"
+    },
+    {
+      "id": "battle_s3_11005_1_1",
+      "desc": "NCORP SINCLAIR START | NCorp Sinclair - S3 1",
+      "dlg": "Quelle porcherie..."
+    },
+    {
+      "id": "battle_s3_11005_1_2",
+      "desc": "Ncorp Sinclair - S3 2 Tails",
+      "dlg": "Le espurgherò io!"
+    },
+    {
+      "id": "battle_s3_11005_1_2_Back",
+      "desc": "NCorp Sinclair - S3 2 Heads",
+      "dlg": "Le espurgherò io."
+    },
+    {
+      "id": "battle_s3_11006_1_2-03",
+      "desc": "Talisman Sinclair - S3",
+      "dlg": "Così!"
+    },
+    {
+      "id": "battle_s3_11008_1-02",
+      "desc": "Cinq Sinclair - S3",
+      "dlg": "Io... l'ho raggiunto."
+    },
+    {
+      "id": "battle_s3_11009_1_1",
+      "desc": "DAWN SINCLAIR START | Dawn Sinclair - S3 1",
+      "dlg": "Ti stigmatizzerò..."
+    },
+    {
+      "id": "battle_s3_11009_1_2",
+      "desc": "Dawn Sinclair - S3 2",
+      "dlg": "Con le mie stesse mani!"
+    },
+    {
+      "id": "battle_s3_11009_2_1",
+      "desc": "Dawn Sinclair - Enhanced S3 1",
+      "dlg": "Questa passione..."
+    },
+    {
+      "id": "battle_s3_11009_2_2",
+      "desc": "Dawn Sinclair - Enhanced S3 2",
+      "dlg": "Ti brucerà."
+    },
+    {
+      "id": "battle_special_11009_2",
+      "desc": "Dawn Sinclair - Ego Transformation",
+      "dlg": "Stavolta... Porrò fine a tutto questo!"
+    },
+    {
+      "id": "battle_special_11009_1",
+      "desc": "Dawn Sinclair - Ally Death Ego Transformation",
+      "dlg": "Se la tristezza è il mio stigma indelebile, allora...\nMi rialzerò al suo fianco!"
+    },
+    {
+      "id": "battle_s3_11012_1_3-02",
+      "desc": "Middle Sinclair - S3",
+      "dlg": "Ti fa male?"
+    },
+    {
+      "id": "battle_s2_11103_1",
+      "desc": "GCorp Outis - S1",
+      "dlg": "Attaccate!!"
+    },
+    {
+      "id": "battle_s3_11104_1",
+      "desc": "SEVEN OUTIS START | Seven Outis - S3 1",
+      "dlg": "Proprio come previsto."
+    },
+    {
+      "id": "battle_s3_11104_1-01",
+      "desc": "Seven Outis - S3 2",
+      "dlg": "Proprio come previsto."
+    },
+    {
+      "id": "battle_s2_11107_1_1-01",
+      "desc": "BULLET OUTIS START | Bullet Outis - S2",
+      "dlg": "Proiettile in canna..."
+    },
+    {
+      "id": "battle_s3_11107_1_2",
+      "desc": "Bullet Outis - S3 <4 Magic Bullet",
+      "dlg": "Fuoco."
+    },
+    {
+      "id": "battle_s3_11107_1_2-02",
+      "desc": "Bullet Outis - S3 >4 Magic Bullet",
+      "dlg": "Fuoco!"
+    },
+    {
+      "id": "battle_s3_11109_1_2-01",
+      "desc": "Ring Outis - S3",
+      "dlg": "Niente male."
+    },
+    {
+      "id": "battle_s3_11109_1_2-02",
+      "desc": "Ring Outis - S3 Kill",
+      "dlg": "Niente male."
+    },
+    {
+      "id": "battle_s3_11110_1_4",
+      "desc": "WCorp Outis - S3",
+      "dlg": "Strappo Dimensionale!"
+    },
+    {
+      "id": "battle_s3_11111_1_1-01",
+      "desc": "Barber Outis - S3",
+      "dlg": "Attendi con ansia."
+    },
+    {
+      "id": "battle_s3_11111_1_1-03",
+      "desc": "Barger Outis - S3 Alt",
+      "dlg": "Attendi con ansia."
+    },
+    {
+      "id": "battle_s3_11206_1_1_03_1",
+      "desc": "Zwei Gregor - S3",
+      "dlg": "Basta così!"
+    },
+    {
+      "id": "battle_s3_11207_1_01",
+      "desc": "Pirate Gregor - S3",
+      "dlg": "Ti spiace se mi prendo un braccio~?"
+    },
+    {
+      "id": "battle_s3_11209_1",
+      "desc": "HEIR GREGOR START | Heir Gregor - S3 1",
+      "dlg": "Questo deve essere..."
+    },
+    {
+      "id": "battle_s3_11209_2",
+      "desc": "HEIR GREGOR START | Heir Gregor - S3 2",
+      "dlg": "Il tuo punto debole!"
+    },
+    {
+      "id": "battle_s3_11210_1",
+      "desc": "PRIEST GREGOR START | Priest Gregor S-3 1",
+      "dlg": "Ungh... Sangue... Sangue!"
+    },
+    {
+      "id": "battle_s3_11210_1-03",
+      "desc": "Priest Gregor - S3 2",
+      "dlg": "A-Aah... Sangue...? Sangue!"
+    },
+    {
+      "id": "battle_s3_11210_1-02",
+      "desc": "Priest Gregor - S3 3",
+      "dlg": "MMMMH, SANGUE...! SANGUE!!"
+    },
+    {
+      "id": "battle_react_10310_1-1",
+      "desc": "MANAGER DON START | Manager Don - Consume Bloodfeast 1",
+      "dlg": "Questo sangue... Così caldo..."
+    },
+    {
+      "id": "battle_react_10310_1-2",
+      "desc": "Manager Don - Consume Bloodfeast 2",
+      "dlg": "Sangue caldo..."
+    },
+    {
+      "id": "battle_react_10310_1-3.",
+      "desc": "Manager Don - Consume Bloodfeast 3",
+      "dlg": "Questo sangue... ricco di emozioni."
+    },
+    {
+      "id": "battle_s2_10310_1_3",
+      "desc": "Manager Don - S2 Atk Weight",
+      "dlg": "Inginocchiatevi."
+    },
+    {
+      "id": "battle_s3_10310_1_3-01",
+      "desc": "Manager Don - S3",
+      "dlg": "Ti impalerò!"
+    },
+    {
+      "id": "battle_react_10310_7",
+      "desc": "Manager Don - Unlock Enhanced Moves",
+      "dlg": "Con le vostre armi...\nVi porterò alla vittoria."
+    },
+    {
+      "id": "battle_react_10310_3-4",
+      "desc": "Manager Don - Enhanced S1 1",
+      "dlg": "Tecnica del Sangue Coagulato 6..."
+    },
+    {
+      "id": "battle_react_10310_3-4-1",
+      "desc": "Manager Don - Enhanced S1 2",
+      "dlg": "Frusta!"
+    },
+    {
+      "id": "battle_react_10310_4-4",
+      "desc": "Manager Don - Enhanced S2 1",
+      "dlg": "Tecnica del Sangue Coagulato 8..."
+    },
+    {
+      "id": "battle_react_10310_4-4-1",
+      "desc": "Manager Don - Enhanced S2 2",
+      "dlg": "Divisione!"
+    },
+    {
+      "id": "battle_react_10310_6-4",
+      "desc": "Manager Don - Enhanced Counter 1",
+      "dlg": "Tecnica del Sangue Coagulato 15... "
+    },
+    {
+      "id": "battle_react_10310_6-4-1",
+      "desc": "Manager Don - Enhanced Counter 2",
+      "dlg": "Anticipazione del finale!"
+    },
+    {
+      "id": "battle_react_10310_2",
+      "desc": "Manager Don - Enhanced S3 Ready",
+      "dlg": "Quanto a forgiare armi, sono sempre stata meglio del Padre."
+    },
+    {
+      "id": "battle_react_10310_5-2",
+      "desc": "Manager Don - Enhanced S3 1",
+      "dlg": "Tecnica del Sangue Coagulato di Sancho... La Sangre."
+    },
+    {
+      "id": "battle_react_10310_5-2-1",
+      "desc": "Manager Don - Enhanced S3 2",
+      "dlg": "È l'ora di finirla."
+    },
+    {
+      "id": "battle_s3_10211_1_1",
+      "desc": "LCE EGO FAUST | LCE EGO Faus - S3 1 Low Burn",
+      "dlg": "Brucerai..."
+    },
+    {
+      "id": "battle_s3_10211_0-1",
+      "desc": "LCE EGO FAUST | LCE EGO Faus - S3 2 Low Burn",
+      "dlg": "Senza controllo."
+    },
+    {
+      "id": "battle_s3_10211_0",
+      "desc": "LCE EGO Faust - S3 2 Medium Burn",
+      "dlg": "Brucerai..."
+    },
+    {
+      "id": "battle_s3_10211_1_2-01",
+      "desc": "LCE EGO Faust - S3 2 Medium Burn",
+      "dlg": "Senza controllo."
+    },
+    {
+      "id": "battle_s3_10211_1_1-02",
+      "desc": "LCE EGO Faust - S3 High Burn 1",
+      "dlg": "Brucerai..."
+    },
+    {
+      "id": "battle_s3_10211_1_2-02",
+      "desc": "LCE EGO Faust - S3 High Burn 2",
+      "dlg": "Senza controllo!"
+    },
+    {
+      "id": "battle_s3_10211_1_3-02",
+      "desc": "LCE EGO Faust - S3 Max Burn 1",
+      "dlg": "Vieni con me..."
+    },
+    {
+      "id": "battle_s3_10211_1_4-02",
+      "desc": "LCE EGO Faust - S3 Max Burn 2",
+      "dlg": "Nel fuoco tremolante!"
+    },
+    {
+      "id": "battle_s3_11108_1_2-1",
+      "desc": "BUTLER OUTIS START | Butler Outis - S3 1",
+      "dlg": "Pulirò via..."
+    },
+    {
+      "id": "battle_s3_11108_1_2-01",
+      "desc": "Butler Outis - S3 2",
+      "dlg": "Tutta la sporcizia."
+    },
+    {
+      "id": "battle_s3_11211_1_3-05",
+      "desc": "FIREFIST GREGOR START | Firefist Gregor - S3 Kill 1",
+      "dlg": "Luridi vermi che non siete altro!"
+    },
+    {
+      "id": "battle_s3_11211_1_3-03",
+      "desc": "Firefist Gregor - S3 Kill 2",
+      "dlg": "Luridi vermi che non siete altro!"
+    },
+    {
+      "id": "battle_s3_11211_1_3-04",
+      "desc": "Firefist Gregor - S3 Skill 3",
+      "dlg": "Luridi vermi che non siete altro!"
+    },
+    {
+      "id": "battle_special_10412_4_A",
+      "desc": "AWE RYOSHU START | Awe Ryoshu - S3-1 (Unsure)",
+      "dlg": "Spargerò il sangue."
+    },
+    {
+      "id": "battle_s3_10412_1_1",
+      "desc": "Awe Ryoshu - S3-2 1",
+      "dlg": "Questa soggezione cela..."
+    },
+    {
+      "id": "battle_s3_10412_1_4",
+      "desc": "Awe Ryoshu - S3-2 2",
+      "dlg": "Un disprezzo rosso cremisi."
+    },
+    {
+      "id": "battle_special_10412_1",
+      "desc": "Awe Ryoshu - S1 (Activated on allies with NCorp Yisang)",
+      "dlg": "Il tuo bersaglio è questo? Heh. Va bene, ci sto."
+    },
+    {
+      "id": "battle_special_10412_2",
+      "desc": "Awe Ryoshu - S3-3 (I shall fire/Anytime)",
+      "dlg": "Essere colpita dai tuoi proiettili sarebbe un'arte unica nel suo genere,\nma... Non è il momento. I capolavori come questo non si lasciano a metà."
+    },
+    {
+      "id": "battle_special_10412_3",
+      "desc": "Awe Ryoshu - Hit by NCorp Yisang S3",
+      "dlg": "Essere colpita dai tuoi proiettili... è un'arte unica nel suo genere."
+    },
+    {
+      "id": "battle_special_10412_4_B",
+      "desc": "Awe Ryoshu - Gaze of Contempt Gained / Turn End / @#$ Hand I Let Slip",
+      "dlg": "Non farti accecare da questo sguardo."
+    },
+    {
+      "id": "battle_s3_10213_1_4",
+      "desc": "SHI FAUST START | Shi Faust - S3-1",
+      "dlg": "Eliminerò il bersaglio."
+    },
+    {
+      "id": "battle_special_10213_1",
+      "desc": "Shi Faust - S3-2",
+      "dlg": "Colpirò il bersaglio senza esitazione."
+    },
+    {
+      "id": "battle_take_aim_10213_1",
+      "desc": "Shi Faust - Target Aim 1",
+      "dlg": "Bersaglio confermato."
+    },
+    {
+      "id": "battle_take_aim_10213_2",
+      "desc": "Shi Faust - Target Aim 2",
+      "dlg": "Controllo del vento effettuato."
+    },
+    {
+      "id": "battle_take_aim_10213_3",
+      "desc": "Shi Faust - Target Aim 3",
+      "dlg": "Tratteni il respiro..."
+    },
+    {
+      "id": "battle_take_aim_10213_4",
+      "desc": "Shi Faust - Target Aim 4",
+      "dlg": "... Arco allungato."
+    },
+    {
+      "id": "battle_special_10213_3",
+      "desc": "Shi Faust - S3-2 Kill",
+      "dlg": "Un colpo, un morto."
+    },
+    {
+      "id": "battle_special_10213_4",
+      "desc": "Shi Faust - Arrow Regained",
+      "dlg": "Ah. Vedo che la freccia non è stata danneggiata."
+    },
+    {
+      "id": "battle_s3_10713_1_1",
+      "desc": "WARP HEATHCLIFF START | WHeath - S3 Start",
+      "dlg": "Carica massima!"
+    },
+    {
+      "id": "battle_s3_10713_1_5",
+      "desc": "WHeath - S3 End",
+      "dlg": "Ti spezzo in due!"
+    },
+    {
+      "id": "battle_special_10713_1",
+      "desc": "WHeath - Overcharged",
+      "dlg": "Fatevi sotto! Se ne avete il coraggio."
+    },
+    {
+      "id": "battle_s3_10513_1_4",
+      "desc": "CASSETTI MEURSAULT START | Princesault S3-1",
+      "dlg": "Haah, Ecco il momento clou della marcia. Questo è… il finale dell'Overtüre."
+    },
+    {
+      "id": "battle_special_10513_1",
+      "desc": "Princesault - La Mancha Parade Inflicted",
+      "dlg": "Ti concedo la protezione del Re."
+    },
+    {
+      "id": "battle_special_10513_2",
+      "desc": "Princesault - S3-2",
+      "dlg": "Overtüre..."
+    },
+    {
+      "id": "battle_special_10513_3",
+      "desc": "Princesault - S3-2 deployed",
+      "dlg": "Riesco a sentire i fuochi d'artificio... È giunta l'ora?"
+    },
+    {
+      "id": "battle_special_10513_4",
+      "desc": "Princesault - Bloodfeast consumed",
+      "dlg": "Questo sangue caldo... cola da tutti i tagli."
+    },
+    {
+      "id": "battle_special_10513_5",
+      "desc": "Princesault - S3-2 with Rodion's S3-2",
+      "dlg": "Oh, Madre, ho a lungo sognato di marciare nuovamente al tuo fianco..."
+    },
+    {
+      "id": "battle_s3_11011_1_4",
+      "desc": "DEVYAT SINCLAIR START | Devclair - S3 coin reuse",
+      "dlg": "Se non ti sposti... ti farai male!"
+    },
+    {
+      "id": "battle_special_11011_1",
+      "desc": "Devclair - Fuga",
+      "dlg": "A-Aspetta! mi prendo una pausa."
+    },
+    {
+      "id": "battle_special_11011_2",
+      "desc": "Devclair - Ritorno",
+      "dlg": "Non sono in ritardo, vero?\n<i>[Mod. Strategica R&R attivata. Attenzione! L'R&R può essere utilizzata solo di giorno. La preghiamo di procedere immediatamente con la consegna.]</i>"
+    },
+    {
+      "id": "battle_devai_11011_11",
+      "desc": "Devclair - Ritorno",
+      "dlg": "Non sono in ritardo, vero?\n<i>[Mod. Strategica R&R attivata. Attenzione! L'R&R può essere utilizzata solo di giorno. La preghiamo di procedere immediatamente con la consegna.]</i>"
+    },
+    {
+      "id": "battle_devai_11011_6",
+      "desc": "Polusin - death",
+      "dlg": "N-No, aspetta! Non sono mai arrivato in ritardo! Dammi un'altra chance, ti pre-\n<i>[Aggiornamento: consegna fallita. Il baule verrà raccolto a breve. La ringraziamo per il duro lavoro. Poludnitsa, attivazione mod. difensiva.]</i>"
+    },
+    {
+      "id": "battle_s3_10910_1_1_01",
+      "desc": "DEVYAT RODYA START | Devion - S3",
+      "dlg": "E dammi una mano, Polu!\n<i>[Output del baule aumentato.]</i>"
+    },
+    {
+      "id": "battle_devai_10910_1-11",
+      "desc": "polu - Devion S3",
+      "dlg": "E dammi una mano, Polu!\n<i>[Output del baule aumentato.]</i>"
+    },
+    {
+      "id": "battle_special_10910_1",
+      "desc": "Devion - ciaociao",
+      "dlg": "Io vado, prima che il baule mi ammazzi."
+    },
+    {
+      "id": "battle_special_10910_3",
+      "desc": "Devion - ritorno",
+      "dlg": "Fiuu... Sono ancora in tempo.\n<i>[Mod. Strategica R&R attivata. Attenzione! L'R&R può essere utilizzata solo di giorno. La preghiamo di procedere immediatamente con la consegna.]</i>"
+    },
+    {
+      "id": "battle_devai_10910_1-09",
+      "desc": "poludion - ritorno",
+      "dlg": "Fiuu... Sono ancora in tempo.\n<i>[Mod. Strategica R&R attivata. Attenzione! L'R&R può essere utilizzata solo di giorno. La preghiamo di procedere immediatamente con la consegna.]</i>"
+    },
+    {
+      "id": "battle_dead_10910_2",
+      "desc": "Devion - Morte (Baule)",
+      "dlg": "N-No, aspetta! Adesso mi muovo, oka-"
+    },
+    {
+      "id": "battle_devai_10910_1-04",
+      "desc": "Poludion - Morte (Baule)",
+      "dlg": "N-No, aspetta! Adesso mi muovo, oka-\n<i>[Aggiornamento: consegna fallita. Il baule verrà raccolto a breve. La ringraziamo per il duro lavoro. Poludnitsa, attivazione mod. difensiva.]</i>"
+    },
+    {
+      "id": "battle_s3_10813_1_1",
+      "desc": "HANAFUDA START | Jeong - Sakura 1",
+      "dlg": "Marzo..."
+    },
+    {
+      "id": "battle_s3_10813_1_4",
+      "desc": "Jeong - Sakura 2",
+      "dlg": "Ciliegio!"
+    },
+    {
+      "id": "battle_special_10813_1",
+      "desc": "Jeong - Kozan",
+      "dlg": "Haah, ho sballato... Passo."
+    },
+    {
+      "id": "battle_special_10813_2",
+      "desc": "Jeong - Kozan (3 bright)",
+      "dlg": "Sankō!"
+    },
+    {
+      "id": "battle_special_10813_3",
+      "desc": "Jeong - Kozan (4 bright)",
+      "dlg": "Tsk, l'Uomo della Pioggia..."
+    },
+    {
+      "id": "battle_special_10813_3-01",
+      "desc": "Jeong - Kozan (4 bright) end",
+      "dlg": "Ame-Shikō!"
+    },
+	  {
+      "id": "battle_special_10813_4",
+      "desc": "",
+      "dlg": "Gru."
+    },
+	  {
+      "id": "battle_special_10813_5",
+      "desc": "",
+      "dlg": "Tenda."
+    },
+  	{
+      "id": "battle_special_10813_6",
+      "desc": "",
+      "dlg": "Luna e Ono no Tōfū..."
+    },
+	  {
+      "id": "battle_special_10813_7",
+      "desc": "",
+      "dlg": "Gōkō!"
+    },
+    {
+      "id": "battle_s3_11213_1_4",
+      "desc": "ALLEN START | Allen - Exe-1",
+      "dlg": "Hai troppe aperture..."
+    },
+    {
+      "id": "battle_s3_11213_1_5",
+      "desc": "Allen - Exe-2",
+      "dlg": "Stiletto!"
+    },
+  	{
+      "id": "battle_special_11213_3",
+      "desc": "Allen - Nottambulo",
+      "dlg": "Occhi!"
+    },
+	  {
+      "id": "battle_special_11213_4",
+      "desc": "Allen - Nottambulo",
+      "dlg": "Gola!"
+    },
+  	{
+      "id": "battle_special_11213_5",
+      "desc": "Allen - Nottambulo",
+      "dlg": "Cuore!"
+    },
+	  {
+      "id": "battle_special_11213_7",
+      "desc": "Allen - Nottambulo",
+      "dlg": "Qualsiasi sia la tua apertura..."
+    },
+   	{
+      "id": "battle_special_11213_8",
+      "desc": "Allen - Nottambulo",
+      "dlg": "... La perforerò."
+    },
+    {
+      "id": "battle_special_11213_1",
+      "desc": "Allen - Mercé 1",
+      "dlg": "Hai perso l'equilibrio?"
+    },
+    {
+      "id": "battle_special_11213_1-01",
+      "desc": "Allen - Mercé 2",
+      "dlg": "Vedo che sei esposto."
+    },
+    {
+      "id": "battle_s3_11213_1_5-01",
+      "desc": "Allen - Mercé (Extra)",
+      "dlg": "Stiletto!"
+    },
+    {
+      "id": "battle_special_11213_2",
+      "desc": "Allen - Mercé (Kill)",
+      "dlg": "Siate grati della mia mercé."
+    },
+    {
+      "id": "battle_s3_10714_1_1",
+      "desc": "YOUCLIFF START | S3",
+      "dlg": "Sanguiartigli... Bruciate!"
+    },
+    {
+		"id": "battle_special_10714_2-01",
+		"desc": "Youcliff - lol",
+		"dlg": "<i>HAHAHAHAHAHAHA!!</i>"
+    },
+    {
+		"id": "battle_special_10714_2-02",
+		"desc": "Youcliff - Yap",
+		"dlg": "<i>RAFFICA SPIETATA DEL GALLO SOTTO IL CIELO INSANGUINATO (血天下雞舞亂刀)!!</i>"
+    },
+    {
+      "id": "battle_special_10714_3",
+      "desc": "Cockliff - Passiva",
+      "dlg": "Audacia Mortale Del Gallo Rovente (炎鳥不死戦)... Heh! Pensavate che ci avrei lasciato le penne, EH?!"
+    },
+    {
+      "id": "battle_s3_10313_1_4",
+      "desc": "Goat Don - S3",
+      "dlg": "Aaaagh... Schiaccia!"
+    },
+    {
+      "id": "battle_s3_10413_1_3-02",
+      "desc": "DRIFTSHU START | Daiyu - S3",
+      "dlg": "Lancia Spezzacielo (踏空槍零)."
+    },
+    {
+      "id": "battle_special_10413_1-01",
+      "desc": "Daiyu - FuA",
+      "dlg": "Stammi dietro."
+    },
+    {
+      "id": "battle_special_10413_1-02",
+      "desc": "Daiyu - FuA 2",
+      "dlg": "Uragano(廻風)!"
+    },
+    {
+      "id": "battle_special_10413_2",
+      "desc": "Daiyu - Lord",
+      "dlg": "Il Lord di Hongyuan?\nHeh, ah sì? Se è così...\nAllora, stavolta... di certo..."
+    },
+    {
+      "id": "battle_s3_10914_1_4",
+      "desc": "Reindeer Rodya - S3",
+      "dlg": "Ahaha... I botti sono proprio belli, vero?"
+    },
+    {
+      "id": "",
+      "desc": "template",
+      "dlg": ""
+    }
+  ]
+}
