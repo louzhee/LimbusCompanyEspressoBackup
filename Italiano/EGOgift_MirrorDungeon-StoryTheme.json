@@ -1,0 +1,282 @@
+{
+  "dataList": [
+    {
+      "id": 9403,
+      "name": "Spilla d'Ebano",
+      "desc": "Primo Inizio Turno di un Incontro: Infligge 2 Potenza e Conteggio [Burst] a tutti i nemici.\n\nInfligge 2 [Binding] alla prossima fine del Turno a tutti i nemici per i successivi 3 Turni.",
+      "simpleDesc": [
+        {
+          "abilityID": 9403,
+          "simpleDesc": "Infligge 2 Potenza [Burst] e +2 Conteggio [Burst] a tutti i nemici"
+        },
+        {
+          "abilityID": 94031,
+          "simpleDesc": "Infligge 2 [Binding] a tutti i nemici"
+        }
+      ]
+    },
+    {
+      "id": 9404,
+      "name": "Vermi Imbottigliati",
+      "desc": "Quando si una un'Abilità Attacco Affinità Gola (esxluse le Abilità E.G.O) contro un nemico, infligge 2 [Muckworm] sul bersaglio.\n\nSe la suddetta Abilità applica Conteggio, Potenza [Laceration] o '<noparse>Sanguinamento</noparse> Speciale', infligge invece 3 [Muckworm].",
+      "simpleDesc": [
+        {
+          "abilityID": 9404,
+          "simpleDesc": "Infligge 2 [Muckworm]"
+        },
+        {
+          "abilityID": 94041,
+          "simpleDesc": "Infligge 3 [Muckworm]"
+        }
+      ]
+    },
+    {
+      "id": 9407,
+      "name": "Fatto su Ordinazione",
+      "desc": "[Gli Effetti si applicano solo alla Terza Identità Schierata]\n\nInizio dell'Incontro: ottiene +3 Conteggio [Vibration].\n\nInizio Turno: ottiene 1 [Protection], 1 [AttackDmgUp], e 1 [ResultEnhancement].",
+      "simpleDesc": [
+        {
+          "abilityID": 9407,
+          "simpleDesc": "Gain +3 [Vibration] Count"
+        },
+        {
+          "abilityID": 94071,
+          "simpleDesc": "Gain 1 [Protection], 1 [AttackDmgUp], and 1 [ResultEnhancement]"
+        }
+      ]
+    },
+    {
+      "id": 9408,
+      "name": "Scarpette Possedute",
+      "desc": "[Gli Effetti si applicano solo alla Seconda Identità Schierata]\n\nInizio dell'Incontro: ottiene +3 Conteggio [Sinking].\n\nInizio Turno: ottiene 1 [Protection], 1 [AttackDmgUp], e 1 [ResultEnhancement].",
+      "simpleDesc": [
+        {
+          "abilityID": 9408,
+          "simpleDesc": "Gain +3 [Sinking] Count"
+        },
+        {
+          "abilityID": 94081,
+          "simpleDesc": "Gain 1 [Protection], 1 [AttackDmgUp], and 1 [ResultEnhancement]"
+        }
+      ]
+    },
+    {
+      "id": 9409,
+      "name": "Gelidi Pianti",
+      "desc": "[L'Effetto si applica solo all'Identità con minore Velocità all'inizio del Turno]\n\nSe il suddetto alleato vince uno Scontro o viene colpito da un nemico, infligge 3 [Sinking] al nemico.",
+      "simpleDesc": [
+        {
+          "abilityID": 9409,
+          "simpleDesc": "Inflict 3 [Sinking] against the enemy"
+        }
+      ]
+    },
+    {
+      "id": 9410,
+      "name": "Impronta Brinosa",
+      "desc": "Primo Inizio Turno di un'Ondata: tutti gli alleati ottengono +3 Conteggio [Sinking], ed a tutti i nemici (o tutte le Parti dell'Anormalità) viene inflitto 4 Potenza [Sinking] e +8 Conteggio [Sinking].\n\nI nemici con gli Effetti di [Sinking] perdono 2 Potere Scontro; quando un'Identità alleata vince uno Scontro contro un nemico affetto, infligge 2 Potenza [Sinking], se è l'Identità alleata a venir colpita da un nemico affetto, infligge invece 3 Potenza [Sinking].",
+      "simpleDesc": [
+        {
+          "abilityID": 9410,
+          "simpleDesc": "Inflict 4 [Sinking] Potency and +8 [Sinking] Count against all enemies."
+        },
+        {
+          "abilityID": 94101,
+          "simpleDesc": "Enemies with [Sinking] lose 2 Clash Power"
+        }
+      ]
+    },
+    {
+      "id": 9413,
+      "name": "Scritture della Nagel und Hammer",
+      "desc": "A Scontro Vinto: se un alleato usa un'Abilità che infligge Potenza, Conteggio [Laceration] o '<noparse>Sanguinamento</noparse> Speciale', infligge 1~2 [NailPersonality].\n\nSe l'alleato è un 'Fanatico della N Corp.', ottiene 1 Fanatismo all'inizio del Turno.",
+      "simpleDesc": [
+        {
+          "abilityID": 9413,
+          "simpleDesc": "Infligge 1~2 [NailPersonality]"
+        },
+        {
+          "abilityID": 94131,
+          "simpleDesc": "Se l'alleato è un 'Fanatico della N Corp.', ottiene 1 Fanatic all'inizio del Turno."
+        }
+      ]
+    },
+    {
+      "id": 9414,
+      "name": "Criniera Rosso-sangue",
+      "desc": "[Gli Effetti si applicano solo alle Identità con Abiilità Attacco Affinità Ira o Lussuria]\n\nFine Turno: se l'unità non ha subito alcun danno dalle Abilità Attacco del nemico durante il turno, ottiene 2 [Agility] e 2 [Endurance].\n\nFine Turno: se l'unità ha subito danni dalle Abilità Attacco del nemico durante il turno, ottiene 2 [Binding] e Potere Scontro +2 al prossimo Turno.",
+      "simpleDesc": [
+        {
+          "abilityID": 9414,
+          "simpleDesc": "Gain 2 [Agility] and 2 [Endurance] next turn"
+        },
+        {
+          "abilityID": 94141,
+          "simpleDesc": "Gain 2 [Binding] and Clash Power +2 next turn"
+        }
+      ]
+    },
+    {
+      "id": 9415,
+      "name": "Squallore",
+      "desc": "Quando un alleato atacca un nemico che ha [Laceration] con un'Abilità che infligge Potenza, Conteggio [Laceration] o '<noparse>Sanguinamento</noparse> Speciale', infligge il 15% di danni aggiuntivi contro il bersaglio.\n\nSe il nemico aveva meno del 33% dei PV, infligge invece il 25% in più di danno contro il bersagliio.",
+      "simpleDesc": [
+        {
+          "abilityID": 9415,
+          "simpleDesc": "Deal +15% damage"
+        },
+        {
+          "abilityID": 94151,
+          "simpleDesc": "Deal +25% damage"
+        }
+      ]
+    },
+    {
+      "id": 9416,
+      "name": "Interezza",
+      "desc": "A Scontro Vinto: se l'alleato usa un'Abilità che infligge Potenza, Conteggio[Laceration] o '<noparse>Sanguinamento</noparse> Speciale', infligge 2~3 [NailPersonality].\n\nLe Identità 'Fanatici della N Corp.' infliggono il 25% di danni aggiuntivi contro i nemici con [Laceration] ed ottengono 1 Fanatismo all'inizio del Turno.\nSe il suddetto alleato ha i propri SP al massimo, ottiene anche 3 [AttackDmgUp].\n\nLe Identità 'Fanatici della N Corp.' ottengono, Potere Scontro +1, Potere Moneta Positivo +1, Potere Moneta Negativo -1, e le loro Abilità Attacco infliggono 1 [NailPersonality] aggiuntivo.",
+      "simpleDesc": [
+        {
+          "abilityID": 9416,
+          "simpleDesc": "Clash Win: inflict 2~3 [NailPersonality]"
+        },
+        {
+          "abilityID": 94161,
+          "simpleDesc": "Deal +25% damage against Bleed enemies and gain 1 Fanatic. At max SP, gain 3 Damage Up"
+        },
+        {
+          "abilityID": 94162,
+          "simpleDesc": "Final Power +1, Plus Coin Power +1, Minus Coin Power -1, Attack Skills inflict +1 more Nails"
+        }
+      ]
+    },
+    {
+      "id": 9419,
+      "name": "Ramo di Lindera",
+      "desc": "[L'Effetto si applica solo se sono state usate le prime 3 Abilità di un'Identità almeno una volta]\n\nInizio Turno: ottiene 1 [Agility] e 1 [SkillPowerUp]. (non si cumula più di 3 volte)",
+      "simpleDesc": [
+        {
+          "abilityID": 9419,
+          "simpleDesc": "Turn Start: gain 1 [Agility] and 1 [SkillPowerUp]."
+        }
+      ]
+    },
+    {
+      "id": 9420,
+      "name": "Caleidoscopio",
+      "desc": "Inizio Turno: le unità accompagnate da altre Identità appartenenti alla stessa fazione ottengono [AttackUp] pari al numero delle Identità della stessa fazione. (max di 4)\n\nLe Identità che appartengono alla fazione dell'Alleanza per la Liberazione della Tecnologia ottengono Potere Scontro +1.",
+      "simpleDesc": [
+        {
+          "abilityID": 9420,
+          "simpleDesc": "Gain [AttackUp]"
+        },
+        {
+          "abilityID": 94201,
+          "simpleDesc": "Clash Power +1"
+        }
+      ]
+    },
+    {
+      "id": 9423,
+      "name": "Occhiali Rotti",
+      "desc": "Quando avviene uno Scontro con un nemico più veloce dell'alleato, ottiene Potere Scontro +1.\n\nQuando un alleato vince uno Scontro contro un nemico più veloce, ottiene 2 [AttackUp] nel prossimo Turno (max di 4.)",
+      "simpleDesc": [
+        {
+          "abilityID": 9423,
+          "simpleDesc": "Clash Power +1"
+        },
+        {
+          "abilityID": 94231,
+          "simpleDesc": "Gain 2 [AttackUp] next turn"
+        }
+      ]
+    },
+    {
+      "id": 9424,
+      "name": "Lettera Non Spedita",
+      "desc": "[Gli Effetti si applicano solo alla Prima ed alla Seconda Identità Schierate]\n\nQuando si vince uno Scontro con un'Abilità che infligge Potenza o Conteggio [Burst], infligge 5 Potenza [Burst] e +3 Conteggio [Burst] contro il bersaglio. (una volta per Turno, una volta per Identità)\n\nQuando avviene uno Scontro con un nemico di Velocità minore, ottiene Potere Finale +1 ed infligge il 25% di danni aggiuntivi.\n\nQuando si vince uno Scontro contro un nemico con [AttackUp], l'alleato ottiene 3 [AttackUp] per il prossimo turno ed infligge 3 [AttackDown] al nemico che ha perso lo Scontro (valuta assoluta di 9)",
+      "simpleDesc": [
+        {
+          "abilityID": 9424,
+          "simpleDesc": "Clash Win: inflict 5 [Burst] Power and +3 [Burst] Count against the target"
+        },
+        {
+          "abilityID": 94241,
+          "simpleDesc": "Final Power +1, deal +25% damage"
+        },
+        {
+          "abilityID": 94242,
+          "simpleDesc": "Inflict 3 [AttackDown] against the enemy that lost the Clash"
+        }
+      ]
+    },
+    {
+      "id": 9429,
+      "name": "Gamba-Arpione Prostetica",
+      "desc": "Fine Turno: applica 2 [Agility], 2 [AttackUp] e 2 [AttackDmgUp] all'alleato con maggiore Potenza e Conteggio [Breath] nel prossimo Turno.\n\nLe Identità del Pequod ottengono Velocità Massima +1.",
+      "simpleDesc": [
+        {
+          "abilityID": 9429,
+          "simpleDesc": "Apply 2 [Agility], 2 [AttackUp], and 2 [AttackDmgUp] next turn"
+        },
+        {
+          "abilityID": 94291,
+          "simpleDesc": "The Pequod Identities gain Max Speed +1."
+        }
+      ]
+    },
+    {
+      "id": 9430,
+      "name": "Lampada a Gas da Marinaio",
+      "desc": "Primo Inizio Turno di un'Ondata: tutti gli alleati ottengono 5 Potenza [Breath] e +5 Conteggio [Breath].\n\nFine Turno: l'alleato con maggiore Potenza e Conteggio [Breath] ottiene 2 [Agility], 3 [AttackUp], e 3 [AttackDmgUp] nel prossimo turno.\n\nLe Identità del Pequod ottengono Potere Abilità +2 e Velocità Massima +2.",
+      "simpleDesc": [
+        {
+          "abilityID": 9430,
+          "simpleDesc": "All allies gain 5 [Breath] and +5 [Breath] Count."
+        },
+        {
+          "abilityID": 94301,
+          "simpleDesc": "Apply 2 [Agility], 3 [AttackUp], and 3 [AttackDmgUp] next turn."
+        },
+        {
+          "abilityID": 94302,
+          "simpleDesc": "Skill Power +2, Max Speed +2."
+        }
+      ]
+    },
+    {
+      "id": 9433,
+      "name": "Arti Segrete del Capo Maggiordomo",
+      "desc": "Primo Inizio Turno di un'Ondata: Al nemico con minore Velocità (per le Anormalità, una Parte casuale) viene inflitto 5 [Binding] per i successivi 5 turni.\n\nScontro Vinto: Se la Velocità dell'unità alleata è maggiore di quella del bersaglio, cura PS pari alla differenza di Velocità ed ottiene 'Livello Offensivo' pari alla metà della differenza della Velocità. Gli effetti si applicano unicamente alle Abilità usate per vincere lo Scontro. (Max 'Livello Offensivo' ottenibile: 3)",
+      "simpleDesc": [
+        {
+          "abilityID": 9433,
+          "simpleDesc": "Inflict 5 [Binding] for 5 turns starting next turn"
+        },
+        {
+          "abilityID": 94331,
+          "simpleDesc": "Heal PS, and gain Offense Level equal to the amount of PS healed"
+        }
+      ]
+    },
+    {
+      "id": 9434,
+      "name": "Specchio Portatile",
+      "desc": "Primo Inizio Turno di un'Ondata: Ai 2 nemici con minore Velocità (per le Anormalità, due Parti casuali. L'Effetto non si cumula se c'è un solo nemico) viene inflitto 5 [Binding] e 3 [DefenseDown] al prossimo Inizio Turno.\n\nQuando un nemico recupera dal Vacillamento, se non hanno altre Soglie del Vacillamento, crea una nuova Soglia del Vacillamento al 66% dei PV attuali del bersaglio. (3 volte per Incontro). Se un alleato fa Vacillare un nemico usando un'Abilità Attacco (escluse le Abilità E.G.O) che applica Potenza o Conteggio[Vibration] (include se stessi o alleati), infligge casualmente Potenza [Vibration] pari alla metà della Potenza [Vibration] sul bersaglio o il resto dei nemici (o le altre Parti dell'Anormalità), ed aumenta la Potenza [Vibration] sul bersaglio del doppio.",
+      "simpleDesc": [
+        {
+          "abilityID": 9433,
+          "simpleDesc": "Turn Start: Gain 5 Bind and 3 Defense Level Down."
+        },
+        {
+          "abilityID": 94331,
+          "simpleDesc": "Create a new Stagger Threshold at 66% mark of the target's current PV"
+        },
+        {
+          "abilityID": 94332,
+          "simpleDesc": "[Vibration] Potency on the Staggered target increases by x2"
+        }
+      ]
+    }
+  ]
+}

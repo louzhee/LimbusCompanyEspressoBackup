@@ -1,0 +1,94 @@
+{
+  "dataList": [
+    {
+      "id": 90077,
+      "name": "Granchio Ciarpame Tagliente",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90078,
+      "name": "Granchio Ciarpame Appuntito",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90079,
+      "name": "Granchio Ciarpame Coriaceo",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90080,
+      "name": "Granchio Cannoniere",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 90081,
+      "name": "Granchio Lanciere-Artigliere",
+      "desc": "Unità Nemica"
+    },
+    {
+      "id": 8063,
+      "name": "Re Granchio Ciarpame",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 806301,
+      "name": "Testa",
+      "desc": "Parte"
+    },
+    {
+      "id": 806302,
+      "name": "Guscio",
+      "desc": "Parte"
+    },
+    {
+      "id": 8070,
+      "name": "Granchio Ciarpame Tagliente",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 807001,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8071,
+      "name": "Granchio Ciarpame Appuntito",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 807101,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8072,
+      "name": "Granchio Ciarpame Coriaceo",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 807201,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8073,
+      "name": "Granchio Cannoniere",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 807301,
+      "name": "Corpo",
+      "desc": "Parte"
+    },
+    {
+      "id": 8074,
+      "name": "Granchio Lanciere-Artigliere",
+      "desc": "Nucleo"
+    },
+    {
+      "id": 807401,
+      "name": "Corpo",
+      "desc": "Parte"
+    }
+  ]
+}

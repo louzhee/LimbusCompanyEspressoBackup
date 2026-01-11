@@ -1,0 +1,56 @@
+﻿{
+  "dataList": [
+    {
+      "id": 1,
+      "content": "Perforante, Respiro"
+    },
+    {
+      "id": 2,
+      "content": "Vibrazione"
+    },
+    {
+      "id": 3,
+      "content": "Lacerazione"
+    },
+    {
+      "id": 4,
+      "content": "Vibrazione, Bruciatura, Lacerazione, Respiro, Carica"
+    },
+    {
+      "id": 5,
+      "content": "Bruciatura, Sanguinamento, Vibrazione"
+    },
+    {
+      "id": 6,
+      "content": "Pianto"
+    },
+    {
+      "id": 7,
+      "content": "Sanguinamento, Respiro"
+    },
+    {
+      "id": 8,
+      "content": "Carica, Lacerazione"
+    },
+    {
+      "id": 9,
+      "content": "Sanguinamento"
+    },
+    {
+      "id": 10,
+      "content": "Lacerazione"
+    },
+    {
+      "id": 11,
+      "content": "Perforante, Respiro"
+    },
+    {
+      "id": 12,
+      "content": "Carica"
+    },
+    {
+      "id": 13,
+      "content": "Pianto"
+    }
+  ]
+}
