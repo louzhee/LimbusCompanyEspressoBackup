@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_38_1",
+      "dlg": "A tutto il Team Di Pulizia: rivolta in corso in uno dei vagoni. Richiesto intervento immediato."
+    },
+    {
+      "id": "announcer_cheer_38_2",
+      "dlg": "Violenza intensificata. Al Team Di Pulizia rimasto, è cortesemente richiesto di aumentare gli sforzi per contenere la situazione."
+    },
+    {
+      "id": "announcer_specialcheer_38_1",
+      "dlg": "Bassi livelli di vitalità rilevati negli Agenti Di Pulizia. Gli Agenti Di Puliza di livello superiore devono tenere conto del personale deceduto per calcolare la qualità dei prossimi agenti assunti."
+    },
+    {
+      "id": "announcer_specialcheer_38_2",
+      "dlg": "Servizio Di Diagnostica E Monitoraggio Dei Treni WARP: Agente Di Pulizia in stato critico.\nW La Corporazione. non provvede istruzioni specifiche in questi casi. Procedere gentilemente con trattamento a vostra discrezione."
+    },
+    {
+      "id": "announcer_enemy_break_38_1",
+      "dlg": "La probabilità di successo degli agenti è salita del 4.188%. Congratulazioni."
+    },
+    {
+      "id": "announcer_ally_break_38_1",
+      "dlg": "Stato di coma rilevato nei parametri vitali di alcuni Agenti Di Pulizia. Attuare gentilmente misure proprie o evacuateli al di fuori del treno per mantenere il regolare svolgimento del programma di puliza."
+    },
+    {
+      "id": "announcer_killenemy_38_1",
+      "dlg": "Attenzione. Probabilità di stabilizzazione della situazione in aumento. Agli Agenti Di Pulizia è richiesto di velocizare i protocolli di risposta è stabilizare la situazione più velocemente."
+    },
+    {
+      "id": "announcer_ally_dead_38_1",
+      "dlg": "Segni vitali di alcuni Agenti Di Puliza terminati. Ricordiamo che compartimenti speciali con sacchi per cadaveri sono installati nei ripostigli ogni #2 vagoni su ogni treno WARP. È gentilmente richiesto di usare questo servizio per mantenere elevati tassi di accuratezza del recupero."
+    },
+    {
+      "id": "announcer_enemy_adv_38_1",
+      "dlg": "Emergenza. La probabilità del controllo della situazione è sceso al 6%. Rilevata una continua diminuzione della probabilità. I dati rilevanti alla tua performance saranno traferiti al dipertimento Risorse Umane. Gentilmente prendere nota che la sopravvivenza di alcuni Agenti Di Pulizia non è garantita."
+    },
+    {
+      "id": "announcer_ally_adv_38_1",
+      "dlg": "Probabilità di repressione della violenza superiore al 50%. Rilevate alcune problematiche in una piccola sezione dei passeggieri; Nonostante ciò, il sistema di calcolo del treno WARP ha determinato l'assoluta importanza di quei dati. Grazie per il tuo servizio."
+    },
+    {
+      "id": "announcer_ally_advex_38_1",
+      "dlg": "Performance non ottimale rilevata in un Agente Di Pulizia. Nonostante ciò, la probabilità di controllo della situazione indica un alta possibilità di successo. A meno che non si tratti di un errore di calcolo del sistema, questa situazione sarà sistemata. Congratulazioni."
+    },
+    {
+      "id": "announcer_danger_38_1",
+      "dlg": "Gentilmente prendere nota del tempo minimo rimasto alla fine dello spazio di pulizia. Agli Agenti è raccomandato di prendere misure prudenti e decisive per completare la pulizia prima del arrivo."
+    },
+    {
+      "id": "announcer_enemy_specialskill_38_1",
+      "dlg": "Gli indicatori di aggressività prevedono l'arrivo di attacchi ad alto rischio."
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_38_1",
+      "dlg": "L'indicatore di irregolarità prevede una rara aberrazione nel comportamento del nemico."
+    },
+    {
+      "id": "announcer_advatk_physical_38_1",
+      "dlg": "Exemplary Cleanup strategy confirmed. Transferring performance evaluation for the Agent under consideration to the Human Resources Department."
+    },
+    {
+      "id": "announcer_disadvatk_physical_38_1",
+      "dlg": "Aggressiveness gauge indicator has detected low productivity potential in an Agent's Cleanup methods. Alternate approach recommended."
+    },
+    {
+      "id": "announcer_advatk_attr_38_1",
+      "dlg": "WARP Train calculation system has determined that your chosen Cleanup method was satisfactory. Commendable work."
+    },
+    {
+      "id": "announcer_disadvatk_attr_38_1",
+      "dlg": "Warning. Tangible negative productivity potential detected in the chosen Cleanup method for this particular situation."
+    },
+    {
+      "id": "announcer_enemy_specialbuff_38_1",
+      "dlg": "Irregularity gauge indicator has detected Cleanup Type Y entity. On-site confirmation of raised activity levels on the high-risk individual recommended."
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_38_1",
+      "dlg": "Irregularity gauge indicator has detected Cleanup Type B entity. High-risk individual determined to be on the defensive."
+    },
+    {
+      "id": "announcer_ally_specialbuff_38_1",
+      "dlg": "Irregularity gauge indicator has detected Cleanup Type G entity. Agent vital signs on the rise."
+    },
+    {
+      "id": "announcer_ally_specialdebuff_38_1",
+      "dlg": "Irregularity gauge indicator has detected Cleanup Type R entity. Agents are encouraged to verify their statuses and identify any discomforting smell or sound in the surrounding area."
+    },
+    {
+      "id": "announcer_enemy_destroy_38_1",
+      "dlg": "Removal of risk elements detected. We thank you for your service."
+    },
+    {
+      "id": "announcer_enemy_destroy_38_2",
+      "dlg": "Aggressiveness gauge indicator no longer detects predictions of certain attack patterns. The choice to eliminate that part has proven to be highly effective."
+    },
+    {
+      "id": "announcer_round_takebigdmg_38_1",
+      "dlg": "Life preservation gear activation detected. In the presence of a heavily wounded Agent, act quickly and open the device panel, then—"
+    },
+    {
+      "id": "announcer_round_takebigdmg_38_2",
+      "dlg": "Critical vital levels detected on an Agent. If the Agent is still capable of mobility, they must vacate themselves from the hallway and avoid obstructing other Agents' Cleanup efforts."
+    },
+    {
+      "id": "announcer_round_givebigdmg_38_1",
+      "dlg": "Highly effective Cleanup decision. WARP Train calculation system has determined that this maneuver has contributed to approximately 14% of the Cleanup effort."
+    },
+    {
+      "id": "announcer_round_givebigdmg_38_2",
+      "dlg": "To whichever Agent carried out that maneuver: W Corp. Talent Management Department has just mailed an auto-promotion recommendation to your address. Please peruse the document to view its details."
+    },
+    {
+      "id": "announcer_multikillenemy_38_1",
+      "dlg": "Multiple high-risk individuals eliminated. Please confirm that no important electronic devices or seats have been damaged."
+    },
+    {
+      "id": "announcer_equip_38_1",
+      "dlg": "Greetings passengers and welcome aboard. We will be overseeing your journey to the next destination. Thank you for choosing W Corp. WARP Train. Enjoy your trip."
+    }
+  ]
+}
