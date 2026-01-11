@@ -2,8 +2,8 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Stradine di T Corp.",
-      "content": "Un'impiegato di T Corp. con un altro tipo di uniforme si è avvicinato ai Peccatori, quando entrambi i lati si sono messi sulla difensiva."
+      "place": "Stradine della T Corp.",
+      "content": "Un'impiegato della T Corp. con un altro tipo di uniforme si è avvicinato ai Peccatori, quando entrambi i lati si sono messi sulla difensiva."
     },
     {
       "id": 1,
@@ -20,7 +20,7 @@
     {
       "id": 3,
       "model": "이상",
-      "content": "Anche se di grado maggiore, resta solo un altro impiegato di T Corp."
+      "content": "Anche se di grado maggiore, resta solo un altro impiegato della T Corp."
     },
     {
       "id": 4,

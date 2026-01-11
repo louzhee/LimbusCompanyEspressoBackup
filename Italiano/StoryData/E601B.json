@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Stradine di T Corp.",
+      "place": "Stradine della T Corp.",
       "model": "돈키호테",
       "content": "Heh. Heh. Heh. Heh."
     },
@@ -224,7 +224,7 @@
     {
       "id": 44,
       "model": "돈키T3",
-      "teller": "Don Quixote & Personale di T Corp.",
+      "teller": "Don Quixote & Personale della T Corp.",
       "title": "LCB & T Corp.",
       "content": "In verità, non potrei mai assumermi tutta la gloria per ciò che abbiamo compiuto!\n\nPagherete le vostre tasse a rate?"
     },
@@ -264,7 +264,7 @@
     {
       "id": 51,
       "model": "이스마엘",
-      "content": "Abbiamo già pagato tutte le Tasse Temporali durante il processo di immigrazione nel Nido di T Corp. Vergilius ha detto—"
+      "content": "Abbiamo già pagato tutte le Tasse Temporali durante il processo di immigrazione nel Nido della T Corp. Vergilius ha detto—"
     },
     {
       "id": 52,
@@ -333,7 +333,7 @@
     },
     {
       "id": 65,
-      "place": "Stradine di T Corp.",
+      "place": "Stradine della T Corp.",
       "model": "단테",
       "content": "<Infatti. Deve esserci stato qualche piccolo errore di calcolo. Forse abbiamo pagato leggermente meno di quanto dovuto?>"
     },
