@@ -46,7 +46,7 @@
     },
     {
       "id": 12,
-      "name": "Angela"
+      "name": "Angela\n<size=90%>(AI di Lobotomy Corporation)</size>"
     },
     {
       "id": 13,
@@ -86,7 +86,7 @@
     },
     {
       "id": 22,
-      "name": "Sanguimoni\ndi La Mancha"
+      "name": "Bramasangue\ndi La Mancha"
     },
     {
       "id": 23,
@@ -163,6 +163,10 @@
     {
       "id": 40,
       "name": "Lei Heng"
+    },
+    {
+      "id": 43,
+      "name": "Angela\n<size=90%>(Direttrice della Biblioteca - Primi Giorni)</size>"
     }
   ]
 }

@@ -22,7 +22,7 @@
     },
     {
       "id": 6,
-      "content": "Pianto"
+      "content": "Annegamento"
     },
     {
       "id": 7,
@@ -50,7 +50,27 @@
     },
     {
       "id": 13,
-      "content": "Pianto"
+      "content": "Annegamento"
+    },
+    {
+      "id": 14,
+      "content": "Annegamento, Respiro"
+    },
+    {
+      "id": 15,
+      "content": "Sanguinamento, Invidia"
+    },
+    {
+      "id": 16,
+      "content": "Annegamento"
+    },
+    {
+      "id": 17,
+      "content": "Annegamento"
+    },
+    {
+      "id": 18,
+      "content": "Annegamento, Respiro"
     }
   ]
 }

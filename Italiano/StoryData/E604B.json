@@ -98,7 +98,7 @@
     {
       "id": 19,
       "model": "파우스트",
-      "content": "Questa richiesta riguarda una serie di casi simili e irrisolti nei confini della T Corp. Alcuni lo chiamano..."
+      "content": "Questa richiesta riguarda una serie di casi simili e irrisolti nei confini di T Corp. Alcuni lo chiamano..."
     },
     {
       "id": 20,
@@ -781,7 +781,7 @@
     },
     {
       "id": 153,
-      "place": "Stradine della T Corp.",
+      "place": "Stradine di T Corp.",
       "model": "T사대표",
       "teller": "Personale Ispezioni di Classe 5?",
       "title": "T Corp.",

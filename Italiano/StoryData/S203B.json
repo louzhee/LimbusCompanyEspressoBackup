@@ -123,7 +123,7 @@
     },
     {
       "id": 25,
-      "content": "…Tornando al piano, avremmo finta di essere il capo della 'Gang Tingtang', per poi vincere il gioco."
+      "content": "…Tornando al piano, avremmo fatto finta di essere il capo della 'Gang Tingtang', per poi vincere il gioco."
     },
     {
       "id": 26,
@@ -293,7 +293,7 @@
     {
       "id": 56,
       "model": "파우스트",
-      "content": "Dunque è vero che ai gruppi con risultati costanti ed ottimi viene assegnata una carta aziendale, senza un tetto di spesa."
+      "content": "Dunque è vero che ai gruppi con risultati costanti e ottimi viene assegnata una carta aziendale, senza tetto di spesa."
     },
     {
       "id": 57,
@@ -312,7 +312,7 @@
     },
     {
       "id": 60,
-      "content": "Una persona, che apparteneva chiaramente ad un Sindacato violento, entrò nel negozio."
+      "content": "Una persona, chiaramente appartenente ad un Sindacato violento, entrò nel negozio."
     },
     {
       "id": 61,
@@ -405,7 +405,7 @@
       "model": "전당포주인",
       "teller": "Negoziante",
       "title": "Banco dei Pegni della J Corp.",
-      "content": "T-tutto ma non quello… Per favore…"
+      "content": "Tu-tutto ma non quello… Per favore…"
     },
     {
       "id": 77,
@@ -513,11 +513,11 @@
     {
       "id": 97,
       "model": "단테",
-      "content": "<Quell'affermazione… non rispecchia le opinioni di una certa… persona…>"
+      "content": "<Quell'affermazione… non rispecchia le opinioni di una… certa… persona…>"
     },
     {
       "id": 98,
-      "content": "Ed è una di quelle cose che la faceva scattare seduta stante…!"
+      "content": "Ed è una di quelle cose che la fa scattare seduta stante…!"
     },
     {
       "id": 99,
@@ -748,14 +748,14 @@
       "id": 141,
       "model": "세보이고싶었던콩콩파조직원",
       "teller": "Tingtanger Pallone Gonfiato",
-      "title": "Gang Tingtanger",
+      "title": "Gang Tingtang",
       "content": "Ao, vecchio, hai visto il nostro—"
     },
     {
       "id": 142,
       "model": "세보이고싶었던콩콩파조직원",
       "teller": "Tingtanger Pallone Gonfiato",
-      "title": "Gang Tingtanger",
+      "title": "Gang Tingtang",
       "content": "Ma che diamine! Cosa sta succedendo qua dentro?!"
     },
     {
@@ -770,21 +770,21 @@
       "id": 145,
       "model": "세보이고싶었던콩콩파조직원",
       "teller": "Tingtanger Pallone Gonfiato",
-      "title": "Gang Tingtanger",
+      "title": "Gang Tingtang",
       "content": "Chi è stato?! Sputate il rospo! Quell'idiota se ne pentirà finché campa!"
     },
     {
       "id": 146,
       "model": "촌스러운말투의콩콩파조직원",
       "teller": "Tingtanger Pallone Gonfiato",
-      "title": "Gang Tingtanger",
+      "title": "Gang Tingtang",
       "content": "Gnh… L… Là…"
     },
     {
       "id": 147,
       "model": "촌스러운말투의콩콩파조직원",
       "teller": "Tingtanger Pallone Gonfiato",
-      "title": "Gang Tingtanger",
+      "title": "Gang Tingtang",
       "content": "Orocoso… rosso…"
     },
     {
@@ -820,7 +820,7 @@
       "id": 154,
       "model": "세보이고싶었던콩콩파조직원",
       "teller": "Tingtanger Pallone Gonfiato",
-      "title": "Gang Tingtanger",
+      "title": "Gang Tingtang",
       "content": "Jah… Voi lì, frijolitos… Fermi. Fermi dove siete."
     },
     {

@@ -1039,7 +1039,7 @@
     {
       "id": 1060821,
       "name": "Illuminazione",
-      "desc": "Dopo l'Attacco: Se il bersaglio è in stato Vacillante o sconfitto per l'attacco di 1 alleato con i PS più bassi, l'alleato cura 7 PS."
+      "desc": "Fine Attacco: Se il bersaglio è in stato Vacillante o sconfitto per l'attacco di 1 alleato con i PS più bassi, l'alleato cura 7 PS."
     },
     {
       "id": 1010801,
@@ -1064,7 +1064,7 @@
     {
       "id": 1080801,
       "name": "Capitano della Pequod",
-      "desc": "Dopo l'Attacco: se il nemico viene sconfitto in seguito all'attacco di questa unità,\n- ottiene [HeatedGasHarpoon] il turno successivo.\n- 1 altro alleato con i PS più bassi cura 7 PS.\n- Se l'alleato è parte del Pequod, cura altri 5 PS."
+      "desc": "Fine Attacco: Se il nemico viene sconfitto in seguito all'attacco di questa unità,\n- ottiene [HeatedGasHarpoon] il turno successivo.\n- 1 altro alleato con i PS più bassi cura 7 PS.\n- Se l'alleato è parte del Pequod, cura altri 5 PS."
     },
     {
       "id": 1080802,
@@ -1074,7 +1074,7 @@
     {
       "id": 1080811,
       "name": "Capitano della Pequod",
-      "desc": "- Dopo l'Attacco: se il nemico viene sconfitto in seguito all'attacco di questa unità,\n<style=\"highlight\">- ottiene 4 [Breath], +2 Conteggio [Breath]. Infine, ottiene [OverHeatedGasHarpoon] il turno successivo.</style>\n<style=\"highlight\">- 2 altri alleati con meno PS curano 7 PS e ottengono 4 [Breath].</style>\n- Se gli alleati sono parte del Pequod, cura altri 5 PS. <style=\"highlight\">Infine, 1 volta per turno, applica 1 [PenetrateResultUp] il turno successivo.</style>"
+      "desc": "- Fine Attacco: Se il nemico viene sconfitto in seguito all'attacco di questa unità,\n<style=\"highlight\">- ottiene 4 [Breath], +2 Conteggio [Breath]. Infine, ottiene [OverHeatedGasHarpoon] il turno successivo.</style>\n<style=\"highlight\">- 2 altri alleati con meno PS curano 7 PS e ottengono 4 [Breath].</style>\n- Se gli alleati sono parte del Pequod, cura altri 5 PS. <style=\"highlight\">Infine, 1 volta per turno, applica 1 [PenetrateResultUp] il turno successivo.</style>"
     },
     {
       "id": 1080821,
@@ -1084,7 +1084,7 @@
     {
       "id": 1080831,
       "name": "Ordini del Capitano",
-      "desc": "Dopo l'Attacco: 1 alleato con i PS più alti ottiene 2 [Breath] e <style=\"highlight\">+2 Conteggio [Breath]</style> quando il bersaglio viene sconfitto dopo l'attacco dell'unità (2 volte per turno)"
+      "desc": "Fine Attacco: 1 alleato con i PS più alti ottiene 2 [Breath] e <style=\"highlight\">+2 Conteggio [Breath]</style> quando il bersaglio viene sconfitto dopo l'attacco dell'unità (2 volte per turno)"
     },
     {
       "id": 1050801,
@@ -1094,7 +1094,7 @@
     {
       "id": 1050811,
       "name": "Spada della Patria",
-      "desc": "In questo Incontro, quando questa unità subisce danni che portano i suoi PV a 0, ignora quei danni; infine, i PV di questa unità non possono scendere sotto 1 per quel turno. (Una volta per Incontro)\n\nQuando questa unità ottiene Potenza/Conteggio [Breath] con gli effetti delle sue Abilità o Monete: dà 1 Potenza [Breath] e +1 Conteggio [Breath] a 2 altri alleati degli Discendenti della Spada senza [Breath] o con meno [Breath]\n- Se ci sono 6 o più alleati Discendenti della Spada che partecipano in questo Incontro, invece dà 2 Potenza [Breath] e +2 Conteggio [Breath]\n\nInizio Combattimento: Applica il buff [SwordPlayOfTheHomeland] a tutti gli altri alleati Discendenti della Spada"
+      "desc": "In questo Incontro, quando questa unità subisce danni che portano i suoi PV a 0, ignora quei danni; infine, i PV di questa unità non possono scendere sotto 1 per quel turno. (Una volta per Incontro)\n\nQuando questa unità ottiene Potenza/Conteggio [Breath] con gli effetti delle sue Abilità o Monete: dà 1 Potenza [Breath] e +1 Conteggio [Breath] a 2 altri alleati degli Discendenti della Spada senza [Breath] o con meno [Breath]\n- Se ci sono 6 o più alleati Discendenti della Spada che partecipano in questo Incontro, invece dà 2 Potenza [Breath] e +2 Conteggio [Breath]\n\n<style=\"highlight\">Inizio Combattimento: Applica il buff [SwordPlayOfTheHomeland] a tutti gli altri alleati Discendenti della Spada</style>"
     },
     {
       "id": 1050821,
@@ -1326,7 +1326,7 @@
     {
       "id": 999903,
       "name": "Lacrime di Sangue",
-      "desc": "Sull'Uso di un'Abilità: Subisci 3% dei PV max come danni fissi (questi danni non possono uccidere questa unità).\nDopo l'Attacco: cura 15% dei PV max per ogni unità uccisa",
+      "desc": "Sull'Uso di un'Abilità: Subisci 3% dei PV max come danni fissi (questi danni non possono uccidere questa unità).\nFine Attacco: cura 15% dei PV max per ogni unità uccisa",
       "summary": ""
     },
     {
@@ -1514,7 +1514,7 @@
     },
     {
       "id": 1090921,
-      "name": "Arti Marziali della T Corp.",
+      "name": "Arti Marziali di T Corp.",
       "desc": "A 1 alleato con la Velocità più alta: Potere Scontro +1 nello Scontro contro i bersagli con 5+ [Vibration]"
     },
     {
@@ -1644,7 +1644,7 @@
     {
       "id": 1011011,
       "name": "Fuoco.FaròFuoco",
-      "desc": "Dopo l'Attacco: se questa unità ha ucciso il bersaglio con la sua Abilità, [ReloadLament]\nQuando questa unità ottiene [BulletLament], ottiene 2 [Agility] il turno successivo (1 volta per turno)",
+      "desc": "Fine Attacco: Se questa unità ha ucciso il bersaglio con la sua Abilità, [ReloadLament]\nQuando questa unità ottiene [BulletLament], ottiene 2 [Agility] il turno successivo (1 volta per turno)",
       "summary": "Quando questa unità ottiene [Bullet], ottiene [Agility] il turno successivo. [ReloadLament] Se Uccide."
     },
     {
@@ -1723,18 +1723,18 @@
     {
       "id": 1061001,
       "name": "Come Cacciare Allegramente",
-      "desc": "Se il bersaglio è un <Sanguimonio> o una <Sacca di Sangue>, infligge +10% danni\nSull'Uso di un'Abilità, se questa unità ha [Laceration], infligge 3 [Burst] Sul Colpo (1 volta per turno)",
+      "desc": "Se il bersaglio è un <Bramasangue> o una <Sacca di Sangue>, infligge +10% danni\nSull'Uso di un'Abilità, se questa unità ha [Laceration], infligge 3 [Burst] Sul Colpo (1 volta per turno)",
       "summary": ""
     },
     {
       "id": 1061011,
       "name": "Come Cacciare Allegramente",
-      "desc": "Se il bersaglio è un <Sanguimonio>, <Sacca di Sangue>, o se il bersaglio ha 10+ [Burst], infligge +10% danni\nSull'Uso di un'Abilità, se questa unità ha [Laceration], infligge 3 [Burst] Sul Colpo (2 volte per turno)",
+      "desc": "Se il bersaglio è un <Bramasangue>, <Sacca di Sangue>, o se il bersaglio ha 10+ [Burst], infligge +10% danni\nSull'Uso di un'Abilità, se questa unità ha [Laceration], infligge 3 [Burst] Sul Colpo (2 volte per turno)",
       "summary": ""
     },
     {
       "id": 1061021,
-      "name": "Manuale di Caccia Sanguimoni - Emostatica",
+      "name": "Manuale di Caccia ai Bramasangue - Emostatica",
       "desc": "Inizio Combattimento: 1 alleato con il totale di Potenza e Conteggio [Laceration] più alto perde 2 Conteggio [Laceration]\nQuando 1 alleato con la Velocità più alta colpisce un nemico con [Burst], infligge 1 [DefenseDown] (2 volte per turno)",
       "summary": ""
     },
@@ -1759,8 +1759,8 @@
     {
       "id": 1111121,
       "name": "Tecnica del Sangue Coagulato di Don Quixote 8: Forbici",
-      "desc": "1 alleato con la Velocità più alta: se il nemico viene ucciso Dopo l'Attacco, cura 10 PV (2 volte per turno)\n1 alleato con la Velocità più alta: se il nemico viene ucciso Dopo l'Attacco, infligge +1 Conteggio [Laceration] quando infligge Potenza [Laceration] con gli effetti di Abilità o Monete per il turno successivo (3 volte per turno)",
-      "summary": "Se il nemico is dead Dopo l'Attacco, cura PV"
+      "desc": "1 alleato con la Velocità più alta: Se il nemico viene ucciso a Fine Attacco, cura 10 PV (2 volte per turno)\n1 alleato con la Velocità più alta: Se il nemico viene ucciso a Fine Attacco, infligge +1 Conteggio [Laceration] quando infligge Potenza [Laceration] con gli effetti di Abilità o Monete per il turno successivo (3 volte per turno)",
+      "summary": "Fine Attacco: Se il nemico è morto, cura PV"
     },
     {
       "id": 1121001,
@@ -1858,12 +1858,12 @@
     {
       "id": 1031004,
       "name": "Armadura de Sangre",
-      "desc": "Dopo l'Attacco: se il nemico viene sconfitto, in seguito all'attacco di questa unità, aumenta la quantità di [BloodDinner] del 10% dei PV massimi del bersaglio (100 per turno; negli Incontri Mirati, se la Parte viene rotta)\nOttiene 1 [AttackDmgUp] il turno successivo per ogni 15% di PV mancanti A Fine Turno (max 3)\nSe un alleato sta per essere sconfitto dai danni da [Laceration], impedisci che sia sconfitto dai danni da [Laceration] per quel turno (Una volta per Incontro per ogni Identità)"
+      "desc": "Fine Attacco: se il nemico viene sconfitto, in seguito all'attacco di questa unità, aumenta la quantità di [BloodDinner] del 10% dei PV massimi del bersaglio (100 per turno; negli Incontri Mirati, se la Parte viene rotta)\nOttiene 1 [AttackDmgUp] il turno successivo per ogni 15% di PV mancanti A Fine Turno (max 3)\nSe un alleato sta per essere sconfitto dai danni da [Laceration], impedisci che sia sconfitto dai danni da [Laceration] per quel turno (Una volta per Incontro per ogni Identità)"
     },
     {
       "id": 1031021,
       "name": "'Saziate la vostra fame repressa, Famiglia mia'",
-      "desc": "Inizio Combattimento: 1 alleato con i PV più bassi ottiene 1 [AttackDmgUp] per ogni 20% di PV mancanti (max 3)\n- Se quell'alleato è un <Sanguimonio>, invece ottiene 1 [AttackDmgUp] per ogni 15% di PV mancanti (max 3)"
+      "desc": "Inizio Combattimento: 1 alleato con i PV più bassi ottiene 1 [AttackDmgUp] per ogni 20% di PV mancanti (max 3)\n- Se quell'alleato è un <Bramasangue>, invece ottiene 1 [AttackDmgUp] per ogni 15% di PV mancanti (max 3)"
     },
     {
       "id": 1061101,
@@ -1873,12 +1873,12 @@
     {
       "id": 1061102,
       "name": "Supporto con Armi da Fuoco Tattico",
-      "desc": "Se il Fixer dell'Ufficio Punto e Basta Heathcliff è in stato di [Retreat_FullStop], o è stato Schierato come unità di Riserva, potenzia l'Abilità 2 e Abilità 3 del Rappresentante dell'Ufficio Punto e Basta Hong Lu"
+      "desc": "Se Fixer dell'Ufficio Alto Calibro Heathcliff è in stato di [Retreat_FullStop], o è stato Schierato come unità di Riserva, potenzia l'Abilità 2 e Abilità 3 del Rappresentante dell'Ufficio Alto Calibro Hong Lu"
     },
     {
       "id": 1061111,
       "name": "Supporto di Fuoco Tattico",
-      "desc": "Se il Fixer dell'Ufficio Punto e Basta Heathcliff è in stato di [Retreat_FullStop], o è stato Schierato come unità di Riserva, potenzia l'Abilità 2 e Abilità 3 del Rappresentante dell'Ufficio Punto e Basta Hong Lu\n\nInizio Combattimento: a 20+ Potenza [Breath], ottiene +1 Conteggio [Breath]"
+      "desc": "Se Fixer dell'Ufficio Alto Calibro Heathcliff è in stato di [Retreat_FullStop], o è stato Schierato come unità di Riserva, potenzia l'Abilità 2 e Abilità 3 del Rappresentante dell'Ufficio Alto Calibro Hong Lu\n\nInizio Combattimento: a 20+ Potenza [Breath], ottiene +1 Conteggio [Breath]"
     },
     {
       "id": 1061121,
@@ -1908,7 +1908,7 @@
     {
       "id": 1071121,
       "name": "Spotter",
-      "desc": "1 alleato con le [Bullet] ottiene +2 Conteggio [Breath] quando usa un'Abilità che consuma [Bullet].\n- Se quell'alleato è un'Identità dell'Ufficio Punto e Basta, o se ha meno di 5 Conteggio [Breath],invece ottiene +4 Conteggio [Breath] (1 volta per turno; non si applica a unità senza [Bullet])"
+      "desc": "1 alleato con le [Bullet] ottiene +2 Conteggio [Breath] quando usa un'Abilità che consuma [Bullet].\n- Se quell'alleato è un'Identità dell'Ufficio Alto Calibro, o se ha meno di 5 Conteggio [Breath],invece ottiene +4 Conteggio [Breath] (1 volta per turno; non si applica a unità senza [Bullet])"
     },
     {
       "id": 1011101,
@@ -2012,7 +2012,8 @@
     {
       "id": 1121101,
       "name": "Sono l'Unico Sopravvissuto...",
-      "desc": "Infligge +0.2% danni per ogni [FirePunchFuel] e [FirePunchFuelOverheated] consumato da questa unità in questo Incontro (max 40%)\n- Se il bersaglio principale è un <Sanguimonio>, una <Sacca di Sangue>, o se ha 30+ ([Combustion] + Conteggio [Combustion]), allora infligge +0.3% danni (max 60%)\n\nA 1+ [FirePunchFuel] o [FirePunchFuelOverheated], se questa unità fa Vacillare o sconfigge dei nemici con [Combustion], infligge +2 Conteggio [Combustion] contro 2 nemici casuali senza [Combustion] o con meno Conteggio [Combustion] (1 volta per turno)\n- negli Incontri Mirati, sulle Parti"
+      "desc": "Infligge +0.2% danni per ogni [FirePunchFuel] e [FirePunchFuelOverheated] consumato da questa unità in questo Incontro (max 40%)\n- Se il bersaglio principale è un <Bramasangue>, una <Sacca di Sangue>, o se ha 30+ ([Combustion] + Conteggio [Combustion]), allora infligge +0.3% danni (max 60%)\n\nA 1+ [FirePunchFuel] o [FirePunchFuelOverheated], se questa unità fa Vacillare o sconfigge dei nemici con [Combustion], infligge +2 Conteggio [Combustion] contro 2 nemici casuali senza [Combustion] o con meno Conteggio [Combustion] (1 volta per turno)\n- negli Incontri Mirati, sulle Parti",
+      "summary": "Deal more damage based on [FirePunchFuel] and [FirePunchFuelOverheated] consumed\nInflict [Combustion] Count against 2 random enemies (once per turn)"
     },
     {
       "id": 1121121,
@@ -2067,12 +2068,12 @@
     {
       "id": 1101201,
       "name": "Il Medio Non Dimentica Mai",
-      "desc": "Quando subisce un colpo da un nemico, infligge 3 [VendettaMark] contro l'attaccante(o la Parte) (1 volta per turno)\n\nQuando un altro alleato viene colpito da un nemico, infligge 2 [VendettaMark] contro l'attaccante(o la Parte) (1 volta per turno per Identità)\n\nDopo aver attaccato con un'Abilità Attacco Base o Abilità di Contrattacco, consuma tutti i [VendettaMark] sul bersaglio\n- Ogni volta che il bersaglio consuma [VendettaMark], ottiene [VengeanceBookSinclair] corrispondente a quanto consumato"
+      "desc": "Quando subisce un colpo da un nemico, infligge 3 [VendettaMark] contro l'attaccante(o la Parte) (1 volta per turno)\n\nQuando un altro alleato viene colpito da un nemico, infligge 2 [VendettaMark] contro l'attaccante(o la Parte) (1 volta per turno per Identità)\n\nA Fine Attacco con un'Abilità Attacco Base o Abilità di Contrattacco: Consuma tutti i [VendettaMark] sul bersaglio\n- Ogni volta che il bersaglio consuma [VendettaMark], ottiene [VengeanceBookSinclair] corrispondente a quanto consumato"
     },
     {
       "id": 1101211,
       "name": "Il Medio Non Dimentica Mai",
-      "desc": "Quando subisce un colpo da un nemico, infligge <style=\"highlight\">5</style> [VendettaMark] contro l'attaccante(o la Parte) (1 volta per turno)\n\nQuando un altro alleato viene colpito da un nemico, infligge 2 [VendettaMark] contro l'attaccante(o la Parte) (1 volta per turno per Identità)\n<style=\"highlight\">- Se quell'alleato è parte del Medio, infligge 3 [VendettaMark] in più</style>\n\nDopo aver attaccato con le Abilità Attacco Base o Abilità di Contrattacco, consuma tutti i [VendettaMark] sul bersaglio\n- Ogni volta che il bersaglio consuma [VendettaMark], ottiene [VengeanceBookSinclair] corrispondente a quanto consumato"
+      "desc": "Quando subisce un colpo da un nemico, infligge <style=\"highlight\">5</style> [VendettaMark] contro l'attaccante(o la Parte) (1 volta per turno)\n\nQuando un altro alleato viene colpito da un nemico, infligge 2 [VendettaMark] contro l'attaccante(o la Parte) (1 volta per turno per Identità)\n<style=\"highlight\">- Se quell'alleato è parte del Medio, infligge 3 [VendettaMark] in più</style>\n\nA Fine Attacco con le Abilità Attacco Base o Abilità di Contrattacco, consuma tutti i [VendettaMark] sul bersaglio\n- Ogni volta che il bersaglio consuma [VendettaMark], ottiene [VengeanceBookSinclair] corrispondente a quanto consumato"
     },
     {
       "id": 1101221,
@@ -2185,7 +2186,7 @@
     {
       "id": 1051202,
       "name": "Chachihu [揷翅虎]",
-      "desc": "Sempre Attiva: inizia l'Incontro con 12 [BulletPropellantAlly]\n\nQuando lancia una Moneta che usa [BulletPropellantAlly] o [BulletPropellantSpecialAlly]: anche se non avere [FireBulletPropellant] non annulla i suoi attacchi, gli effetti Sul Colpo della Moneta \"infilgge [Combustion]\" e \"infligge Conteggio [Combustion]\" non si attivano\n\nSe questa unità ha preparato delle Abilità Difensive per la prima volta in questo Incontro, o se questa unità ha esaurito tutte le sue [BulletPropellantAlly], o se questa unità Vacilla: alla fine di quel turno, ricarica 8 [BulletPropellantSpecialAlly] e ottiene 1 [IrritationAlly] (1 volta per Incontro)\n- Se questo effetto si attiva quando questa unità Vacilla, si riprende dal Vacillamento (a meno che non sia un Vacillamento forzato)\n- Rimuove ogni [BulletPropellantAlly] se questa unità aveva [BulletPropellantAlly] rimanenti\n- A 8+ (somma di [BulletPropellconverte tutte le Monete diopellantSpecialAllyusate), conv(i)rte [IrritationAlly] in [HugeIrritationAlly]\n\nQuando questa unità usa un'Abilità Attacco Base che consuma l'ultima [BulletPropellantSpecialAlly]...\n- Ottiene Portata Attacco +2 prima di attaccare\n- Ottiene 1 [BeastEyesAlly] il turno seguente",
+      "desc": "Sempre Attiva: inizia l'Incontro con 12 [BulletPropellantAlly]\n\nQuando lancia una Moneta che usa [BulletPropellantAlly] o [BulletPropellantSpecialAlly]: anche se non avere [FireBulletPropellant] non annulla i suoi attacchi, gli effetti Sul Colpo della Moneta \"infilgge [Combustion]\" e \"infligge Conteggio [Combustion]\" non si attivano\n\nSe questa unità ha preparato delle Abilità Difensive per la prima volta in questo Incontro, o se questa unità ha esaurito tutte le sue [BulletPropellantAlly], o se questa unità Vacilla: alla fine di quel turno, ricarica 8 [BulletPropellantSpecialAlly] e ottiene 1 [IrritationAlly] (1 volta per Incontro)\n- Se questo effetto si attiva quando questa unità Vacilla, si riprende dal Vacillamento (escluso il Vacillamento forzato)\n- Rimuove ogni [BulletPropellantAlly] se questa unità aveva [BulletPropellantAlly] rimanenti\n- A 8+ (somma di [BulletPropellantAlly] e [BulletPropellantSpecialAlly] spesi), converte [IrritationAlly] in [HugeIrritationAlly]\n\nQuando questa unità usa un'Abilità Attacco Base che consuma l'ultimo [BulletPropellantSpecialAlly]...\n- Ottiene Portata Attacco +2 prima di attaccare\n- Ottiene 1 [BeastEyesAlly] il turno seguente",
       "summary": ""
     },
     {
@@ -2225,7 +2226,7 @@
     {
       "id": 1011321,
       "name": "Assegna il Bersaglio",
-      "desc": "Quando l'alleato dalla Velocità più bassa attacca un alleato: Dopo l'Attacco, ottiene 1 [AttackDmgUp] il turno successivo (2 volte per turno)\n- Se l'alleato attaccato viene ucciso da questo attacco, invece ottiene 1 [AttackDmgUp] per l'intero Incontro (max 2 per Sezione per Identità)\n- Può ottenere solo fino a 2 [AttackDmgUp] dal suddetto effetto."
+      "desc": "Quando l'alleato dalla Velocità più bassa attacca un alleato, a Fine Attacco: Ottiene 1 [AttackDmgUp] il turno successivo (2 volte per turno)\n- Se l'alleato attaccato viene ucciso da questo attacco, invece ottiene 1 [AttackDmgUp] per l'intero Incontro (max 2 per Sezione per Identità)\n- Può ottenere solo fino a 2 [AttackDmgUp] dal suddetto effetto."
     },
     {
       "id": 1031202,
@@ -2313,7 +2314,7 @@
     {
       "id": 1061301,
       "name": "Accetta il Sangue Immondo e Dissangua il Prossimo Per la Causa.",
-      "desc": "A Inzio Combattimento: se questa unità non ha preparato un'Abilità Difensiva e sta per subire un'Attacco Incontrastato, applica 1 [HeishouSupportProtect] a (Rison. più alta/ 3) alleati di un Branco Heishou casuali con le meno Stack di [SupportProtect]. (max 2 alleati; 1 volta per Identità; esclude le Identità con Abilità che ottengono [SupportProtect])\n\nIn questo Incontro, quando questa unità subisce danni che mandano i suoi PV a 0, annulla quei danni; infine, i PV di questa unità non possono scendere sotto a 1 per quel turno, ed ottiene 1 [CondensedBlood] (1 volta per Incontro)\n\nLe Abilità di questa unità infliggono +3% danni per ogni [CondensedBlood] su di sé\n\nQuando attiva l'Abilità E.G.O 'Lacrime[TabExplain] del Sangue Immondo[TabExplain] - La Fine', annulla l'effetto mortale nei suoi effetti Dopo l'Attacco; invece, si cura di 60% PV. All'inizio del turno successivo, ottiene 1 [AttackDmgUp] ad ogni Inizio Turno (1 volta per Incontro)",
+      "desc": "A Inzio Combattimento: se questa unità non ha preparato un'Abilità Difensiva e sta per subire un'Attacco Incontrastato, applica 1 [HeishouSupportProtect] a (Rison. più alta/ 3) alleati di un Branco Heishou casuali con le meno Stack di [SupportProtect]. (max 2 alleati; 1 volta per Identità; esclude le Identità con Abilità che ottengono [SupportProtect])\n\nIn questo Incontro, quando questa unità subisce danni che mandano i suoi PV a 0, annulla quei danni; infine, i PV di questa unità non possono scendere sotto a 1 per quel turno, ed ottiene 1 [CondensedBlood] (1 volta per Incontro)\n\nLe Abilità di questa unità infliggono +3% danni per ogni [CondensedBlood] su di sé\n\nQuando attiva l'Abilità E.G.O 'Lacrime[TabExplain] del Sangue Immondo[TabExplain] - La Fine', annulla l'effetto mortale nei suoi effetti Fine Attacco; invece, si cura di 60% PV. All'inizio del turno successivo, ottiene 1 [AttackDmgUp] ad ogni Inizio Turno (1 volta per Incontro)",
       "summary": "Quando subisce danni che mandano i PV di questa unità a 0, annulla la morte, e ottiene [CondensedBlood]\nQuando attiva 'Lacrime[TabExplain] del Sangue Immondo[TabExplain]', annulla la morte, si cura PV, e ottiene [AttackDmgUp]"
     },
     {
@@ -2565,13 +2566,13 @@
     {
       "id": 1091401,
       "name": "Corna Festive",
-      "desc": "Ottiene 1 [Charge] ogni volta che quest'unità consuma 10 Conteggio [Charge] cumulativo in quest'Incontro\n\nQuando usa un'Abilità Attacco Base che infligge Potenza [Sinking] Potency, se il bersaglio non ha [Sinking], quest'unità ottiene 5 [Sinking] e raddoppia la quantità di Potenza Pianto che l'Abilità applica (una volta per turno; negli Incontri Mirati, la Parte)",
+      "desc": "Ottiene 1 [Charge] ogni volta che quest'unità consuma 10 Conteggio [Charge] cumulativo in quest'Incontro\n\nQuando usa un'Abilità Attacco Base che infligge Potenza [Sinking] Potency, se il bersaglio non ha [Sinking], quest'unità ottiene 5 [Sinking] e raddoppia la quantità di Potenza Annegamento che l'Abilità applica (una volta per turno; negli Incontri Mirati, la Parte)",
       "summary": "If enemy does not have [Sinking], gain [Sinking] and inflict more [Sinking] Potency"
     },
     {
       "id": 1091411,
       "name": "Corna Festive",
-      "desc": "Ottiene 1 [Charge] ogni volta che quest'unità consuma 10 Conteggio [Charge] cumulativo in quest'Incontro\n\nQuando usa un'Abilità Attacco Base che infligge Potenza [Sinking] Potency, se il bersaglio non ha [Sinking], quest'unità ottiene 5 [Sinking] e raddoppia la quantità di Potenza Pianto che l'Abilità applica (una volta per turno; negli Incontri Mirati, la Parte)\n\n<style=\"highlight\">A meno del 35% di PV, L'Abilità Attacco Base ottiene Potere Finale +1</style>",
+      "desc": "Ottiene 1 [Charge] ogni volta che quest'unità consuma 10 Conteggio [Charge] cumulativo in quest'Incontro\n\nQuando usa un'Abilità Attacco Base che infligge Potenza [Sinking] Potency, se il bersaglio non ha [Sinking], quest'unità ottiene 5 [Sinking] e raddoppia la quantità di Potenza Annegamento che l'Abilità applica (una volta per turno; negli Incontri Mirati, la Parte)\n\n<style=\"highlight\">A meno del 35% di PV, L'Abilità Attacco Base ottiene Potere Finale +1</style>",
       "summary": "If enemy does not have [Sinking], gain [Sinking] and inflict more [Sinking] Potency\nAt less than 35% HP, Final Power +1"
     },
     {
@@ -2624,35 +2625,145 @@
     {
       "id": 1021421,
       "name": "Come Ordina Il Prescritto...",
-      "desc": "Quest'effetto si applica all'Identità con l'ordine di Schieramento più alto:\n- Le Unità dell'Indice avranno la priorità\n\nInizio Combattimento: se l'Unità con l'Abilità più a sinistra nel Pannello Di Controllo e gli altri alleati bersagliano lo stesso Slot Nemico, quelle Abilità infliggono +5% danni per ogni alleato che bersaglia lo stesso Slot, escludendo quest'Unità (max 15%, si applica quando quest'unità e gli alleati usano entrambi un'Abilità Attacco Base sullo Slot del bersaglio principale)"
+      "desc": "Quest'effetto si applica all'Identità con l'ordine di Schieramento più alto:\n- Le Unità dell'Indice avranno la priorità\n\nInizio Combattimento: se l'Unità con l'Abilità più a sinistra nel Pannello Di Controllo e gli altri alleati bersagliano lo stesso Slot Nemico, quelle Abilità infliggono +5% danni per ogni alleato che bersaglia lo stesso Slot, escludendo quest'Unità (max 15%, si applica quando quest'unità e gli alleati usano entrambi un'Abilità Attacco Base sullo Slot del bersaglio principale)",
+      "summary": "Deal more damage based on number of other units that targeted the slot"
     },
     {
       "id": 1031402,
-      "name": "Prescript Delivered on a Device",
-      "desc": "Turn Start:\n- Gain [IndexPrescriptDon_0] / [IndexPrescriptDon_1] / [IndexPrescriptDon_2] / [IndexPrescriptDon_3] based on [UnlockBuff_Base] stage on self\n- Inflict [IndexPrescriptTargetToEnemy] to a random enemy (in Focused Encounters, the Part)\n- Apply [IndexPrescriptTargetMarkToEnemy] to Base Attack Skills on this unit's Dashboard (1 per Slot, max 2 Skills)\n· At [UnlockBuffAlly_2]+, the effect above prioritizes Skill 3\n- All of the effects above and [IndexPrescript_Base_2nd] execution checks do not trigger when this unit is Staggered, Immobilized[TabExplain], in Panic, or in E.G.O Corrosion[TabExplain]\n\nIf this unit has [UnlockBuffAlly_3] at Turn Start, gain [Blandishment_Shin]",
+      "name": "Prescritto Consegnato Su Un Dispositivo",
+      "desc": "Inizio Turno:\n- Ottiene [IndexPrescriptDon_0] / [IndexPrescriptDon_1] / [IndexPrescriptDon_2] / [IndexPrescriptDon_3] in base al livello di [UnlockBuff_Base] su di sé\n- Infligge [IndexPrescriptTargetToEnemy] ad un nemico casuale (negli Incontri Mirati, ad una Parte)\n- Applica [IndexPrescriptTargetMarkToEnemy] alle Abilità Attacco Base di questa unità sul Pannello di Controllo (1 per Slot, max 2 Abilità)\n· A [UnlockBuffAlly_2]+, l’effetto dà priorità all’Abilità 3\n- Se questa unità Vacilla, è Immobilizzata, in Panico o in <noparse>Corrosione</noparse> E.G.O, tutti gli effetti sovracitati e [IndexPrescript_Base_2nd] non si attivano\n\nSe questa unità ha [UnlockBuffAlly_3] ad Inizio Turno, ottiene [Blandishment_Shin]",
       "summary": "Gain Prescript\nInflict The Prescript's Target to random target\nApply Mark of the Prescript on a Base Attack Skill"
     },
     {
       "id": 1031403,
-      "name": "Will of the Prescript",
-      "desc": "Turn End: If [IndexPrescript_Base_2nd] was executed this turn, heal 4 SP and gain 1 [BlessingOfIndexPrescriptAlly] (once per turn)\n- When executing [IndexPrescript_Base_2nd], if the main target has [IndexPrescriptTargetToEnemy], heal 8 SP and gain 3 [BlessingOfIndexPrescriptAlly] instead\n\nTurn End: If [IndexPrescript_Base_2nd] was not executed this turn, gain 5 [KarmaOfIndexAlly]\n- At [UnlockBuffAlly_3], does not gain [KarmaOfIndexAlly]\n- If this unit attempted to execute [IndexPrescript_Base_2nd] at Combat Start, but could not target the enemy during the combat phase, does not gain [KarmaOfIndexAlly] at Turn End",
+      "name": "Volontà Del Prescritto",
+      "desc": "Fine Turno: Se il [IndexPrescript_Base_2nd] è stato portato a termine in questo turno, si cura di 4 PS ed ottiene 1 [BlessingOfIndexPrescriptAlly] (una volta per turno)\n- Quando si porta a termine il [IndexPrescript_Base_2nd], se il bersaglio principale ha [IndexPrescriptTargetToEnemy], si cura invece di 8 PS ed ottiene 3 [BlessingOfIndexPrescriptAlly]\n\nFine Turno: Se il [IndexPrescript_Base_2nd] non è stato portato a termine in questo turno, ottiene 5 [KarmaOfIndexAlly]\n- A [UnlockBuffAlly_3], non ottiene [KarmaOfIndexAlly]\n- Se questa unità prova ad eseguire un [IndexPrescript_Base_2nd] all’Inizio del Combattimento, ma non ha potuto bersagliare un nemico durante la fase di combattimento, non ottiene [KarmaOfIndexAlly] a Fine Turno",
       "summary": "Upon executing Prescript, heal SP and gain Grace of the Prescript\nUpon failing Prescript, gain Karmic Consequence"
     },
     {
       "id": 1031404,
-      "name": "Unlock / Effloresced E.G.O::Procuration",
-      "desc": "Turn End: At 3/6/9 [BlessingOfIndexPrescriptAlly], gain [UnlockBuffAlly_1]/[UnlockBuffAlly_2]/[UnlockBuffAlly_3].\n\nIf this unit gained [UnlockBuffAlly_1], consume 15 SP to enter <noparse>Effloresced</noparse> E.G.O::Procuration state:\n- Before consuming SP to enter this state, heal SP to 25 and gain [KarmaOfIndexAlly] equal to (SP healed / 5) (rounded up)\n- At Turn Start after the above checks, if this unit has [UnlockBuff_Base] and is at 25+ SP, consume 15 SP to enter this state\n\n- If this unit gets Staggered when entering <noparse>Effloresced</noparse> E.G.O::Procuration state, recover from Stagger (if this unit's Stagger cannot be naturally recovered from, does not enter <noparse>Effloresced</noparse> E.G.O::Procuration state)\n- Gain [Blandishment] while in <noparse>Effloresced</noparse> EGO::Procuration state\n\nTurn Start: At 0 or less SP, this unit exits <noparse>Effloresced</noparse> E.G.O::Procuration state"
+      "name": "Sprigiona / E.G.O Manifestato::Attuazione",
+      "desc": "Fine Turno: A 3/6/9 [BlessingOfIndexPrescriptAlly], ottiene [UnlockBuffAlly_1]/[UnlockBuffAlly_2]/[UnlockBuffAlly_3].\n\nSe questa unità ha ottenuto [UnlockBuffAlly_1], usa 15 PS per entrare nello stato E.G.O Manifestato::Attuazione:\n- Prima di usare i PS per entrare in questo stato, cura i PS fino a 25 ed ottiene [KarmaOfIndexAlly] pari a (PS curati / 5) (arrotondato per eccesso)\n- Ad Inizio Turno, dopo aver controllato gli effetti sovracitati, se questa unità ha [UnlockBuff_Base] ed è a 25+ PS, usa 15 PS per entrare in questo stato\n\n- Se questa unità viene fatta Vacillare quando entra nello stato E.G.O Manifestato::Attuazione, si riprende dal Vacillamento (se non è possibile riprendersi normalmente, non entra nello stato E.G.O Manifestato::Attuazione)\n- Ottiene [Blandishment] mentre è nello stato E.G.O Manifestato::Attuazione\n\nInizio Turno: A 0 o meno PS, questa unità esce dallo stato E.G.O Manifestato::Attuazione"
     },
     {
       "id": 1031401,
-      "name": "The Great Magicked Beeper Knoweth My Desire!",
-      "desc": "Deal +2% damage with Skills marked with [IndexPrescriptTargetMarkToEnemy] for every [BlessingOfIndexPrescriptAlly] on self (max 16%)\n- At 9 [BlessingOfIndexPrescriptAlly], deal +20% damage with Base Skills instead\n\nOn hit with Base Skill attacks against targets with [IndexPrescriptTargetToEnemy], heal 3 SP (once per Skill; 2 times per turn)\n- Heal additional SP based on [UnlockBuff_Base] stage",
+      "name": "Il Sommo Bip-Bip Incantato Conosce Il Mio Desiderio!",
+      "desc": "Infligge +2% danni con le Abilità marchiate con [IndexPrescriptTargetMarkToEnemy] per ogni [BlessingOfIndexPrescriptAlly] su di sé (max 16%)\n- A 9 [BlessingOfIndexPrescriptAlly], infligge invece +20% danni con le Abilità Base\n\nSul Colpo con Abilità Base che colpiscono i bersagli con [IndexPrescriptTargetToEnemy], si cura di 3 PS (una volta per Abilità, 2 volte per turno)\n- Si cura di PS in più in base al livello di [UnlockBuff_Base]",
       "summary": "Skills marked with Mark of the Prescript deal more damage based on Grace of the Prescript Stack\nOn Hit, heal SP"
     },
     {
       "id": 1031421,
-      "name": "This, too, is the Grace of the Great Magicked Beeper!",
-      "desc": "Combat Start: Heal 15 SP for the ally with the lowest SP\n- This effect prioritizes Plus Coin Identities\n- If the affected unit is in The Index faction, they gain 1 [AttackDmgUp] as well\n- This effect does not apply to units under effects that prevent SP recovery such as E.G.O Corrosion[TabExplain], Panic, etc."
+      "name": "Anche Questa È La Grazia Del Sommo Bip-Bip Incantato!",
+      "desc": "Inizio Combattimento:  L'alleato con il numero più basso di PS recupera 15 PS\n- Questo Effetto da priorità alle Identità che usano Monete Positive\n- Se L'unità influenzata da questo effetto fa parte dell'Indice, ottiene anche 1 [AttackDmgUp]\n- Questo effetto non si applica alle unità con effetti che impediscono il recupero di PS, come la <noparse>Corrosione</noparse> E.G.O, Panico, ecc."
+    },
+    {
+      "id": 1081401,
+      "name": "The Middle Never Forgets, Y'know?",
+      "desc": "Turn End: Inflict [RetaliationBook] to the enemy that dealt the most Skill damage to an ally this turn\n\nEvery time this unit is hit by an enemy, gain 2 [ResentmentIshmael] (2 times per turn)\nWhen an other The Middle-faction ally is hit by an enemy, gain 1 [ResentmentIshmael] (once per turn per Identity)\n\nGain 1 [ReinforcedTattooIshmael] every time this unit consumes 5 [ResentmentIshmael] (2 times per turn)\n\nCombat Start: If this unit does not have [HeatingWireIshmael], and at 3+ Envy Reson., gain 2 [HeatingWireIshmael] next turn\nCombat Start: If this unit has [HeatingWireIshmael], gain (Envy Reson. / 3) [HeatingWireIshmael] at Turn End (max 2)"
+    },
+    {
+      "id": 1081411,
+      "name": "The Middle Never Forgets, Y'know?",
+      "desc": "Turn End: Inflict [RetaliationBook] to the enemy that dealt the most Skill damage to an ally this turn\n\nEvery time this unit is hit by an enemy, gain 2 [ResentmentIshmael] (2 times per turn)\nWhen an other The Middle-faction ally is hit by an enemy, gain 1 [ResentmentIshmael] (once per turn per Identity)\n<style=\"highlight\">- If the target that attacked this unit or an ally has [RetaliationBook], gain 1 more [ResentmentIshmael]\n- Combat Start: If the Dashboard has Envy A-Reson., double the amount of [ResentmentIshmael] gained this turn</style>\n\nGain 1 [ReinforcedTattooIshmael] every time this unit consumes 5 [ResentmentIshmael] (2 times per turn)\n\nCombat Start: If this unit does not have [HeatingWireIshmael], and at 3+ Envy Reson., gain 2 [HeatingWireIshmael] next turn\nCombat Start: If this unit has [HeatingWireIshmael], gain (Envy Reson. / 3) [HeatingWireIshmael] at Turn End (max 2)"
+    },
+    {
+      "id": 1081402,
+      "name": "Thermal Weapon",
+      "desc": "This unit is considered as an Identity that inflicts [Combustion] and [Laceration].\nIf this unit has [HeatingWireIshmael], Skills that inflict [Laceration] are considered as Skills that inflict both [Combustion] and [Laceration]."
+    },
+    {
+      "id": 1081421,
+      "name": "Hey, Are Ya Into Fixers, Too?",
+      "desc": "Clash Power +1 for #1 Deployed Identity's Base Attack Skills (once per turn)\nIf the Dashboard has Envy A-Reson., #1 Deployed Identity deals +10% damage with Base Skills",
+      "summary": "Clash Power +1 for Base Attack Skills\nIf the Dashboard has Envy A-Reson., deal +10% damage with Base Skills"
+    },
+    {
+      "id": 1121402,
+      "name": "Dazzling Lamp",
+      "desc": "Turn Start: Gain 1 [LanternGregBigBird]\n\nExternal effects cannot change this unit's Min. and Max. Speeds\n\nWhen chaining Skills, this unit can redirect the Attack Skills' targeting to itself regardless of Speed (Focused Encounters only)\n\nWhen gaining [Agility], gain 1 [ParryingResultUp] instead (once per turn)\n- Once the above effect activates, cannot gain [Agility] for the rest of the turn"
+    },
+    {
+      "id": 1121403,
+      "name": "E.G.O Gear Proficiency Manual",
+      "desc": "Turn Start: Gain 1 [DefenseUp] for every ally wearing E.G.O Gears (max 3)\n\nWhen an ally dies, gain 2 [PenetrateDamageUp] next turn (once per turn)"
+    },
+    {
+      "id": 1121401,
+      "name": "Eyes Bright Like Lamps",
+      "desc": "Combat Start: Gain 1 [LanternGregBigBird]\n\nCombat Start: If an enemy has [DelusionGregBigBird], heal 3 SP\n\nTurn End: Apply [ObedienceGregBigBird] next turn to the ally with the earliest Deployment order among those that do not fit the following conditions:\n- Is this unit\n- Is an ally with [ObedienceGregBigBird]\n- Is an ally that cannot heal SP due to conditions such as Panic or Corrosion"
+    },
+    {
+      "id": 1121411,
+      "name": "Eyes Bright Like Lamps",
+      "desc": "Combat Start: Gain 1 [LanternGregBigBird] <style=\"highlight\">for every 2 Gloom Reson. (max 3)</style>\n\nCombat Start: If an enemy has [DelusionGregBigBird], heal <style=\"highlight\">5</style> SP\n\nTurn End: Apply [ObedienceGregBigBird] next turn to the ally with the earliest Deployment order among those that do not fit the following conditions:\n- Is this unit\n- Is an ally with [ObedienceGregBigBird]\n- Is an ally that cannot heal SP due to conditions such as Panic or Corrosion"
+    },
+    {
+      "id": 1121421,
+      "name": "Were There More Lives to be Saved?",
+      "desc": "Turn End: Apply the following to the ally with the earliest Deployment order among those with negative effects\n- Gain +4 [Aggro] to the leftmost Slot next turn\n- Gain 1 [HitDamageUp] next turn"
+    },
+    {
+      "id": 1101501,
+      "name": "The Orthodox Blade [整劍]",
+      "desc": "Combat Start: Gain ((Pride Reson. / 2) + 1) [Breath] (max 4, rounded down)\n\nCombat End: At 20+ [Breath], gain +1 [Breath] Count"
+    },
+    {
+      "id": 1101502,
+      "name": "Singular Focus of the Mind",
+      "desc": "Turn End: Any excess [Breath] Potency gained past 25 will be converted to [LittleFingerID] (max 15)\n\nCombat Start: If this unit did not equip Attack Skills (including E.G.O Skills) this turn, heal 5 SP and gain 1 [SlashResultUp] next turn"
+    },
+    {
+      "id": 1101521,
+      "name": "Tranquility [靜念]",
+      "desc": "The ally with the fastest Speed heals 5 SP and gains 5 Shield when starting combat with a Defense Skill equipped"
+    },
+    {
+      "id": 1011502,
+      "name": "Prescritto Consegnato su un Dispositivo",
+      "desc": "Inizio Turno:\n- Ottiene [IndexPrescriptYi_0] / [IndexPrescriptYi_1] / [IndexPrescriptYi_2] / [IndexPrescriptYi_3] in base al livello di [UnlockBuff_Base] su di sé\n- Infligge [IndexPrescriptTargetToEnemy] ad un nemico casuale (negli Incontri Mirati, ad una Parte)\n- Applica [IndexPrescriptTargetMarkToEnemy] alle Abilità Attacco Base di questa unità sul Pannello di Controllo (1 per Slot, max 2 Abilità)\n· A [UnlockBuffAlly_2]+, l’effetto sopracitato dà priorità all’Abilità 3 (priorità all’Abilità potenziata)\n- Se questa unità Vacilla, è Immobilizzata, in Panico o in <noparse>Corrosione</noparse> E.G.O, tutti gli effetti sopracitati e [IndexPrescript_Base_2nd] non si attivano",
+      "summary": "Upon executing Prescript, heal SP and gain Grace of the Prescript\nUpon failing Prescript, gain Karmic Consequence"
+    },
+    {
+      "id": 1011503,
+      "name": "Il Mandatario dell’Oracolo / Sprigiona",
+      "desc": "Fine Turno: Se in questo turno è stato portato a termine un [IndexPrescript_Base_2nd] con [UnlockBuffAlly_2] o meno, si cura di 4 PS ed ottiene 1 [BlessingOfIndexPrescriptAlly] (una volta per turno)\n- Quando si esegue un [IndexPrescript_Base_2nd], se il bersaglio principale ha [IndexPrescriptTargetToEnemy], si cura invece di 8 PS ed ottiene 3 [BlessingOfIndexPrescriptAlly]\n\nFine Turno: Se questa unità ha [UnlockBuffAlly_2] e il [IndexPrescriptYi_2] è stato eseguito in questo turno, si cura di 4 PS (una volta per turno)\n- Quando porta a termine un [IndexPrescript_Base_2nd], se [StackYisangSpecialSkill] ha raggiunto 9 Stack, si cura invece di 8 PS ed ottiene 3 [BlessingOfIndexPrescriptAlly]\n\nFine Turno: Se il [IndexPrescript_Base_2nd] non è stato portato a termine in questo turno, ottiene 5 [KarmaOfIndexAlly]\n- A [UnlockBuffAlly_3], non ottiene [KarmaOfIndexAlly]\n- Se questa unità prova ad eseguire un [IndexPrescript_Base_2nd] all’Inizio del Combattimento, a non ha potuto bersagliare un nemico durante la fase di combattimento, non ottiene [KarmaOfIndexAlly] a Fine Turno (si applica quando si ha [UnlockBuffAlly_2] o inferiore)\n\nFine Turno: A 3/6/9 [BlessingOfIndexPrescriptAlly], ottiene [UnlockBuffAlly_1]/[UnlockBuffAlly_2]/[UnlockBuffAlly_3]\nInizio Turno: A [UnlockBuffAlly_3], ottiene [Shin_IndexFingerYisang]",
+      "summary": ""
+    },
+    {
+      "id": 1011504,
+      "name": "Il Precettore dell’Indice",
+      "desc": "Quando entra nell’Incontro per la prima volta, ottiene [BurningWoundYisangMask]\n- Fine Turno: Se questa unità ha Vacillato per la prima volta nell’Incontro quando ha questo effetto attivo, si riprende dal Vacillamento (tranne se Vacillamento forzato) e converte [BurningWoundYisangMask] in [BurningWoundYisang]\n\nApplica [SatisfyingEsteemNeeds] a Mandataria dell’Indice - E.G.O Manifestato::Attuazione Don Quixote quando entrambe le unità sono in campo",
+      "summary": ""
+    },
+    {
+      "id": 1011505,
+      "name": "Dispositivo dell’Oracolo [Caduceo]",
+      "desc": "Viene assegnata un’arma casuale ad ogni Moneta per le Abilità Attacco Base. Ogni arma ha un effetto unico.\n- [YisangWeapon01Hatchet]\n- [YisangWeapon02Stiletto]\n- [YisangWeapon03Greatsword]\n- [YisangWeapon04Rapier]\n- [YisangWeapon05Sledgehammer]\n- [YisangWeapon06Ultragreatsword]\n- [YisangWeapon07Lance]\n- [YisangWeapon08Chain]\n- [YisangWeapon09Scythe]\n\nOttiene 1 [StackYisangSpecialSkill] quando usa le Abilità con [IndexPrescriptTargetMarkToEnemy]",
+      "summary": "A random weapon is assigned\nGain special effect when using 'Furioso-Replica'"
+    },
+    {
+      "id": 1011506,
+      "name": "Dispositivo dell’Oracolo [Caduceo]",
+      "desc": "Viene assegnata un’arma casuale ad ogni Moneta per le Abilità Attacco Base. Ogni arma ha un effetto unico.\n- [YisangWeapon01Hatchet]\n- [YisangWeapon02Stiletto]\n- [YisangWeapon03Greatsword]\n- [YisangWeapon04Rapier]\n- [YisangWeapon05Sledgehammer]\n- [YisangWeapon06Ultragreatsword]\n- [YisangWeapon07Lance]\n- [YisangWeapon08Chain]\n- [YisangWeapon09Scythe]\n\nOttiene 1 [StackYisangSpecialSkill] quando usa le Abilità con [IndexPrescriptTargetMarkToEnemy]\n\n<style=\"highlight\">Converte [BurningWoundYisangMask] in [BurningWoundYisang] alla fine del turno se questa unità ha usato ‘Furioso (Replica)’ per la prima volta in questo Incontro\n\nInizio Turno: Se questa unità ha [BurningWoundYisang] ed ha ‘Furioso (Replica)’ sul Pannello di Controllo, ottiene [BlackNightmareYisang]</style>",
+      "summary": "A random weapon is assigned\nGain special effect when using 'Furioso-Replica'"
+    },
+    {
+      "id": 1011501,
+      "name": "Imitazione di una Vita",
+      "desc": "Infligge +2% danni con le Abilità marchiate con [IndexPrescriptTargetMarkToEnemy] per ogni [BlessingOfIndexPrescriptAlly] su di sé (max 16%)\n- A 9 [BlessingOfIndexPrescriptAlly], infligge invece +20% danni con le Abilità Base\n\nSu Colpo con [SuperCoin] delle Abilità Attacco Base, ottiene 1 [StackYisangSpecialSkill]\n- Fine Attacco: Ottiene [StackYisangSpecialSkill] pari a (# di [SuperCoin] rimanente)",
+      "summary": "Infligge più danni con le Abilità marchiate con Segno del Prescritto in base a Grazia del Prescritto su di sé\nSul Colpo: Cura i suoi PS\nOttiene [StackYisangSpecialSkill] quando raggiunge determinate condizioni"
+    },
+    {
+      "id": 1011511,
+      "name": "Imitazione di una Vita",
+      "desc": "Infligge +2% danni con le Abilità marchiate con [IndexPrescriptTargetMarkToEnemy] per ogni [BlessingOfIndexPrescriptAlly] su di sé (max 16%)\n- A 9 [BlessingOfIndexPrescriptAlly], infligge invece +20% danni con le Abilità Base\n\nSu Colpo con [SuperCoin] delle Abilità Attacco Base, ottiene 1 [StackYisangSpecialSkill]\n- AFine Attacco: Ottiene [StackYisangSpecialSkill] pari a (# di [SuperCoin] rimanente)\n<style=\"highlight\">- 'Furioso (Replica)' Fine Attacco: il turno successivo ottiene [StackYisangSpecialSkill] pari a (# di [SuperCoin] rimanenti di questa Abilità / 2) (arrotondato per difetto)</style>\n\n<style=\"highlight\">Se [StackYisangSpecialSkill] ha raggiunto 9 Stack in questo turno a Fine Turno, e se questa unità non ha un’Abilità 3 sul Pannello di Controllo all’inizio del prossimo turno, converte un’Abilità Base in Abilità 3 (dà priorità all’Abilità nello Slot più in basso a sinistra, riga più in basso)</style>",
+      "summary": "Infligge più danni con le Abilità marchiate con Segno del Prescritto in base a Grazia del Prescritto su di sé\nSul Colpo: Cura i suoi PS\nOttiene [StackYisangSpecialSkill] quando raggiunge determinate condizioni"
+    },
+    {
+      "id": 1011521,
+      "name": "Grazia di Dio",
+      "desc": "Infligge +5% danni con le Abilità Attacco Base Tagliente, Perforante e Contundente che vengono usate per la prima volta da ogni alleato ogni turno (una volta per tipo, per tutti gli alleati)\n- Le Identità dell’Indice infliggono invece +10% danni\n- L’applicazione dell’effetto viene determinata Prima di Attaccare",
+      "summary": "Infligge più danni con le Abilità Taglienti, Perforanti e Contundenti che vengono usate per la prima volta in questo turno"
     }
   ]
 }

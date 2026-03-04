@@ -9,26 +9,28 @@
     {
       "id": "HelplessTear",
       "name": "Lacrime Scroscianti",
-      "desc": "- Max Stack: 1\n- Ottiene 3 Livelli Offensivi\n- Perde 6 Livelli Difensivi\n- Tutte le Abilità ottengono +1 Portata Attacco\n- Tutte le Abilità diventano Monete Infrangibili\n- Infligge +1 Potenza e Conteggio Pianto in più",
+      "desc": "- Max Stack: 1\n- Ottiene 3 Livelli Offensivi\n- Perde 6 Livelli Difensivi\n- Tutte le Abilità ottengono +1 Portata Attacco\n- Tutte le Abilità diventano Monete Infrangibili\n- Infligge +1 Potenza e Conteggio Annegamento in più",
       "summary": ""
     },
     {
       "id": "WornOutKnight",
       "name": "Orgoglio Consunto",
-      "desc": "Subisce +100% danni per questo turno\n\n<color=#2e72b9><i>Il cavaliere che desiderava redimersi salvando gli altri adesso veniva chiamata, in modo disonorevole, Cavaliere della Disperazione; sparita dai ricordi della gente, esattamente come gli altri.</i></color>",
-      "summary": ""
+      "desc": "Subisce +100% danni per questo turno",
+      "summary": "",
+      "flavor": "<color=#2e72b9><i>Il cavaliere che desiderava redimersi salvando gli altri adesso veniva chiamata, in modo disonorevole, Cavaliere della Disperazione; svanita dai ricordi della gente, esattamente come gli altri.</i></color>"
     },
     {
       "id": "SignOfDespair",
       "name": "Benedizione della Disperazione",
-      "desc": "Dopo l'Attacco: se ci sono bersagli senza Lacrime Nere e Fredde, rimuove quest'effetto il turno successivo\n\nOttiene 1 Potere Scontro Aumentato e 1 Danno Aumentato\nInfligge +1 Lacrime Nere e Fredde in più",
+      "desc": "Fine Attacco: Se ci sono bersagli senza Lacrime Nere e Fredde, rimuove quest'effetto il turno successivo\n\nOttiene 1 Potere Scontro Aumentato e 1 Danno Aumentato\nInfligge +1 Lacrime Nere e Fredde in più",
       "summary": ""
     },
     {
       "id": "CollapsedPride",
       "name": "Orgoglio in Pezzi",
-      "desc": "<i><color=#2e72b9>Tutto ciò che resta è il vuoto orgoglio di un cavaliere consumato.</color></i>",
-      "summary": ""
+      "desc": "Usato per la Passiva \"Cavaliere Consumato\"",
+      "summary": "",
+      "flavor": "<color=#2e72b9>Tutto ciò che resta è il vuoto orgoglio di un cavaliere consumato.</color>"
     },
     {
       "id": "FailedToAssistQueen",
@@ -39,8 +41,9 @@
     {
       "id": "UsedTooMuchPower",
       "name": "Ho usato troppo potere",
-      "desc": "- Max Stack: 1\n- A Fine Turno: scappa dall'Incontro\n\n<i><color=#ff3d8f>Esausta, non riesce a muoversi.</color></i>",
-      "summary": ""
+      "desc": "- Max Stack: 1\n- A Fine Turno: scappa dall'Incontro",
+      "summary": "",
+      "flavor": "<color=#ff3d8f>Esausta ed incapace di muoversi.</color>"
     },
     {
       "id": "ChasingArcana",
@@ -57,13 +60,13 @@
     {
       "id": "CentralCommandTeamCaptain",
       "name": "Capitano della Squadra di Controllo Centrale",
-      "desc": "- Slot Abilità +1\n- Modifica le Abilità nel seguente modo: Ottiene 1 uso dell'Abilità 3, ma perde 1 uso dell'Abilità 1\n- Aumenta la quantità di Potenza Bruciatura, Sanguinamento, Lacerazione, Pianto o Vibrazione inflitte con le Abilità di 1 ('Effetti Speciali' inclusi)\n- Aumenta la quantità Potenza Respiro o Conteggio Carica ('Carica Speciale' inclusa) ottenuti dalle Abilità di 1\n- Invece di andare in Panico o Corrodere, azzera i PS il turno successivo (1 volta per Incontro)\n- Le Abilità Attacco Base con 2+ Portata Attacco infliggono +30% danni\n- Se Uccide, ottiene +2 risorse E.G.O dell'Affinità dell'Abilità che ha sconfitto il nemico; ottiene +1 risorsa E.G.O per tutte le altre Affinità",
+      "desc": "- Slot Abilità +1\n- Modifica le Abilità nel seguente modo: Ottiene 1 uso dell'Abilità 3, ma perde 1 uso dell'Abilità 1\n- Aumenta la quantità di Potenza Bruciatura, Sanguinamento, Lacerazione, Annegamento o Vibrazione inflitte con le Abilità di 1 ('Effetti Speciali' inclusi)\n- Aumenta la quantità Potenza Respiro o Conteggio Carica ('Carica Speciale' inclusa) ottenuti dalle Abilità di 1\n- Invece di andare in Panico o Corrodere, azzera i PS il turno successivo (1 volta per Incontro)\n- Le Abilità Attacco Base con 2+ Portata Attacco infliggono +30% danni\n- Se Uccide, ottiene +2 risorse E.G.O dell'Affinità dell'Abilità che ha sconfitto il nemico; ottiene +1 risorsa E.G.O per tutte le altre Affinità",
       "summary": ""
     },
     {
       "id": "BestWelfareTeamMember",
-      "name": "Impiegato Modello della Squadra di Welfare",
-      "desc": "- Aumenta la quantità di Bruciatura, Sanguinamento, Lacerazione, Pianto, or Vibrazione inflitti di +1 (inclusi 'Effetti di Stato Speciali')\n- Invece di andare in Panico o Corrodere, azzera i PS il turno successivo (1 volta per Incontro)\n- Se questo effetto è applicato a Lobotomy E.G.O::La Lama Affilata con le Lacrime Rodion, ottiene 1 Aumento Danno Perforante ad ogni Inizio Turno",
+      "name": "Agente Modello della Squadra di Welfare",
+      "desc": "- Aumenta la quantità di Bruciatura, Sanguinamento, Lacerazione, Annegamento, or Vibrazione inflitti di +1 (inclusi 'Effetti di Stato Speciali')\n- Invece di andare in Panico o Corrodere, azzera i PS il turno successivo (1 volta per Incontro)\n- Se questo effetto è applicato a Lobotomy E.G.O::La Lama Affilata con le Lacrime Rodion, ottiene 1 Aumento Danno Perforante ad ogni Inizio Turno",
       "summary": ""
     },
     {
@@ -117,7 +120,7 @@
     {
       "id": "BlessingAlly",
       "name": "Benedizione",
-      "desc": "- Inizio Turno: ottiene 1 Spada Protettiva per ogni 8 PS (max 5)\n- A Fine Scontro, infligge 2 Pianto (1 volta per turno)\n- Subendo un colpo, infligge 2 Pianto all'attaccante (1 volta per turno)\n- Per ogni 20 PS, infligge +1 Potenza Pianto in più con gli effetti suddetti (max 2)\n- Rimpiazza le Abilità Base di questa unità con Abilità con Monete Positive",
+      "desc": "- Inizio Turno: ottiene 1 Spada Protettiva per ogni 8 PS (max 5)\n- A Fine Scontro, infligge 2 Annegamento (1 volta per turno)\n- Subendo un colpo, infligge 2 Annegamento all'attaccante (1 volta per turno)\n- Per ogni 20 PS, infligge +1 Potenza Annegamento in più con gli effetti suddetti (max 2)\n- Rimpiazza le Abilità Base di questa unità con Abilità con Monete Positive",
       "summary": ""
     },
     {
@@ -129,7 +132,7 @@
     {
       "id": "DespairAlly",
       "name": "Disperazione",
-      "desc": "- Inizio Turno: ottiene 1 Spada Protettiva per ogni -8 PS (max 5)\n- A Fine Scontro, infligge +1 Conteggio Pianto (1 volta per turno)\n- Sul Colpo con la prima moneta di un'Abilità Attacco Base, infligge +1 Conteggio Pianto (1 volta per turno)\n- Per ogni -20 PS, infligge +1 more Conteggio Pianto con gli effetti suddetti (max 2)\n- Rimpiazza le Abilità Base di questa unità con Abilità con Monete Negative",
+      "desc": "- Inizio Turno: ottiene 1 Spada Protettiva per ogni -8 PS (max 5)\n- A Fine Scontro, infligge +1 Conteggio Annegamento (1 volta per turno)\n- Sul Colpo con la prima moneta di un'Abilità Attacco Base, infligge +1 Conteggio Annegamento (1 volta per turno)\n- Per ogni -20 PS, infligge +1 more Conteggio Annegamento con gli effetti suddetti (max 2)\n- Rimpiazza le Abilità Base di questa unità con Abilità con Monete Negative",
       "summary": ""
     },
     {
@@ -159,7 +162,7 @@
     {
       "id": "TraumaShield",
       "name": "Scudo Anti-Trauma",
-      "desc": "- Riduce i danni ai PS dai nemici dell' 80%\n- Reduce i danni da Pianto subiti dell'80%\n- Si riduce di 1 a Fine Turno",
+      "desc": "- Riduce i danni ai PS dai nemici dell' 80%\n- Reduce i danni da Annegamento subiti dell'80%\n- Si riduce di 1 a Fine Turno",
       "summary": ""
     }
   ]

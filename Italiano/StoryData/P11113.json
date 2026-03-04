@@ -21,7 +21,7 @@
     },
     {
       "id": 4,
-      "teller": "Agente di Riscossione Livello 1 della T Corp.",
+      "teller": "Agente di Riscossione Livello 1 di T Corp.",
       "title": "T Corp.",
       "content": "Tren...ta..."
     },
@@ -46,7 +46,7 @@
     },
     {
       "id": 9,
-      "teller": "Agente di Riscossione Livello 1 della T Corp.",
+      "teller": "Agente di Riscossione Livello 1 di T Corp.",
       "title": "T Corp.",
       "content": "Tre giorni fa un Sindacato dei Vicoli ha commesso un colpo in un magazzino per svuotarne la cassaforte temporale; il proprietario è certo Signor Charlie, un impiegato di alto livello in una fabbrica di orologi. Tramite le sue giornate da trentaquattro ore, il Signor Charlie..."
     },
@@ -67,19 +67,19 @@
     },
     {
       "id": 13,
-      "teller": "Agente di Riscossione Livello 1 della T Corp.",
+      "teller": "Agente di Riscossione Livello 1 di T Corp.",
       "title": "T Corp.",
       "content": "A differenza degli imballaggi conservanti di U Corp., che pone enfasi su un trasporto completamente statico, le cassette temporali della T Corp. vantano qualità di conservazione e gestione dei beni basandosi su aggiustamenti temporali su scala localizzata."
     },
     {
       "id": 14,
-      "teller": "Agente di Riscossione Livello 1 della T Corp.",
+      "teller": "Agente di Riscossione Livello 1 di T Corp.",
       "title": "T Corp.",
       "content": "Considerato che i colpevoli sono morosi incapaci di saldare le proprie cronotasse, crediamo che siano ancora nel luogo dell'infrazione, impossibilitati ad uscire in assenza di un piano di fuga elaborato."
     },
     {
       "id": 15,
-      "teller": "Agente di Riscossione Livello 1 della T Corp.",
+      "teller": "Agente di Riscossione Livello 1 di T Corp.",
       "title": "T Corp.",
       "content": "Questo è tutto."
     },
@@ -104,7 +104,7 @@
     },
     {
       "id": 20,
-      "teller": "Agente di Riscossione Livello 1 della T Corp.",
+      "teller": "Agente di Riscossione Livello 1 di T Corp.",
       "title": "T Corp.",
       "content": "......"
     },
@@ -135,7 +135,7 @@
     },
     {
       "id": 25,
-      "teller": "Agente di Riscossione Livello 1 della T Corp.",
+      "teller": "Agente di Riscossione Livello 1 di T Corp.",
       "title": "T Corp.",
       "content": "È difficile entrare in un auto con un cilindro sulla testa... e che... dovrei pensare al mio futuro...?"
     },
@@ -155,7 +155,7 @@
     },
     {
       "id": 28,
-      "teller": "Agente di Riscossione Livello 1 della T Corp.",
+      "teller": "Agente di Riscossione Livello 1 di T Corp.",
       "title": "T Corp.",
       "content": "Signora, sono, uhm—"
     },
@@ -176,7 +176,7 @@
     },
     {
       "id": 32,
-      "teller": "Agente di Riscossione Livello 1 della T Corp.",
+      "teller": "Agente di Riscossione Livello 1 di T Corp.",
       "title": "T Corp.",
       "content": "Ha ragione, signora."
     },
@@ -196,7 +196,7 @@
     },
     {
       "id": 35,
-      "teller": "Agente di Riscossione Livello 1 della T Corp.",
+      "teller": "Agente di Riscossione Livello 1 di T Corp.",
       "title": "T Corp.",
       "content": "Capisco, signora. Non avevo idea che il mio completo potesse significare qualcosa del genere...!"
     },
@@ -216,7 +216,7 @@
     },
     {
       "id": 38,
-      "teller": "Agente di Riscossione Livello 1 della T Corp.",
+      "teller": "Agente di Riscossione Livello 1 di T Corp.",
       "title": "T Corp.",
       "content": "Lo... terrò a mente, signora."
     },
@@ -248,7 +248,7 @@
     },
     {
       "id": 44,
-      "teller": "Agente di Riscossione Livello 1 della T Corp.",
+      "teller": "Agente di Riscossione Livello 1 di T Corp.",
       "title": "T Corp.",
       "content": "Ho capito, signora. Io—eeeed ecco che se ne va."
     },
@@ -561,7 +561,7 @@
       "model": "오티스",
       "teller": "Outis",
       "title": "T Corp.",
-      "content": "Invenzioni illegali da parte di individui non qualificati. Immagino che non siate iscritti all'Agenzia Brevetti della T Corp.?"
+      "content": "Invenzioni illegali da parte di individui non qualificati. Immagino che non siate iscritti all'Agenzia Brevetti di T Corp.?"
     },
     {
       "id": 103,

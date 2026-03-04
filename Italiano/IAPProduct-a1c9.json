@@ -2,13 +2,13 @@
   "dataList": [
     {
       "id": 605,
-      "name": "Pacchetto Follia per l'Inizio della Stagione 7",
-      "desc": "Un'offerta Stagionale che offre i seguenti articoli:\n\n· Follia Pagata x1300"
+      "name": "Pacchetto Lunacy per l'Inizio della Stagione 7",
+      "desc": "Un'offerta Stagionale che offre i seguenti articoli:\n\n· Lunacy Pagata x1300"
     },
     {
       "id": 606,
       "name": "Pacchetto Fornitura Stagione 7",
-      "desc": "Disponibile per l'acquisto solo durante la Stagione 7. Il pacchetto contiene i seguenti articoli:\n\n· Follia Pagata x5040\n· Biglietto per Decaestrazione x3\n· Biglietto per l'Addestramento Identità IV x80\n· Biglietto per l'Addestramento Identità III x20\n· Filo x80\n· [Stagione 7] Cassa di ScheggeEgo A Scelta x40"
+      "desc": "Disponibile per l'acquisto solo durante la Stagione 7. Il pacchetto contiene i seguenti articoli:\n\n· Lunacy Pagata x5040\n· Biglietto per Decaestrazione x3\n· Biglietto per l'Addestramento Identità IV x80\n· Biglietto per l'Addestramento Identità III x20\n· Filo x80\n· [Stagione 7] Cassa di ScheggeEgo A Scelta x40"
     },
     {
       "id": 158,
@@ -33,7 +33,7 @@
     {
       "id": 108,
       "name":  "Pacchetto Allenamento Mensile I",
-      "desc": "Un'offerta mensile che offre i seguenti articoli:\n\n· Follia Pagata x1690\n· Biglietto per Decaestrazione x2\n· Biglietto per l'Addestramento Identità IV x50\n· Biglietto per l'Addestramento Identità III x20"
+      "desc": "Un'offerta mensile che offre i seguenti articoli:\n\n· Lunacy Pagata x1690\n· Biglietto per Decaestrazione x2\n· Biglietto per l'Addestramento Identità IV x50\n· Biglietto per l'Addestramento Identità III x20"
     },
     {
       "id": 460,
@@ -52,8 +52,58 @@
     },
     {
       "id": 463,
-      "name": "Identity Growth Pack",
+      "name": "Pacchetto Crescita Identità",
       "desc": "Puoi ottenere i seguenti oggetti da questo Pacchetto Commemorativo per 「Nuova Estrazione Mirata - @#$# Dell'Indice: 【Device】 Don Quixote」.\n\n\n· Modulo Lancio - Legame ID x 1\n· Biglietto per l'Addestramento Identità IV x 80\n· Biglietto per l'Addestramento Identità III x 20"
+    },
+    {
+      "id": 464,
+      "name": "Pacchetto Estrazione Mirata",
+      "desc": "Puoi ottenere i seguenti oggetti da questo Pacchetto Commemorativo per 「Nuova Estrazione Mirata - Il Nido dei Ragni: Apprendista del Medio Ishmael」.\n\n· Biglietto per Decaestrazione x 4"
+    },
+    {
+      "id": 465,
+      "name": "Pacchetto Crescita Identità",
+      "desc": "Puoi ottenere i seguenti oggetti da questo Pacchetto Commemorativo per 「Nuova Estrazione Mirata - Il Nido dei Ragni: Apprendista del Medio Ishmael」.\n\n\n· Modulo Lancio - Legame ID x 1\n· Biglietto per l'Addestramento Identità IV x 80\n· Biglietto per l'Addestramento Identità III x 20"
+     },
+    {
+      "id": 466,
+      "name": "Pacchetto Estrazione Mirata",
+      "desc": "Puoi ottenere i seguenti oggetti da questo Pacchetto Commemorativo per 「Nuova Estrazione Mirata - Il Nido dei Ragni: Apprendista del Mignolo Sinclair & Lobotomy E.G.O::Lampada Gregor」.\n\n· Biglietto per Decaestrazione x4"
+    },
+    {
+      "id": 467,
+      "name": "Pacchetto Crescita Identità",
+      "desc": "Puoi ottenere i seguenti oggetti da questo Pacchetto Commemorativo per 「Nuova Estrazione Mirata - Il Nido dei Ragni: Apprendista del Mignolo Sinclair & Lobotomy E.G.O::Lampada Gregor」.\n\n· Modulo Lancio - Legame ID x 1\n· Biglietto per l'Addestramento Identità IV x 80\n· Biglietto per l'Addestramento Identità III x 20"
+    },
+    {
+      "id": 468,
+      "name": "Pacchetto Estrazione Mirata",
+      "desc": "Puoi ottenere i seguenti oggetti da questo Pacchetto Commemorativo per 「Nuova Estrazione Mirata - Il Nido dei Ragni: Il Precettore dell'Indice Yi Sang」.\n\n· Biglietto per Decaestrazione x4"
+    },
+    {
+      "id": 469,
+      "name": "Pacchetto Crescita Identità",
+      "desc": "Puoi ottenere i seguenti oggetti da questo Pacchetto Commemorativo per 「Nuova Estrazione Mirata - Il Nido dei Ragni: Il Precettore dell'Indice Yi Sang」.\n\n· Modulo Lancio - Legame ID x 1\n· Biglietto per l'Addestramento Identità IV x 80\n· Biglietto per l'Addestramento Identità III x 20"
+    },
+    {
+      "id": 210,
+      "name": "3rd Anniversary Pack I",
+      "desc": "A limited 3rd Anniversary Pack. Contains the following items:\n\n· Immediate access to Angela (Library Director - Early Days) Announcer\n· 3★ Guarantee Decaextraction Ticket x1\n· Identity Takeoff Ticket - ver.3 x1\n\n※ If you have already obtained the Angela (Library Director - Early Days) Announcer, acquire x50 Thread Crates instead.\n※ Identity Takeoff Ticket - ver.3 raises an Identity’s level up to 60, and Uptie Tier up to Tier 4."
+    },
+    {
+      "id": 211,
+      "name": "3rd Anniversary Pack II",
+      "desc": "A limited 3rd Anniversary Pack. Contains the following item:\n\n· 3rd Anniversary Nominable Identity Ticket x1\n\n※ Use this item to select a Season 1~6 Identity released prior to Season 7 (including Standard Fare and Event Identities) to obtain.\n※ Post-Season 7 commencement and Walpurgis Night Identities are not featured in this ticket."
+    },
+    {
+      "id": 470,
+      "name": "3rd Anniversary\nExtraction Ticket Pack",
+      "desc": "A limited 3rd Anniversary Pack. Contains the following items:\n\n· Decaextraction Ticket x5"
+    },
+    {
+      "id": 471,
+      "name": "3rd Anniversary\nIdentity Growth Pack",
+      "desc": "A limited 3rd Anniversary Pack. Contains the following items:\n\n· Takeoff Module - ID Uptie x2\n· Identity Training Ticket IV x200"
     }
   ]
 }

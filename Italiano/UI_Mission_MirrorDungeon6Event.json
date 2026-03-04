@@ -22,27 +22,27 @@
 		},
 		{
 			"id": "mission_ui_condition_tags_201003019",
-			"content": "Completa il Dungeon Specchio al Piano {2} o superiore con {0}+ Identità della T Corp. e {1}+ degli Yurodivy nella tua Squadra al momento del completamento (Squadre Noleggiate escluse)"
+			"content": "Completa il Dungeon Speccio al Piano {2} o superiore con {0}+ Identità della T Corp. e {1}+ degli Yurodivy nella tua Squadra al momento del completamento (Squadre Noleggiate escluse)"
 		},
 		{
 			"id": "mission_ui_condition_tags_201003020",
-			"content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} Identità della R Corp. nella tua Squadra al momento del completamento (Squadre Noleggiate escluse)"
+			"content": "Completa il Dungeon Speccio al Piano {1} o superiore con {0} Identità della R Corp. nella tua Squadra al momento del completamento (Squadre Noleggiate escluse)"
 		},
 		{
 			"id": "mission_ui_condition_tags_201003021",
-			"content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} Identità dell'Associazione Zwei nella tua Squadra al momento del completamento (Squadre Noleggiate escluse)"
+			"content": "Completa il Dungeon Speccio al Piano {1} o superiore con {0} Identità dell'Associazione Zwei nella tua Squadra al momento del completamento (Squadre Noleggiate escluse)"
 		},
 		{
 			"id": "mission_ui_condition_tags_201003022",
-			"content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} Identità dell'Associazione Cinq nella tua Squadra al momento del completamento (Squadre Noleggiate escluse)"
+			"content": "Completa il Dungeon Speccio al Piano {1} o superiore con {0} Identità dell'Associazione Cinq nella tua Squadra al momento del completamento (Squadre Noleggiate escluse)"
 		},
 		{
 			"id": "mission_ui_condition_tags_201003023",
-			"content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} Identità Rosespanner nella tua Squadra al momento del completamento (Squadre Noleggiate escluse)"
+			"content": "Completa il Dungeon Speccio al Piano {1} o superiore con {0} Identità Rosespanner nella tua Squadra al momento del completamento (Squadre Noleggiate escluse)"
 		},
 		{
 			"id": "mission_ui_condition_tags_201003024",
-			"content": "Completa il Dungeon Specchio al Piano {1} o superiore con {0} Identità del Branco Heishou nella tua Squadra al momento del completamento (Squadre Noleggiate escluse)"
+			"content": "Completa il Dungeon Speccio al Piano {1} o superiore con {0} Identità del Branco Heishou nella tua Squadra al momento del completamento (Squadre Noleggiate escluse)"
 		},
 		{
 			"id": "mission_ui_condition_tags_201003025",
@@ -50,7 +50,7 @@
 		},
 		{
 			"id": "mission_ui_condition_tags_201003026",
-			"content": "Sconfiggi il boss del Pacchetto 'L'Immutabile' con {0} o più Identità dell'Alleanza per la Liberazione Tecnologica, incluso 'E.G.O in Fiore::Lindera Yi Sang', nella tua Squadra (Si contano le Riserve; non si completa con Squadre Noleggiate)"
+			"content": "Sconfiggi il boss del Pacchetto 'L'Immutabile' con {0} o più Identità dell'Alleanza per la Liberazione Tecnologica, incluso 'E.G.O Manifestato::Lindera Yi Sang', nella tua Squadra (Si contano le Riserve; non si completa con Squadre Noleggiate)"
 		},
 		{
 			"id": "mission_ui_condition_tags_201003027",
@@ -78,7 +78,7 @@
 		},
 		{
 			"id": "mission_ui_condition_tags_201005016",
-      		"content": "Infliggi {0}+ danni con l'uso di una sola Abilità contro un nemico (il danno allo Scudo PV & il danno inflitto Sul Colpo come Pianto Incessante o Tempus Moratorium contano; viene escluso il danno dai Tratti e da altre fonti)"
+      		"content": "Infliggi {0}+ danni con l'uso di una sola Abilità contro un nemico (il danno allo Scudo PV & il danno inflitto Sul Colpo come Annegamento Instantaneo o Tempus Moratorium contano; viene escluso il danno dai Tratti e da altre fonti)"
 		},
 		{
 			"id": "mission_ui_condition_tags_201005017",

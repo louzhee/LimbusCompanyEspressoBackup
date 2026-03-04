@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "AreaAtk",
-      "name": "Attacco Massivo",
+      "name": "Attacco ad Area",
       "desc": "Bersaglia 2 o più nemici."
     },
     {
@@ -215,7 +215,7 @@
     },
     {
       "id": "Sinking",
-      "name": "Pianto",
+      "name": "Annegamento",
       "desc": "Quando subisce un colpo da un attacco, subisce danni fissi ai PS in base alla Potenza dell'effetto.\n(Le Unità senza Sanità subiscono invece danno da Tristezza.)\nInfine, riduce il Conteggio di 1."
     },
     {
@@ -340,17 +340,17 @@
     },
     {
       "id": "SlashDamageDown",
-      "name": "Tagliente Depotenziato",
+      "name": "Diminuzione Danno Tagliente",
       "desc": "Infligge meno danni con le Abilità Taglienti in base alle Stack per un turno. (Max 10)"
     },
     {
       "id": "PenetrateDamageDown",
-      "name": "Perforante Depotenziato",
+      "name": "Diminuzione Danno Perforante",
       "desc": "Infligge meno danni con le Abilità Perforanti in base alle Stack per un turno. (Max 10)"
     },
     {
       "id": "HitDamageDown",
-      "name": "Contundente Depotenziato",
+      "name": "Diminuzione Danno Contundente",
       "desc": "Infligge meno danni con le Abilità Contundenti in base alle Stack per un turno. (Max 10)"
     },
     {
@@ -1109,8 +1109,8 @@
     },
     {
       "id": "SinkingSurge",
-      "name": "Pianto Incessante",
-      "desc": "Infligge danni ai PS pari a (Conteggio Pianto * Potenza Pianto), per poi rimuovere Pianto\nSe i PS del bersaglio sono -45, il danno in eccesso sarà convertito in danno da Tristezza\n(Le unità senza PS subiscono sempre danni da Tristezza)"
+      "name": "Annegamento Instantaneo",
+      "desc": "Infligge danni ai PS pari a (Conteggio Annegamento * Potenza Annegamento), per poi rimuovere Annegamento\nSe i PS del bersaglio sono -45, il danno in eccesso sarà convertito in danno da Tristezza\n(Le unità senza PS subiscono sempre danni da Tristezza)"
     },
     {
       "id": "AmberResultUp",
@@ -1121,7 +1121,7 @@
     {
       "id": "Blue",
       "name": "Lacrime",
-      "desc": "A Fine Turno: perde 5 PS\nLe Monete che ottengono Croce infliggono 2 Pianto"
+      "desc": "A Fine Turno: perde 5 PS\nLe Monete che ottengono Croce infliggono 2 Annegamento"
     },
     {
       "id": "EgoAwakenDongrangTreeDisplay",
@@ -1151,7 +1151,7 @@
     },
     {
       "id": "KCorpSerum",
-      "name": "Fiala di K. Corp",
+      "name": "Fiala della K. Corp",
       "desc": "A Inizio Turno: Se le Stack sono meno di 4, si cura di (Stack * 5)% dei PV Max\nA 4+ Stack, l'unità muore",
       "summary": ""
     },
@@ -1216,8 +1216,8 @@
     },
     {
       "id": "SinkingVulnerable",
-      "name": "Debolezza a Pianto",
-      "desc": "Subisce +1 danno da Pianto per Stack per un turno."
+      "name": "Debolezza a Annegamento",
+      "desc": "Subisce +1 danno da Annegamento per Stack per un turno."
     },
     {
       "id": "BurstProtection",
@@ -1375,7 +1375,7 @@
     {
       "id": "EchoOfMansion",
       "name": "Echi del Maniero",
-      "desc": "- 50% chance di ottenere +1 Conteggio Pianto quando ottiene Potenza o Conteggio Pianto dalle Abilità o dagli effetti delle Monete\n- Unità con PS: Cambia il Panico in Echi del Maniero. Quando quest'unità va in Panico, infligge 2 Echi del Maniero a due alleati casuali di quest'unità il turno successivo\n- Unità senza PS: -10% chance di lanciare Testa\n- Ridotto di 1 a Fine Turno\nQuest'effetto non si accumula; infliggere quest'effetto sostituisce il valore corrente con il valore inflitto.\n※ Applica le condizioni di \"Unità senza PS\" ad alcuni nemici che non hanno PS, ma che non possono cambiare il loro tipo di Panico."
+      "desc": "- 50% chance di ottenere +1 Conteggio Annegamento quando ottiene Potenza o Conteggio Annegamento dalle Abilità o dagli effetti delle Monete\n- Unità con PS: Cambia il Panico in Echi del Maniero. Quando quest'unità va in Panico, infligge 2 Echi del Maniero a due alleati casuali di quest'unità il turno successivo\n- Unità senza PS: -10% chance di lanciare Testa\n- Ridotto di 1 a Fine Turno\nQuest'effetto non si accumula; infliggere quest'effetto sostituisce il valore corrente con il valore inflitto.\n※ Applica le condizioni di \"Unità senza PS\" ad alcuni nemici che non hanno PS, ma che non possono cambiare il loro tipo di Panico."
     },
     {
       "id": "Switch_Vibration",
@@ -1437,7 +1437,7 @@
     {
       "id": "ShieldManagerCryingToad",
       "name": "Piangibolla",
-      "desc": "- Quest'effetto conta come 'Gestione dello Scudo'\n-  Fine Turno: riduce di 1 le Stack\n- Quest'unità non perde lo scudo a Fine Turno finché possiede Piangibolla (a meno che non venga eliminato da Abilità o effetti)\n- Se lo scudo affetto da Piangibolla si rompe dopo aver subito danni, infligge 4 Pianto Potenza/Conteggio contro l'attaccante. (Quanto di quel '4' sia Potenza o Conteggio viene deciso in modo casuale)\n- Quest'unità può accumulare il valore dello Scudo usando quest'effetto. Tuttavia, finché Piangibolla è attiva, il valore dello scudo non potrà superare il 60% dei PV massimi di quest'unità.",
+      "desc": "- Quest'effetto conta come 'Gestione dello Scudo'\n-  Fine Turno: riduce di 1 le Stack\n- Quest'unità non perde lo scudo a Fine Turno finché possiede Piangibolla (a meno che non venga eliminato da Abilità o effetti)\n- Se lo scudo affetto da Piangibolla si rompe dopo aver subito danni, infligge 4 Annegamento Potenza/Conteggio contro l'attaccante. (Quanto di quel '4' sia Potenza o Conteggio viene deciso in modo casuale)\n- Quest'unità può accumulare il valore dello Scudo usando quest'effetto. Tuttavia, finché Piangibolla è attiva, il valore dello scudo non potrà superare il 60% dei PV massimi di quest'unità.",
       "summary": ""
     },
     {
@@ -1509,7 +1509,7 @@
     {
       "id": "WildHunt",
       "name": "Caccia Selvaggia",
-      "desc": "- Nello stesso turno in cui questa unità ha ottieneto Caccia Selvaggia per la prima volta, rimane costantemente a 1 PV; \"revive\"(Recupera il 50% dei PV e azzera i PS) di quest'unità a Fine Turno.\n- Alla morte, ottiene 1 risorsa E.G.O per la risorsa E.G.O più scarsa\n- Se quest'unità viene uccisa da un attacco, infligge 3 Pianto contro l'ultimo attaccante\n- Muore alla fine dello stesso turno in cui è stata resuscitata",
+      "desc": "- Nello stesso turno in cui questa unità ha ottieneto Caccia Selvaggia per la prima volta, rimane costantemente a 1 PV; \"revive\"(Recupera il 50% dei PV e azzera i PS) di quest'unità a Fine Turno.\n- Alla morte, ottiene 1 risorsa E.G.O per la risorsa E.G.O più scarsa\n- Se quest'unità viene uccisa da un attacco, infligge 3 Annegamento contro l'ultimo attaccante\n- Muore alla fine dello stesso turno in cui è stata resuscitata",
       "summary": ""
     },
     {
@@ -1521,7 +1521,7 @@
     {
       "id": "WanderingFootsteps",
       "name": "Rovina Imminente",
-      "desc": "- Unità con PS: cambia il loro tipo di panico in \"Rovina\".\n(Rovina: Quando quest'unità entra in uno stato di Morale Basso, ottiene 3 Pianto ogni Fine Turno e perde 1 Potere Scontro.  Quando quest'unità va in Panico, ottiene 5 Pianto, 3 Conteggio Pianto ogni Fine Turno e perde 2 Potere Scontro)\n- Unità senza PS: -10% probabilità di lanciare Testa\n- Ridotto di 1 A Fine Turno\n- Quest'effetto non si cumula; infliggerlo nuovamente sostituirà il valore corrente con il valore inflitto.\n※ Applica la condizione \"\"Unità senza PS\"\" ad alcuni nemici che hanno PS ma non possono avere la tipologia di Panico modificata.",
+      "desc": "- Unità con PS: cambia il loro tipo di panico in \"Rovina\".\n(Rovina: Quando quest'unità entra in uno stato di Morale Basso, ottiene 3 Annegamento ogni Fine Turno e perde 1 Potere Scontro.  Quando quest'unità va in Panico, ottiene 5 Annegamento, 3 Conteggio Annegamento ogni Fine Turno e perde 2 Potere Scontro)\n- Unità senza PS: -10% probabilità di lanciare Testa\n- Ridotto di 1 A Fine Turno\n- Quest'effetto non si cumula; infliggerlo nuovamente sostituirà il valore corrente con il valore inflitto.\n※ Applica la condizione \"\"Unità senza PS\"\" ad alcuni nemici che hanno PS ma non possono avere la tipologia di Panico modificata.",
       "summary": ""
     },
     {
@@ -1539,21 +1539,21 @@
     {
       "id": "WanderingFootsteps_LowMorale",
       "name": "Rovina",
-      "desc": "- Morale Basso\n- Potere Scontro -1 su sé stesso. Ottiene 3 Pianto ogni Fine Turno",
-      "summary": "Potere Scontro -1 su sé stesso. Ottiene 3 Pianto ogni Fine Turno",
+      "desc": "- Morale Basso\n- Potere Scontro -1 su sé stesso. Ottiene 3 Annegamento ogni Fine Turno",
+      "summary": "Potere Scontro -1 su sé stesso. Ottiene 3 Annegamento ogni Fine Turno",
       "undefined": "-"
     },
     {
       "id": "WanderingFootsteps_Panic",
       "name": "Rovina",
-      "desc": "- Panico\n- Potere Scontro -2 su sé stesso. Ottiene 5 Pianto e +3 Conteggio Pianto ogni Fine Turno",
-      "summary": "Potere Scontro -2 su sé stesso. Ottiene 5 Pianto e +3 Conteggio Pianto ogni Fine Turno",
+      "desc": "- Panico\n- Potere Scontro -2 su sé stesso. Ottiene 5 Annegamento e +3 Conteggio Annegamento ogni Fine Turno",
+      "summary": "Potere Scontro -2 su sé stesso. Ottiene 5 Annegamento e +3 Conteggio Annegamento ogni Fine Turno",
       "undefined": "-"
     },
     {
       "id": "UninvitedGuestPersonality",
       "name": "L'Indesiderato",
-      "desc": "- Valore Massimo: 2\n- Alla morte, l'ultimo attaccante recupera 3 PS; in seguito, un alleato casuale che non possedeva quest'effetto ne ottiene 2 Stack.\n- Subisce +0.5% più danno per ogni Pianto su sé stesso (max 10%; per gli incontri mirati, Pianto viene conteggiato su ogni parte in modo separato)\n- A Fine Turno: si riduce di 1",
+      "desc": "- Valore Massimo: 2\n- Alla morte, l'ultimo attaccante recupera 3 PS; in seguito, un alleato casuale che non possedeva quest'effetto ne ottiene 2 Stack.\n- Subisce +0.5% più danno per ogni Annegamento su sé stesso (max 10%; per gli incontri mirati, Annegamento viene conteggiato su ogni parte in modo separato)\n- A Fine Turno: si riduce di 1",
       "summary": "",
       "undefined": "-"
     },
@@ -1567,7 +1567,7 @@
     {
       "id": "Retreat",
       "name": "Modalità Strategica R&R",
-      "desc": "- A Fine Turno: si riprende dal Vacillamento e si ritira dall'Incontro (a meno che non sia un Vacillamento forzato; non conta come morte)\n· Nelle Battaglie Consecutive, dà gli slot di quest'unità all'unità che entra e viene spostata in fondo nell'Ordine di Schieramento (fugge completamente dall'Incontro se non ci sono altre unità rimaste con cui scambiarsi di posto nel turno successivo. Quando torna in battaglia, torna nell'ordine di rititrata)\n· Quando ritorna in battaglia, ritorna con gli stessi PV e PS che aveva alla ritirata, ed elimina tutti gli effetti sull'unità, tranne alcuni (Se questa unità aveva meno di 0 PS alla ritirata, torna in battaglia con 0 PS)",
+      "desc": "- A Fine Turno: si riprende dal Vacillamento e si ritira dall'Incontro (escluso il Vacillamento forzato; non conta come morte)\n· Nelle Battaglie Consecutive, dà gli slot di quest'unità all'unità che entra e viene spostata in fondo nell'Ordine di Schieramento (fugge completamente dall'Incontro se non ci sono altre unità rimaste con cui scambiarsi di posto nel turno successivo. Quando torna in battaglia, torna nell'ordine di rititrata)\n· Quando ritorna in battaglia, ritorna con gli stessi PV e PS che aveva alla ritirata, ed elimina tutti gli effetti sull'unità, tranne alcuni (Se questa unità aveva meno di 0 PS alla ritirata, torna in battaglia con 0 PS)",
       "summary": "",
       "undefined": "-"
     },
@@ -1702,7 +1702,7 @@
     },
     {
       "id": "SwirlingBloodPersonality",
-      "name": "Sangue Vorticoso【Sanguimonio】",
+      "name": "Sangue Vorticoso【Bramasangue】",
       "desc": "- Stack Max: 50\n-  Finchè quest'effetto è attivo, tutt i danni da Sanguinamento subiti dallo Scudo PV vengono convertiti in Emofagia.\n- Ottiene uno scudo PV pari alle Stack nel momento in cui viene applicato\n-Scade a Fine Turno",
       "summary": ""
     },
@@ -1763,12 +1763,12 @@
     {
       "id": "FreishutzOutisEgoBullet_7th",
       "name": "La Settima Pallottola Magica",
-      "desc": "- Infligge +200% danni\n- Infligge +2.5% più danni per ogni 1% PV mancanti al bersaglio (max 200%)\n- Prima di attaccare: per questo attacco, se la resistenza al danno perforante sul nemico e su di sè sono meno di 2.0, cambia in Fatale (x2.0)\n- Dopo l'attacco: quest'unità muore"
+      "desc": "- Infligge +200% danni\n- Infligge +2.5% più danni per ogni 1% PV mancanti al bersaglio (max 200%)\n- Prima di attaccare: per questo attacco, se la resistenza al danno perforante sul nemico e su di sè sono meno di 2.0, cambia in Fatale (x2.0)\n- Fine Attacco: quest'unità muore"
     },
     {
       "id": "FreishutzOutisEgoBulletCnt",
       "name": "Proiettile del Cecchino",
-      "desc": "Usa munizioni differenti in base a Proiettile del Cecchino"
+      "desc": "Usa munizioni differenti in base alle Stack di Proiettile del Cecchino"
     },
     {
       "id": "CoveringFire",
@@ -1788,7 +1788,7 @@
     {
       "id": "Retreat_FullStop",
       "name": "Sorveglianza",
-      "desc": "- A Fine Turno: si riprende dal Vacillamento e si ritira dall'Incontro (a meno che non sia un Vacillamento forzato; non conta come morte)\n· Nelle Battaglie Consecutive, gli slot di questa unità vengono dati all'unità che entra al suo posto, e viene spostata più in fondo possibile nell'Ordine di Schieramento (fugge completamente dall'Incontro se non ci sono altre Unità rimaste con cui scambiarsi di posto nel turno successivo. Quando torna in battaglia, torna nell'ordine di rititrata)\n· Quando ritorna in battaglia, ritorna con gli stessi PV e PS che aveva durante la ritirata, ed elimina tutti gli effetti sull'unità, tranne alcuni (Se questa unità aveva meno di 0 PS alla ritirata, torna in battaglia con 0 PS)"
+      "desc": "- A Fine Turno: si riprende dal Vacillamento e si ritira dall'Incontro (escluso il Vacillamento forzato; non conta come morte)\n· Nelle Battaglie Consecutive, gli slot di questa unità vengono dati all'unità che entra al suo posto, e viene spostata più in fondo possibile nell'Ordine di Schieramento (fugge completamente dall'Incontro se non ci sono altre Unità rimaste con cui scambiarsi di posto nel turno successivo. Quando torna in battaglia, torna nell'ordine di rititrata)\n· Quando ritorna in battaglia, ritorna con gli stessi PV e PS che aveva durante la ritirata, ed elimina tutti gli effetti sull'unità, tranne alcuni (Se questa unità aveva meno di 0 PS alla ritirata, torna in battaglia con 0 PS)"
     },
     {
       "id": "LogicAtelierAM",
@@ -1835,22 +1835,26 @@
     {
       "id": "BlackCloud",
       "name": "Nuvola Nera",
-      "desc": "Stack Max: 1\nConverte tutte le Monete delle Abilità Offensive di quest'unità in [Moneta Infrangibile], previene che il danno faccia Vacillare quest'unità finchè non avrà terminato l'Abilità e infligge +1 Sanguinamento in più con gli effetti.\nSe perde lo Scontro: ottiene Potere Finale +3\\nA Fine Turno: quest'effetto termina"
+      "desc": "Stack Max: 1\nConverte tutte le Monete delle Abilità Offensive di quest'unità in [SuperCoin], previene che il danno faccia Vacillare quest'unità finchè non avrà terminato l'Abilità e infligge +1 Sanguinamento in più con gli effetti.\nSe perde lo Scontro: ottiene Potere Finale +3\\nA Fine Turno: quest'effetto termina",
+      "summary": "Converts Attack Skill to Unbreakable Coin and gains a new effect"
     },
     {
       "id": "BlackCloudBlade",
       "name": "Lama della Nuvola Nera",
-      "desc": "Stack Max: 1\nOttiene 1 Potenzia Tagliente\nnfligge 1 Sanguinamento sul colpo con le Abilità Taglienti"
+      "desc": "Stack Max: 1\nOttiene 1 Potenzia Tagliente\nnfligge 1 Sanguinamento sul colpo con le Abilità Taglienti",
+      "summary": "Enhance Slash Skills"
     },
     {
       "id": "EngageToBattle",
       "name": "Pronti alla Battaglia",
-      "desc": "Valore Massimo: 1\n+1 a Potenza e al Conteggio Sanguinamento inflitte con le Abilità o con gli effetti delle Monete di quest'unità\nOttiene 1 Potenzia Tagliente e 3 Danno Tagliente Aumentato per la durata dell'incontro"
+      "desc": "Valore Massimo: 1\n+1 a Potenza e al Conteggio Sanguinamento inflitte con le Abilità o con gli effetti delle Monete di quest'unità\nOttiene 1 Potenzia Tagliente e 3 Danno Tagliente Aumentato per la durata dell'incontro",
+      "summary": "Enhance Slash Skills and inflict more Bleed"
     },
     {
       "id": "CloudWall",
       "name": "Muro Cumuliforme",
-      "desc": "Stack Max: 1\nValore Finale Abilità Difensiva +1\nQuest'effetto scade a Fine Turno o dopo che la seguente Abilità termina: 'Regole dei Vicoli'"
+      "desc": "Stack Max: 1\nValore Finale Abilità Difensiva +1\nQuest'effetto scade a Fine Turno o Fine dell'Attacco: 'Regole dei Vicoli'",
+      "summary": "Enhance Defense Skill"
     },
     {
       "id": "ScarletResultUp",
@@ -2129,7 +2133,7 @@
     {
       "id": "WaveSinking",
       "name": "Riflusso",
-      "desc": "- Stack Max: 3\nQuando Subisce un'Attacco, ottiene Potenza Pianto pari alle Stack\n\nA Fine Turno: Se questa unità ha -30 o meno PS, attiva i seguenti effetti (per unità senza PS, si attiva a 60+ Potenza Pianto)\n- Subisce (Potenza Pianto sull'unità x Stack) Danno da Tristezza\n- Infligge 1 Riflusso contro 2 altri bersagli con meno PS (per le Anormalità, Parti); infine, infligge (Potenza Pianto x Stack) Danni da Tristezza a entrambi i bersagli, rispettivamente\nSe l'unità con Riflusso Muore, trasferisce le Stack di Riflusso all'alleato con il maggior numero di Stack di Riflusso",
+      "desc": "- Stack Max: 3\nQuando Subisce un'Attacco, ottiene Potenza Annegamento pari alle Stack\n\nA Fine Turno: Se questa unità ha -30 o meno PS, attiva i seguenti effetti (per unità senza PS, si attiva a 60+ Potenza Annegamento)\n- Subisce (Potenza Annegamento sull'unità x Stack) Danno da Tristezza\n- Infligge 1 Riflusso contro 2 altri bersagli con meno PS (per le Anormalità, Parti); infine, infligge (Potenza Annegamento x Stack) Danni da Tristezza a entrambi i bersagli, rispettivamente\nSe l'unità con Riflusso Muore, trasferisce le Stack di Riflusso all'alleato con il maggior numero di Stack di Riflusso",
       "summary": "",
       "undefined": "-"
     },
@@ -2227,13 +2231,13 @@
     },
     {
       "id": "DarkHonglu_Ai",
-      "name": "Felicità, Gioia, Tristezza",
+      "name": "Felicità, Gioia, Rimpianto",
       "desc": "- Potere Finale di Hong Lu +3\n- A Scontro Vinto, cura 1 alleato con meno PS di 5 PS (inclusa questa unità)\n- Alla morte di un alleato, gli alleati rimanenti ottengono 1 Attacco Aumentato a Fine Turno il turno successivo (1 volta per turno)\n- Quando ci sono 1 o più alleati sopravvissuti in questo Incontro: quando subisce un danno fatale, Hong Lu non muore e invece si cura del 50% di PV\nA Scontro Vinto contro Jia Mu, ottiene 1 risorsa E.G.O casuale da ognuna delle 3 Affinità con il minor numero di risorse",
       "summary": ""
     },
     {
       "id": "DarkHonglu_Nu",
-      "name": "Felicità, Gioia, Tristezza, Ira",
+      "name": "Felicità, Gioia, Rimpianto, Ira",
       "desc": "- Potere Finale di Hong Lu +5\n- Gli alleati si curano di 5 PS ad ogni Inizio Turno (inclusa questa unità)\n- Alla morte di un alleato, gli alleati rimanenti ottengono 1 Attacco Aumentato a Fine Turno il turno successivo (1 volta per turno)\n- Quando ci sono 1 o più alleati sopravvissuti in questo Incontro: quando subisce un danno fatale, Hong Lu non muore e invece si cura del 50% di PV\n- Aumenta i danni inflitti del 30% della totale percentuale di PV persi da questa unità durante l'Incontro (max 100%)\nA Scontro Vinto contro Jia Mu, ottiene 1 risorsa E.G.O casuale da ognuna delle 3 Affinità con il minor numero di risorse",
       "summary": ""
     },
@@ -2357,13 +2361,13 @@
     {
       "id": "BloodArmorMeursault",
       "name": "Armatura di Sangue Coagulato",
-      "desc": "- Stack Max: 5\n- Se questa unità non ha i PV al massimo: dopo un'attacco con Abilità, si cura del 10% dei danni PV inflitti (una volta per turno; max 40 PV di cure)\n- Dopo l'Attacco: se questa unità ha inflitto danni ai PV, perde 1 Stack (una volta per turno)\n• Se è stata attivata a Rison. Lussuria, la quantità di PV curati si dimezza, ma non perde nessuna Stack di Armatura di Sangue Coagulato",
+      "desc": "- Stack Max: 5\n- Se questa unità non ha i PV al massimo: dopo un'attacco con Abilità, si cura del 10% dei danni PV inflitti (una volta per turno; max 40 PV di cure)\n- Fine Attacco: Se questa unità ha inflitto danni ai PV, perde 1 Stack (una volta per turno)\n• Se è stata attivata a Rison. Lussuria, la quantità di PV curati si dimezza, ma non perde nessuna Stack di Armatura di Sangue Coagulato",
       "undefined": "-"
     },
     {
       "id": "FocusOnActing",
       "name": "Esibizione Attenta",
-      "desc": "- Stack Max: 3\n- Solo per Identità di <La Manchaland>; include le Abilità Potenziate\n- Abilità 1 e Abilità 2 ottengono Potere Finale +1; infliggono +5% danni per ogni Stack (max 15%)\n- Abilità 3 ottiene Potere Finale +2; infligge +10% danni per ogni Stack (max 30%)\n- Dopo aver attaccato con l'Abilità 3, o a Inizio Turno, se questa unità non ha Armatura di Sangue Coagulato, perde 1 Stack",
+      "desc": "- Stack Max: 3\n- Solo per Identità di <La Manchaland>; include le Abilità Potenziate\n- Abilità 1 e Abilità 2 ottengono Potere Finale +1; infliggono +5% danni per ogni Stack (max 15%)\n- Abilità 3 ottiene Potere Finale +2; infligge +10% danni per ogni Stack (max 30%)\n- Perde 1 Stack quando:\n  1) Fine Attacco con Abilità 3\n  2) Se questa unità non ha Armatura di Sangue Coagulato ad Inizio Turno",
       "summary": "Sul Colpo, infligge più danni",
       "undefined": "-"
     },
@@ -2440,8 +2444,8 @@
     {
       "id": "GrownHorns",
       "name": "Crescita delle Corna [發角]",
-      "desc": "- Valore Max: 3\n- Le Abilità Base di quest'unità infliggono +1 Potenza Lacerazione e Pianto in più\n- A Fine Turno: Perde 1 Stack",
-      "summary": "Infligge +1 Potenza di Lacerazione e Pianto aggiuntiva",
+      "desc": "- Valore Max: 3\n- Le Abilità Base di quest'unità infliggono +1 Potenza Lacerazione e Annegamento in più\n- A Fine Turno: Perde 1 Stack",
+      "summary": "Infligge +1 Potenza di Lacerazione e Annegamento aggiuntiva",
       "undefined": "-"
     },
     {
@@ -2475,14 +2479,14 @@
     {
       "id": "BlueSand",
       "name": "Sabbia Blu",
-      "desc": "- Quando perde uno Scontro, ottiene +1 Conteggio Pianto (3 volte per turno)\n- Unità con PS: cambia il loro tipo di panico in \"Sabbia Blu\"\n- Unità senza PS: Velocità Min & Max -1\n- Fine Turno: si riduce di 1 Stack\n- Quest'effetto non è cumulabile: infliggerlo di nuovo rimpiazzerà il valore corrente col valore inflitto\n- Applica le condizioni di \"Unità senza PS\" a determinati nemici che hanno i PS ma non possono cambiare il loro tipo di Panico\n\n※ Effetti del Panico Sabbia Blu\n- Morale Basso: Potere Scontro -1, Velocità Min & Max -1\n- Panico: Potere Scontro -2, Velocità Min & Max -1",
+      "desc": "- Quando perde uno Scontro, ottiene +1 Conteggio Annegamento (3 volte per turno)\n- Unità con PS: cambia il loro tipo di panico in \"Sabbia Blu\"\n- Unità senza PS: Velocità Min & Max -1\n- Fine Turno: si riduce di 1 Stack\n- Quest'effetto non è cumulabile: infliggerlo di nuovo rimpiazzerà il valore corrente col valore inflitto\n- Applica le condizioni di \"Unità senza PS\" a determinati nemici che hanno i PS ma non possono cambiare il loro tipo di Panico\n\n※ Effetti del Panico Sabbia Blu\n- Morale Basso: Potere Scontro -1, Velocità Min & Max -1\n- Panico: Potere Scontro -2, Velocità Min & Max -1",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "SheutFracture",
       "name": "Frattura Sheut",
-      "desc": "- Max Stack: 10\n- Pianto Speciale\n- Per ogni Stack, subisce +1% danni in più dalle Abilità Accidia e Tristezza\n- A Stack max, ottiene 1 Intensifica Tristezza (una volta per turno), subisce danno da Tristezza pari alla Potenza Pianto su di sé (perde 1 Conteggio Pianto), poi scade\n- Se l'unità con quest'effetto muore, trasferisce metà delle sue Stack all'alleato con i PS più alti (arrotondato per difetto)\n- Inizio Turno: Se non ci sono Identità della LCA sul campo, scade",
+      "desc": "- Max Stack: 10\n- Annegamento Speciale\n- Per ogni Stack, subisce +1% danni in più dalle Abilità Accidia e Tristezza\n- A Stack max, ottiene 1 Intensifica Tristezza (una volta per turno), subisce danno da Tristezza pari alla Potenza Annegamento su di sé (perde 1 Conteggio Annegamento), poi scade\n- Se l'unità con quest'effetto muore, trasferisce metà delle sue Stack all'alleato con i PS più alti (arrotondato per difetto)\n- Inizio Turno: Se non ci sono Identità della LCA sul campo, scade",
       "summary": "",
       "undefined": "-"
     },
@@ -2506,6 +2510,241 @@
       "desc": "- Max Stack: 2\n- Take +10% damage from Wrath and Envy Skills\n- On Clash Lose, gain 1 Burn (3 times per turn)\n- Turn End: Lose 1 Stack",
       "summary": "",
       "undefined": "-"
+    },
+    {
+      "id": "ExtractCoin",
+      "name": "Excision Coin",
+      "desc": "- This Coin can destroy Unbreakable Coins in a Clash.\n- This coin does not break upon Clash Lose.\n- If an Attack Skill has this Coin, attack with this Coin after getting hit.\n- Upon Clash Lose, fix the Coin Power of the unbroken Coin to 1",
+      "summary": ""
+    },
+    {
+      "id": "ReinforcedTattooIshmael",
+      "name": "The Middle Styled Augmentation Tattoos",
+      "desc": "- Max Stack: 10\n- Final Power +1 for Base Skills for every 5 Stack (max 2)\n- Envy Skills and Blunt Skills deal +5% damage for every Stack (max 50%)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ResentmentIshmael",
+      "name": "The Middle - Grudge",
+      "desc": "- Max Stack: 15\n- If target has Vengeance Mark, deal +20% damage",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeatingWireIshmael",
+      "name": "Thermal Blades",
+      "desc": "- Max Stack: 2\n- If target hit by Base Skills has Burn, heal 3 SP (2 times per turn)\n- Inflict Burn when inflicting Bleed with certain Skill Coins\n- Turn End: Lose 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LanternGregBigBird",
+      "name": "Lamp",
+      "desc": "- Max Stack: 8\n- Turn End: Gain 1 Bind next turn for every 2 Stack (max 4)\n- Turn End: At max Stack, if there are enemies on the field, consume all Stack to activate the following effects next turn:\n• Gain +10 Aggro to the leftmost Slot\n• Inflict 3 Dazzle to the enemy(Core) with the most current HP",
+      "summary": "Gain Bind next turn",
+      "undefined": "-"
+    },
+    {
+      "id": "ObedienceGregBigBird",
+      "name": "Guardians of the Forest",
+      "desc": "Before Attack, activate the following effects:\n- Plus Coin Skills heal 4 SP (if already at max SP, gain 2 Offense Level Up next turn)\n- Minus Coin Skills lose 8 SP (this effect cannot reduce the unit's SP below -40)\n- Lose this effect",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DelusionGregBigBird",
+      "name": "Dazzle",
+      "desc": "- For every 1 (Sinking + Burn), take +0.5% damage from Base Attack Skills (max 10%)\n- Units with SP: Change their Panic Type to \"Dazzle\"\n- Units without SP: Defense Level -2\n- Turn End: Lose 1 Stack\n- This effect is not cumulative; inflicting it will replace the current value with the inflicted value\n- Apply the \"Units without SP\" conditional to certain enemies that have SP but can't change their Panic Types\n\n※ Dazzle Panic-type Effects\n- Low Morale: Turn End: Gain 1 Bind and 2 Offense Level Down next turn\n- Panic: Turn End: Gain 1 Bind and 4 Offense Level Down next turn",
+      "summary": "For every 1 (Sinking + Burn), take +0.5% damage from Base Attack Skills (max 10%)\nUnits with SP: Change their Panic Type to \"Dazzle\"\nUnits without SP: Defense Level -2",
+      "undefined": "-"
+    },
+    {
+      "id": "DelusionGregBigBird_Main",
+      "name": "Dazzle",
+      "desc": "- For every 1 (Sinking + Burn), take +0.5% damage from Base Attack Skills (max 10%)\n- Units with SP: Change their Panic Type to \"Dazzle\"\n- Turn End: Lose 1 Stack",
+      "summary": "For every 1 (Sinking + Burn), take +0.5% damage from Base Attack Skills (max 10%)\nChange Panic Type to \"Dazzle\"",
+      "undefined": "-"
+    },
+    {
+      "id": "DelusionGregBigBird_Sub",
+      "name": "Dazzle",
+      "desc": "- For every 1 (Sinking + Burn), take +0.5% damage from Base Attack Skills (max 10%)\n- Units without SP: Defense Level -2\n- Turn End: Lose 1 Stack",
+      "summary": "For every 1 (Sinking + Burn), take +0.5% damage from Base Attack Skills (max 10%)\nDefense Level -2",
+      "undefined": "-"
+    },
+    {
+      "id": "DelusionGregBigBird_LowMorale",
+      "name": "Dazzle",
+      "desc": "- Low Morale\n- Turn End: Gain 1 Bind and 2 Offense Level Down next turn",
+      "summary": "Turn End: Gain 1 Bind and 2 Offense Level Down next turn",
+      "undefined": "-"
+    },
+    {
+      "id": "DelusionGregBigBird_Panic",
+      "name": "Dazzle",
+      "desc": "- Panic\n- Turn End: Gain 1 Bind and 4 Offense Level Down next turn",
+      "summary": "Turn End: Gain 1 Bind and 4 Offense Level Down next turn",
+      "undefined": "-"
+    },
+    {
+      "id": "LittleFingerID",
+      "name": "Moonlit Azure Blade",
+      "desc": "- Max Stack: 20\n- Turn Start: Gain 2 Shield for every Stack\n- Deal +1% damage on Critical Hit for every Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptYi_0",
+      "name": "Prescritto: [Dispositivo] I",
+      "desc": "Usa un’Abilità marchiata con Segno del Prescritto o colpisci un bersaglio con un’Abilità marchiata.\n\n- Inizio Turno: Ottiene questo effetto quando questa unità non ha Sprigiona\n- Con questo Prescritto, Grazia del Prescritto si cumula fino a massimo 3 volte",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Le vie del Prescritto sono numerose, le quali vengono stabilite in modo simile ad una profezia divina. Coloro che li ricevono non hanno potere su come essi arrivino."
+    },
+    {
+      "id": "IndexPrescriptYi_1",
+      "name": "Prescritto: [Dispositivo] II",
+      "desc": "Colpisci un bersaglio con un’Abilità marchiata con Segno del Prescritto.\n\n- Inizio Turno: Ottiene questo effetto quando questa unità ha Sprigiona - I\n- Con questo Prescritto, Grazia del Prescritto si cumula fino a massimo 6 volte",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Le vie del Prescritto sono numerose, le quali vengono stabilite in modo simile ad una profezia divina. Coloro che li ricevono non hanno potere su come essi arrivino."
+    },
+    {
+      "id": "IndexPrescriptYi_2",
+      "name": "Prescritto: [Dispositivo] III",
+      "desc": "Ottiene Attuazione [Hermes]. Ripete questo Prescritto finché non raggiunge 9 Stack.\n\n- Inizio Turno: Ottiene questo effetto quando questa unità ha Sprigiona - II\n- Con questo Prescritto, Grazia del Prescritto si cumula fino a massimo 9 volte",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Le vie del Prescritto sono numerose, le quali vengono stabilite in modo simile ad una profezia divina. Coloro che li ricevono non hanno potere su come essi arrivino."
+    },
+    {
+      "id": "IndexPrescriptYi_3",
+      "name": "Prescritto: [Dispositivo] IV",
+      "desc": "Elimina tutti i nemici prima che il prossimo Prescritto venga recapitato.\n\n- Inizio Turno: Ottiene questo effetto quando questa unità ha Sprigiona - III",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Le vie del Prescritto sono numerose, le quali vengono stabilite in modo simile ad una profezia divina. Coloro che li ricevono non hanno potere su come essi arrivino."
+    },
+    {
+      "id": "StackYisangSpecialSkill",
+      "name": "Attuazione [Hermes]",
+      "desc": "- Inizio Turno: A 9 Stack, diventa disponibile un’Abilità potente\n- L’effetto può essere ottenuto fino a (livello di Sprigiona + 2) Stack per turno\n- Max Stack: 9\n· A meno di Sprigiona - II, le Stack di questo effetto sono limitate a 8",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "Shin_IndexFingerYisang",
+      "name": "Shin (心) - Fato",
+      "desc": "- Velocità Min & Max +1\n- Ottiene +1 Potenza e Conteggio Respiro in più dalle Abilità Base\n- Se i PS di questa unità sono più alti di quelli del bersaglio, infligge +1% danni per ogni 3 PS di differenza (max 15%; le unità senza PS vengono considerate con 0 PS)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "BurningWoundYisangMask",
+      "name": "Maschera Copri-ferita",
+      "desc": "- Livello Offensivo +2,Livello Difensivo -2\n- Subisce -10% danni dagli Attacchi Unilaterali\n",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "BurningWoundYisang",
+      "name": "Ferita Rovente",
+      "desc": "- Livello Offensivo +3, Livello Difensivo -3\n- Subisce -25% danni dagli Attacchi Unilaterali\n- Inizio Turno: Ottiene 1 Bruciatura e 1 Sanguinamento\n- Infligge +15% danni con le Monete Infrangibili delle Abilità Attacco Base",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "BlackNightmareYisang",
+      "name": "Indulgenza nei Prescritti",
+      "desc": "- Velocità Min & Max +5\n- Applica i seguenti effetti a ‘Furioso (Replica)’:\n·Sul Colpo, infligge +1 Potenza Annegamento in più ed ottiene +1 Potenza Respiro in più\n·Sul Colpo, infligge +3 Conteggio Annegamento (una volta per bersaglio)\n· Infligge +30% danni\n- Termina a Fine Turno",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon01Hatchet",
+      "name": "Mentre squarci tra le costole con un’ascia...",
+      "desc": "- Questa Moneta infligge danno Contundente\n-  Sul Colpo senza Rottura Moneta, ottiene 2 Respiro",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon02Stiletto",
+      "name": "Mentre perfori i polmoni con uno stiletto...",
+      "desc": "- Questa Moneta infligge danno Perforante\n- Sul Colpo senza Rottura Moneta, infligge 2 Annegamento",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon03Greatsword",
+      "name": "Mentre fendi la spalla e il cranio con una spada bastarda...",
+      "desc": "- Questa Moneta infligge danno Tagliente\n-  Questa Moneta infligge +5% danni\n- Sul Colpo senza Rottura Moneta, ottiene 1 Aumento Offensivo il turno successivo (2 volte per turno)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon04Rapier",
+      "name": "Mentre buchi 10 o più volte il torso con uno stocco...",
+      "desc": "- Questa Moneta infligge danno Perforante\n- Questa Moneta infligge +5% danni\n- Sul Colpo senza Rottura Moneta, infligge 1 Calo Difensivo il turno successivo (2 volte per turno)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon05Sledgehammer",
+      "name": "Mentre spacchi la nuca con un martello...",
+      "desc": "- Questa Moneta infligge danno Contundente\n- Questa Moneta infligge +5% danni\n- Sul Colpo senza Rottura Moneta, aumenta la soglia di Vacillamento del bersaglio di 3",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon06Ultragreatsword",
+      "name": "Mentre dilani il corpo con uno spadone...",
+      "desc": "- Questa Moneta infligge danno Tagliente\n- Questa Moneta infligge +15% danni\n- Sul Colpo senza Rottura Moneta, infligge 1 Intensifica Tagliente fino al turno successivo (2 volte per turno)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon07Lance",
+      "name": "Mentre realizzi un buco di 50 centimetri con una lancia...",
+      "desc": "- Questa Moneta infligge danno Perforante\n- Questa Moneta infligge +15% danni\n- Sul Colpo senza Rottura Moneta, infligge 1 Intensifica Perforante fino al turno successivo (2 volte per turno)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon08Chain",
+      "name": "Mentre strappi la carne in diecimila strisce con una frusta...",
+      "desc": "- Questa Moneta infligge danno Contundente\n- Questa Moneta infligge +15% danni\n- Sul Colpo senza Rottura Moneta, infligge 1 Intensifica Contundente fino al turno successivo (2 volte per turno)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon09Scythe",
+      "name": "Mentre laceri lo spazio stesso con una falce, proprio come una certa persona...",
+      "desc": "- Questa Moneta infligge danno Tagliente\n- Questa Moneta infligge +30% danni\n- Sul Colpo senza Rottura Moneta, il colpo è sempre un Colpo Critico",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "SatisfyingEsteemNeeds",
+      "name": "Bisogno di Approvazione Colmato",
+      "desc": "- Infligge +7.5% danni con le Abilità marchiate con Segno del Prescritto\n- Infligge +7.5% danni ai Bersagli del Prescritto",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
     }
   ]
 }

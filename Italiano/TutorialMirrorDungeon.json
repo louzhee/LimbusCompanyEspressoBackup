@@ -718,7 +718,7 @@
     },
     {
       "id": "TutoMD06_P4_D2",
-      "content": "Nel Dungeon Specchio Mod. Normale, tutte le Identità avranno il loro livello aumentato al 55. Nel Dungeon Specchio Difficile, invece, verrà usato il livello attuale delle tue Identità. (max Liv. 55)"
+      "content": "Nel Dungeon Specchio Mod. Normale, tutte le Identità avranno il loro livello aumentato al 55. Nel Dungeon Specchio Mod. Difficile, invece, verrà usato il livello attuale delle tue Identità. (max Liv. 55)"
     },
     {
       "id": "TutoMD06_P4_D3",
@@ -906,7 +906,7 @@
     },
     {
       "id": "TutoMD06_P12_D2",
-      "content": "Nei Negozi, puoi spendere il 'Costo' che hai guadagnato per comprare Doni E.G.O, curare o riportare in vita i Peccatori, schierare e/o scambiare nuove Identità, o sostituire le Abilità di un'Identità."
+      "content": "Nei Negozi puoi spendere il 'Costo' che hai guadagnato per comprare Doni E.G.O, curare o riportare in vita i Peccatori, schierare e/o scambiare nuove Identità, o sostituire le Abilità di un'Identità."
     },
     {
       "id": "TutoMD06_P12_D3",
@@ -930,7 +930,7 @@
     },
     {
       "id": "TutoMD06_P14_T1",
-      "content": "Ricompensa - Carte Incontr"
+      "content": "Ricompensa - Carte Incontro"
     },
     {
       "id": "TutoMD06_P14_D1",
@@ -1155,6 +1155,450 @@
     {
       "id": "TutoMD06_P32_D4",
       "content": "Scegliere più Avversità aumenterà la difficoltà, ma riceverai più Luce Stellare e tasso di Proiezione."
+    },
+    {
+      "id": "TutoMD07_P1_T1",
+      "content": "Specchio dei Nomi e dei Ragni"
+    },
+    {
+      "id": "TutoMD07_P1_D1",
+      "content": "Il Dungeon Specchio della Stagione 7 è chiamato 'Specchio dei Nomi e dei Ragni'."
+    },
+    {
+      "id": "TutoMD07_P1_D2",
+      "content": "Clicca sulla porta oppure sul tasto \"Entra\" per esplorare il Dungeon Specchio."
+    },
+    {
+      "id": "TutoMD07_P2_T1",
+      "content": "Bonus Settimanali"
+    },
+    {
+      "id": "TutoMD07_P2_D1",
+      "content": "Ogni settimana, hai a disposizione 3 Bonus Settimanali\nper ottenere ricompense aggiuntive dal Dungeon Specchio."
+    },
+    {
+      "id": "TutoMD07_P2_D2",
+      "content": "Using a Weekly Bonus eligibility when claiming your reward,\nand receive greatly increased rewards."
+    },
+    {
+      "id": "TutoMD07_P2_D3",
+      "content": "Se scegli la modalità Difficile per ogni Piano, puoi usare 2 o più Bonus Settimanali alla volta, e riceverai ricompense pari al numero di Bonus Settimanali spesi."
+    },
+    {
+      "id": "TutoMD07_P2_D4",
+      "content": "È, tuttavia, più efficente (in costi di Encefalina) usare 1 Bonus Settimanale alla volta, piuttosto che tutti assieme."
+    },
+    {
+      "id": "TutoMD07_P2_T2",
+      "content": "Luce Stellare"
+    },
+    {
+      "id": "TutoMD07_P2_D5",
+      "content": "Lo Specchio dei Nomi e dei Ragni ha varie opzioni su come spendere la Luce Stellare per facilitare l'esplorazione del Dungeon, tra le quali (e non solo) la Grazia delle Stelle, le Osservazioni e l'Esprimi un Desiderio."
+    },
+    {
+      "id": "TutoMD07_P2_D6",
+      "content": "La quantità di Luce Stellare ottenuta è proporzionale al numero di Piani raggiunti ed al numero di Pacchetti a Tema completati in modalità Difficile. Inoltre, puoi ottenere Luce Stellare completando i Pacchetti a Tema della Metro Rifrattiva o selezionando le Carte Ricompense Incontro - Luce Stellare."
+    },
+    {
+      "id": "TutoMD07_P2_D7",
+      "content": "Puoi ottenere Luce Stellare extra estraendo un'Identità 3★ o E.G.O appena rilasciati, entro un certo periodo di tempo.\n※ NON è possibile ottenere Luce Stellare se le Identità o E.G.O sono state ottenute tramite la Dispensa."
+    },
+    {
+      "id": "TutoMD07_P2_D8",
+      "content": "La Luce Stellare ottenuta dalle Estrazioni è immediatamente disponibile anche se la si ottiene mentre si sta esplorando un Dungeon Specchio."
+    },
+    {
+      "id": "TutoMD07_P3_T1",
+      "content": "Peccatori"
+    },
+    {
+      "id": "TutoMD07_P3_D1",
+      "content": "Puoi vedere i Peccatori schierati correntemente qui."
+    },
+    {
+      "id": "TutoMD07_P3_T2",
+      "content": "Compendio Pacchetti a Tema"
+    },
+    {
+      "id": "TutoMD07_P3_D2",
+      "content": "Qui puoi vedere la lista dei Pacchetti a Tema che appaiono nel Dungeon Specchio. I Pacchetti che hai selezionato verranno registrati e collezionati qui."
+    },
+    {
+      "id": "TutoMD07_P3_T3",
+      "content": "Enciclopedia Doni E.G.O"
+    },
+    {
+      "id": "TutoMD07_P3_D3",
+      "content": "Qui puoi vedere la lista dei Doni E.G.O che appaiono nel Dungeon Specchio.\nOttenere un Dono E.G.O nel Dungeon Specchio lo aggiungerà alla tua Enciclopedia."
+    },
+    {
+      "id": "TutoMD07_P4_T1",
+      "content": "Crea la tua Squadra"
+    },
+    {
+      "id": "TutoMD07_P4_D1",
+      "content": "Seleziona le Identità che vuoi far partecipare alla battaglia."
+    },
+    {
+      "id": "TutoMD07_P4_D2",
+      "content": "Nel Dungeon Specchio Mod. Normale, tutte le Identità avranno il loro livello aumentato al 60. Nel Dungeon Specchio Mod. Difficile, invece, verrà usato il livello attuale delle tue Identità. (max Liv. 60)"
+    },
+    {
+      "id": "TutoMD07_P4_D3",
+      "content": "Tieni a mente che il Grado Legame delle Identità e il Grado Intreccio degli E.G.O non subiranno modifiche."
+    },
+    {
+      "id": "TutoMD07_P5_T1",
+      "content": "Bonus Luce Stellare"
+    },
+    {
+      "id": "TutoMD07_P5_D1",
+      "content": "Nel menu Squadra del Dungeon Specchio puoi vedere il bonus Luce Stellare di ogni Identità."
+    },
+    {
+      "id": "TutoMD07_P5_D2",
+      "content": "La somma della Luce Stellare ottenibile dal bonus Luce Stellare di ciascuna Identità nella tua Squadra può essere visualizzata qui, nell'angolo in basso a destra, sopra il pulsante di Conferma."
+    },
+    {
+      "id": "TutoMD07_P5_D3",
+      "content": "La Luce Stellare, ottenibile tramite i Bonus Luce Stellare, viene usata per attivare la Grazia delle Stelle."
+    },
+    {
+      "id": "TutoMD07_P5_D4",
+      "content": "Quando completi un Dungeon Specchio, il Bonus Luce Stellare per le Identità nella tua squadra corrente scende a 0, e tutte le altre Identità ottengono 1 Bonus Luce Stellare."
+    },
+    {
+      "id": "TutoMD07_P5_D5",
+      "content": "Le Identità che sono entrate o uscite dalla squadra durante l'esplorazione non otterrano né consumeranno il Bonus Luce Stellare."
+    },
+    {
+      "id": "TutoMD07_P6_T1",
+      "content": "Grazia della Stella dei Nomi e dei Ragni"
+    },
+    {
+      "id": "TutoMD07_P6_D1",
+      "content": "Spendi il Bonus Luce Stellare ottenuto dalla tua squadra per ottenere la Grazia delle Stelle."
+    },
+    {
+      "id": "TutoMD07_P6_D2",
+      "content": "Se hai Luce Stellare extra oltre al Bonus Luce Stellare, puoi spenderlo per selezionare un ulteriore Grazia delle Stelle o migliorare la Grazia delle Stelle già selezionata."
+    },
+    {
+      "id": "TutoMD07_P6_D3",
+      "content": "Usa questo pulsante per selezionare più Grazie assieme."
+    },
+    {
+      "id": "TutoMD07_P6_D4",
+      "content": "Se, dopo aver selezionato la Grazia delle Stelle, rimane del Bonus Luce Stellare inutilizzato, questo viene convertito in 'Costo' da usare durante l'esplorazione."
+    },
+    {
+      "id": "TutoMD07_P6_D5",
+      "content": "※ La Luce Stellare posseduta non verrà convertita in Costo."
+    },
+    {
+      "id": "TutoMD07_P7_T1",
+      "content": "Selezione Dono E.G.O di Partenza"
+    },
+    {
+      "id": "TutoMD07_P7_D1",
+      "content": "Quando entri in un Dungeon Specchio, ti verranno fornite delle categorie di Tratti da dove scegliere i Doni E.G.O."
+    },
+    {
+      "id": "TutoMD07_P7_D2",
+      "content": "I Doni E.G.O che appaiono in ogni categoria sono fissi. Puoi scegliere tutti i Doni E.G.O disponibili nella stessa categoria."
+    },
+    {
+      "id": "TutoMD07_P7_D3",
+      "content": "Durante l'esplorazione del Dungeon Specchio, i Doni E.G.O della categoria che hai scelto appariranno più frequentemente."
+    },
+    {
+      "id": "TutoMD07_P8_T1",
+      "content": "Selezionare i Pacchetti a Tema"
+    },
+    {
+      "id": "TutoMD07_P8_D1",
+      "content": "Usa 'Cerca Dono E.G.O' per selezionare ed ottenere un Dono E.G.O dalla lista."
+    },
+    {
+      "id": "TutoMD07_P8_D2",
+      "content": "Puoi attivare/disattare la funzione 'Cerca Dono E.G.O'"
+    },
+    {
+      "id": "TutoMD07_P8_D3",
+      "content": "Non puoi selezionare un Dono E.G.O che già hai ed il costo per selezionare un Dono E.G.O aumenta ogni volta che ne selezioni uno."
+    },
+    {
+      "id": "TutoMD07_P9_T1",
+      "content": "Selezionare i Pacchetti a Tema"
+    },
+    {
+      "id": "TutoMD07_P9_D1",
+      "content": "Quando arrivi su un nuovo Piano, potrai scegliere che nemici affrontare tramite dei 'Pacchetti a Tema'. Seleziona e tira giù il Pacchetto a Tema che desideri affrontare per continuare."
+    },
+    {
+      "id": "TutoMD07_P9_D2",
+      "content": "Puoi vedere che Boss e Doni E.G.O (ottenibili come ricompense per gli Incontri) sono disponibili nei Pacchetti cliccando sulla lente d'ingrandimento in alto a destra di ogni Pacchetto."
+    },
+    {
+      "id": "TutoMD07_P9_D3",
+      "content": "Sotto i Pacchetti a Tema c'è la lista dei Doni E.G.O che puoi scegliere dopo aver sconfitto il Boss di quello specifico Pacchetto."
+    },
+    {
+      "id": "TutoMD07_P9_T2",
+      "content": "Scegliere la Difficoltà del Pacchetto a Tema"
+    },
+    {
+      "id": "TutoMD07_P9_D4",
+      "content": "Nello Specchio dei Nomi e dei Ragni,  puoi scegliere la difficoltà del prossimo piano mentre selezioni il Pacchetto a Tema."
+    },
+    {
+      "id": "TutoMD07_P9_D5",
+      "content": "Tuttavia, se scegli la modalità Difficile, non potrai più tornare alla modalità Normale durante l'esplorazione."
+    },
+    {
+      "id": "TutoMD07_P9_T3",
+      "content": "Modalità Difficile"
+    },
+    {
+      "id": "TutoMD07_P9_D6",
+      "content": "Nei Pacchetti a Tema [Difficile], potrai scegliere tra 4 Doni E.G.O, invece che 3, dopo aver sconfitto il Boss del Piano. Inoltre, avendo la possibilità di scegliere 2 Doni E.G.O tra quelli proposti, i nemici verranno potenziati con due Prove Crescenti."
+    },
+    {
+      "id": "TutoMD07_P9_D7",
+      "content": "Nella Modalità Difficile potresti imbatterti in dei Negozi speciali.\nInoltre, alcuni Doni E.G.O sono esclusivi della modalità Difficile."
+    },
+    {
+      "id": "TutoMD07_P10_T1",
+      "content": "Cerca Pacchetto"
+    },
+    {
+      "id": "TutoMD07_P10_D1",
+      "content": "Usando la nuova funzione Osservazione Pacchetti a Tema, o \"Cerca Pacchetto\", puoi scegliere dei Pacchetti a Tema specifici in base alla combinazione di Piano e Modalità."
+    },
+    {
+      "id": "TutoMD07_P10_D2",
+      "content": "Cliccare sul bottone \"Cerca Pacchetto\" farà cambiare le icone dei bottoni in alto a destra di ogni Pacchetto a Tema. Clicca quelle icone per entrare nella finestra dell'Osservazione Pacchetti a Tema."
+    },
+    {
+      "id": "TutoMD07_P10_D3",
+      "content": "Spendi la Luce Stellare per selezionare un Pacchetto a Tema disponibile, in base alla combinazione di Piano e Modalità. I Pacchetti che non sono stati ancora osservati richiederanno più Luce Stellare per essere selezionati."
+    },
+    {
+      "id": "TutoMD07_P10_D4",
+      "content": "Tuttavia, più viene usata questa funzione, più aumenterà il costo in Luce Stellare."
+    },
+    {
+      "id": "TutoMD07_P11_T1",
+      "content": "Esplorare i Dungeon Specchio"
+    },
+    {
+      "id": "TutoMD07_P11_D1",
+      "content": "Gli Incontri del Dungeon Specchio e le sue tratte vengono generate casualmente."
+    },
+    {
+      "id": "TutoMD07_P11_D2",
+      "content": "Nel Dungeon Specchio avanzi spostandoti sui nodi collegati al nodo dove sei correntemente. Puoi trovare eventi o nemici in ognuno dei nodi."
+    },
+    {
+      "id": "TutoMD07_P11_T2",
+      "content": "Costo"
+    },
+    {
+      "id": "TutoMD07_P11_D3",
+      "content": "Otterrai del 'Costo' procedendo nel Dungeon Specchio. Il 'Costo' che ottieni può essere speso nei Negozi."
+    },
+    {
+      "id": "TutoMD07_P12_T1",
+      "content": "Attacchi Efficaci & Ricompensa in Costo"
+    },
+    {
+      "id": "TutoMD07_P12_D1",
+      "content": "I nodi con Incontri dei Dungeon Specchio mostrano le affinità e attacchi utili per quella battaglia. Mostrano inoltre la quantità di Costo che viene ottenuta completando quell'Incontro."
+    },
+    {
+      "id": "TutoMD07_P12_T2",
+      "content": "Salute dei Peccatori"
+    },
+    {
+      "id": "TutoMD07_P12_D2",
+      "content": "I PV e PS persi dai Peccatori durante un'Incontro vengono preservati tra un'Incontro e l'altro. Ciò si applica anche se un Peccatore muore."
+    },
+    {
+      "id": "TutoMD07_P12_T3",
+      "content": "Doni E.G.O"
+    },
+    {
+      "id": "TutoMD07_P12_D3",
+      "content": "I Doni E.G.O ottenuti sono mostrati qui. I Doni E.G.O sono oggetti che offrono effetti potenti che rimangono attivi fino alla fine del Dungeon."
+    },
+    {
+      "id": "TutoMD07_P12_T4",
+      "content": "Osservazione Squadra"
+    },
+    {
+      "id": "TutoMD07_P12_D4",
+      "content": "Qui puoi visualizzare le informazioni sulle Identità nella tua squadra."
+    },
+    {
+      "id": "TutoMD07_P12_T5",
+      "content": "Effetti Attivi"
+    },
+    {
+      "id": "TutoMD07_P12_D5",
+      "content": "Qui puoi vedere le tue Prove Crescenti, Grazia delle Stelle e gli Effetti Scelta Evento."
+    },
+    {
+      "id": "TutoMD07_P13_T1",
+      "content": "Negozi"
+    },
+    {
+      "id": "TutoMD07_P13_D1",
+      "content": "I Nodi prima di un Boss sono sempre Negozi."
+    },
+    {
+      "id": "TutoMD07_P13_D2",
+      "content": "Nei Negozi puoi spendere il 'Costo' che hai guadagnato per comprare Doni E.G.O, curare o riportare in vita i Peccatori, schierare e/o scambiare nuove Identità, o sostituire le Abilità di un'Identità."
+    },
+    {
+      "id": "TutoMD07_P13_D3",
+      "content": "Inoltre, nei Negozi puoi vendere i Doni E.G.O per ottenere più Costo o Fondere i Doni E.G.O per ottenerne di più utili."
+    },
+    {
+      "id": "TutoMD07_P13_D4",
+      "content": "Nella modalità Difficile, c'è la possibilità che appaia un Super Negozio. Più Costo spendi durante il Dungeon Specchio, più è probabile che il Super Negozio appaia."
+    },
+    {
+      "id": "TutoMD07_P14_T1",
+      "content": "Ricette Fusione"
+    },
+    {
+      "id": "TutoMD07_P14_D1",
+      "content": "Alcuni Doni E.G.O per essere fusi hanno bisogno di ricette fusione specifiche. Puoi vederle qui."
+    },
+    {
+      "id": "TutoMD07_P14_D2",
+      "content": "Inoltre ci sono dei Doni E.G.O le cui ricette necessitano Doni E.G.O esclusivi di alcuni Pacchetti a Tema."
+    },
+    {
+      "id": "TutoMD07_P15_T1",
+      "content": "Fusione - Esprimi un Desiderio"
+    },
+    {
+      "id": "TutoMD07_P15_D1",
+      "content": "Usando la funzione Esprimi un Desiderio, puoi spendere della Luce Stellare per aumentare il rateo di successo della Fusione Doni E.G.O."
+    },
+    {
+      "id": "TutoMD07_P15_D2",
+      "content": "Il costo di Esprimi un Desiderio rimane lo stesso, a prescindere da quante volte viene usato."
+    },
+    {
+      "id": "TutoMD07_P16_T1",
+      "content": "Ricompensa - Carte Incontro"
+    },
+    {
+      "id": "TutoMD07_P16_D1",
+      "content": "C'è la possibilità che una 'Carta Incontro' appaia come ricompensa dopo aver vinto un'Incontro. Più l'Incontro è difficile, più sarà alta la possibilità di ottenere una Carta Incontro."
+    },
+    {
+      "id": "TutoMD07_P16_D2",
+      "content": "Puoi ottenere varie ricompense, come  Costo, Luce Stellare, Doni E.G.O o Risorse E.G.O."
+    },
+    {
+      "id": "TutoMD07_P17_T1",
+      "content": "Doni E.G.O & Prove Crescenti"
+    },
+    {
+      "id": "TutoMD07_P17_D1",
+      "content": "Dopo aver completato un piano, ai Doni E.G.O che otterrai sarà legato un buff che beneficia i nemici."
+    },
+    {
+      "id": "TutoMD07_P17_D2",
+      "content": "Le Prove Crescenti continueranno ad accumularsi con ogni Piano completato."
+    },
+    {
+      "id": "TutoMD07_P17_D3",
+      "content": "In modalità Difficile, puoi selezionare fino a 2 Doni E.G.O. Ciò significa che otterrai anche 2 Prove Crescenti."
+    },
+    {
+      "id": "TutoMD07_P18_T1",
+      "content": "Ricompense del Dungeon Specchio"
+    },
+    {
+      "id": "TutoMD07_P18_D1",
+      "content": "Quando completi un Dungeon Specchio, dovrai spendere dei Moduli di Encefalina per ottenere le ricompense."
+    },
+    {
+      "id": "TutoMD07_P18_D2",
+      "content": "La quantità finale delle ricompense dipende dal numero di Piani completati. Puoi usare il Bonus Settimanale per ottenere ancora più ricompense."
+    },
+    {
+      "id": "TutoMD07_P18_D3",
+      "content": "Se scegli la modalità Difficile su ogni Piano, puoi usare 2 o più Bonus Settimanali assieme, ed otterrai ricompense pari al numero di Bonus Settimanali consumati."
+    },
+    {
+      "id": "TutoMD07_P18_D4",
+      "content": "Tuttavia, è consigliato usare 1 Bonus Settimanale alla volta, per risparmiare sui Moduli di Encefalina"
+    },
+    {
+      "id": "TutoMD07_P19_T1",
+      "content": "Obiettivi (In Arrivo)"
+    },
+    {
+      "id": "TutoMD07_P19_D1",
+      "content": "Gli Obiettivi sono un contenuto dove puoi cimentarti in delle sfide per ottenere Progresso Obiettivi e ricevere diverse ricompense. Gli Obiettivi saranno disponibili in un prossimo aggiornamento."
+    },
+    {
+      "id": "TutoMD07_P20_T1",
+      "content": "Noleggio Squadra"
+    },
+    {
+      "id": "TutoMD07_P20_D1",
+      "content": "Tramite il Sistema Noleggio Squadra, puoi esplorare il Dungeon Specchio con nuove Identità in una Squadra fissa."
+    },
+    {
+      "id": "TutoMD07_P20_D2",
+      "content": "Seleziona il pulsante Noleggio per entrare nel menù del noleggio."
+    },
+    {
+      "id": "TutoMD07_P21_T1",
+      "content": "Squadra Noleggiata"
+    },
+    {
+      "id": "TutoMD07_P21_D1",
+      "content": "Ogni Squadra Noleggiata può venire noleggiata per combattere in un Dungeon Specchio una sola volta per il suo periodo di noleggio."
+    },
+    {
+      "id": "TutoMD07_P21_D2",
+      "content": "Ottenere le Ricompense di Completamento Dungeon Specchio consumerà la tua possibilità di Noleggio."
+    },
+    {
+      "id": "TutoMD07_P21_D3",
+      "content": "Non puoi entrare nella modalità di Sovrapposizione Parallela con una Squadra Noleggiata."
+    },
+    {
+      "id": "TutoMD07_P22_D1",
+      "content": "Le Squadre Noleggiate usano Identità e E.G.O già scelti, che non si possono cambiare."
+    },
+    {
+      "id": "TutoMD07_P22_D2",
+      "content": "Tutte le Identità in una Squadra Noleggiata ricevono il massimo di Bonus Luce Stellare."
+    },
+    {
+      "id": "TutoMD07_P23_D1",
+      "content": "Non puoi modificare i membri della Squadra Noleggiata."
+    },
+    {
+      "id": "TutoMD07_P24_T1",
+      "content": "Ricompense con la Squadra Noleggiata"
+    },
+    {
+      "id": "TutoMD07_P24_D1",
+      "content": "Puoi ottenere Luce Stellare e valute Evento usando una Squadra Noleggiata."
+    },
+    {
+      "id": "TutoMD07_P24_D2",
+      "content": "Completare il Dungeon Specchio con una Squadra Noleggiata consumerà un solo Bonus Settimanale."
     }
   ]
 }

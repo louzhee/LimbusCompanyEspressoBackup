@@ -1202,11 +1202,43 @@
     },
     {
       "id": "10314_getCondition_normal",
-      "content": "Acquire The Index @#$#:【Device】 Don Quixote"
+      "content": "Acquire The Index Proxy - Effloresced E.G.O::Procuration Don Quixote"
     },
     {
       "id": "10314_getCondition_gacksung",
-      "content": "Uptie The Index @#$#:【Device】 Don Quixote to Tier 3"
+      "content": "Uptie The Index Proxy - Effloresced E.G.O::Procuration Don Quixote to Tier 3"
+    },
+    {
+      "id": "10814_getCondition_normal",
+      "content": "Acquire The House of Spiders: The Middle Apprentice Ishmael"
+    },
+    {
+      "id": "10814_getCondition_gacksung",
+      "content": "Uptie The House of Spiders: The Middle Apprentice Ishmael to Tier 3"
+    },
+    {
+      "id": "11015_getCondition_normal",
+      "content": "Acquire The House of Spiders: The Pinky Apprentice Sinclair"
+    },
+    {
+      "id": "11015_getCondition_gacksung",
+      "content": "Uptie The House of Spiders: The Pinky Apprentice Sinclair to Tier 3"
+    },
+    {
+      "id": "11214_getCondition_normal",
+      "content": "Acquire Lobotomy E.G.O::Lamp Gregor"
+    },
+    {
+      "id": "11214_getCondition_gacksung",
+      "content": "Uptie Lobotomy E.G.O::Lamp Gregor to Tier 3"
+    },
+    {
+      "id": "10115_getCondition_normal",
+      "content": "Acquire The House of Spiders: The Index Nursefather Yi Sang"
+    },
+    {
+      "id": "10115_getCondition_gacksung",
+      "content": "Uptie The House of Spiders: The Index Nursefather Yi Sang to Tier 3"
     }
   ]
 }

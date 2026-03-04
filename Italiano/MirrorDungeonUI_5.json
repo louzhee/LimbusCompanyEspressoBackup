@@ -186,11 +186,11 @@
     },
     {
       "id": "mirror_dungeon_block_to_click_hard_theme_list",
-      "content": "Completa il Canto 7\nper Sbloccare"
+      "content": "Completa Canto 8\nper Sbloccare"
     },
     {
       "id": "mirrordungeon_theme_hard_blocked",
-      "content": "Completa il Canto 7\nper Sbloccare"
+      "content": "Completa Canto 8\nper Sbloccare"
     },
     {
       "id": "mirrordungeon_shop_heal_title",
@@ -514,11 +514,11 @@
     },
     {
       "id": "mirrordungeon_purchase_achievement_level_using_lunacy_desc",
-      "content": "※ Comprare {0} Tasso di Proiezione costa {1} Follia Pagata."
+      "content": "※ Comprare {0} Tasso di Proiezione costa {1} Lunacy Pagata."
     },
     {
       "id": "mirrordungeon_purchase_achievement_level_ask_using_lunacy",
-      "content": "Spendere {0} Follia Pagata per acquistare Tasso di Proiezione?"
+      "content": "Spendere {0} Lunacy Pagata per acquistare Tasso di Proiezione?"
     },
     {
       "id": "mirrordungeon_purchase_achievement_title",
@@ -546,7 +546,7 @@
     },
     {
       "id": "mirror_dungeon_block_to_click_extream_theme_list",
-      "content": "Completa il Canto 7 per Sbloccare"
+      "content": "Completa Canto 8 per Sbloccare"
     },
     {
       "id": "mirror_dungeon_extream_difficulty",

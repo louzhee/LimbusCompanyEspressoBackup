@@ -367,7 +367,7 @@
     },
     {
       "id": 1507,
-      "name": "Non Sono Diventati Sanguimoni"
+      "name": "Non Sono Diventati Bramasangue"
     },
     {
       "id": 1122,
@@ -388,6 +388,22 @@
     {
       "id": 1123,
       "name": "Assassinio sul WARP Express BokGak"
+    },
+    {
+      "id": 1024,
+      "name": "Fascino, Vagabondaggio, Dubbio"
+    },
+    {
+      "id": 1025,
+      "name": "Textbook"
+    },
+    {
+      "id": 1026,
+      "name": "Blade and Artwork"
+    },
+    {
+      "id": 1027,
+      "name": "The Unsevering"
     }
   ]
 }

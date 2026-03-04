@@ -2,19 +2,19 @@
   "dataList": [
     {
       "id": 1,
-      "name": "Follia Pagata",
+      "name": "Lunacy Pagata",
       "desc": "Un materiale cristallino a forma di rosa. Usata per effettuare estrazioni e comprare Casse di Encefalina.",
       "flavor": "Una rosa di cristallo che sembra sempre guardare in una certa direzione. Questo oggetto con qualcosa di umano si dice assorba l' umidità di un certo fiume per sbocciare."
     },
     {
       "id": 2,
-      "name": "Follia Gratuita",
+      "name": "Lunacy Gratuita",
       "desc": "Un materiale cristallino a forma di rosa. Usata per effettuare estrazioni e comprare Casse di Encefalina.",
       "flavor": "Una rosa di cristallo che sembra sempre guardare in una certa direzione. Questo oggetto con qualcosa di umano si dice assorba l' umidità di un certo fiume per sbocciare."
     },
     {
       "id": 3,
-      "name": "Follia",
+      "name": "Lunacy",
       "desc": "Un materiale cristallino a forma di rosa. Usata per effettuare estrazioni e comprare Casse di Encefalina.",
       "flavor": "Accettare la pazzia è un passo necessario per andare avanti per gli umani."
     },
@@ -28,13 +28,13 @@
       "id": 101,
       "name": "Biglietto per Estrazione",
       "desc": "Può essere usato per effettuare 1 estrazione.",
-      "flavor": "Un oggetto consumabile intrecciato con la Follia, la fonte dell'energia di estrazione di Mephistopheles.\n Sembra un sottile foglio di carta a prima vista, ma qualcosa sembra pulsare all' interno."
+      "flavor": "Un oggetto consumabile intrecciato con la Lunacy, la fonte dell'energia di estrazione di Mephistopheles.\n Sembra un sottile foglio di carta a prima vista, ma qualcosa sembra pulsare all' interno."
     },
     {
       "id": 102,
       "name": "Biglietto per Decaestrazione",
       "desc": "Può essere usato per effettuare 10 estrazioni.",
-      "flavor": "Un oggetto consumabile intrecciato con la Follia, la fonte dell'energia di estrazione di Mephistopheles.\n Sembra un sottile foglio di carta a prima vista, ma qualcosa sembra pulsare all' interno."
+      "flavor": "Un oggetto consumabile intrecciato con la Lunacy, la fonte dell'energia di estrazione di Mephistopheles.\n Sembra un sottile foglio di carta a prima vista, ma qualcosa sembra pulsare all' interno."
     },
     {
       "id": 103,
@@ -69,25 +69,25 @@
     {
       "id": 211,
       "name": "Biglietto per l'Addestramento Identità I",
-      "desc": "Da' 50 ESP Identità.",
+      "desc": "Fornisce 50 ESP Identità.",
       "flavor": "Un biglietto che contiene possibilità del passato, presente e futuro.\n“Scoprii che il pensiero di qualcosa che non avevo mai sperimentato si era poggiato solidamente nella mia mente.”"
     },
     {
       "id": 212,
       "name": "Biglietto per l'Addestramento Identità II",
-      "desc": "Da' 200 ESP Identità.",
+      "desc": "Fornisce 200 ESP Identità.",
       "flavor": "Un biglietto che contiene possibilità del passato, presente e futuro.\n“Hmhm~ Non ho mai visitato il quartiere meridionale, quindi perché mi sembra così familiare…?”"
     },
     {
       "id": 213,
       "name": "Biglietto per l'Addestramento Identità III",
-      "desc": "Da' 1000 ESP Identità.",
+      "desc": "Fornisce 1000 ESP Identità.",
       "flavor": "Un biglietto che contiene possibilità del passato, presente e futuro.\n“…Se avessi avuto qualcosa di così conveniente nel passato, tutte quelle difficoltà orribili sarebbero state semplicissime da superare.”"
     },
     {
       "id": 214,
       "name": "Biglietto per l'Addestramento Identità IV",
-      "desc": "Da' 3000 ESP Identità.",
+      "desc": "Fornisce 3000 ESP Identità.",
       "flavor": "Un biglietto che brilla delle possibiltà che abbiamo vissuto, viviamo e vivremo.\n\"Questa sensazione è come avere dei ricordi che non ci sono mai accaduti forzati nella mente. Non è una sensazione piacevole, ma è decisamente efficente."
     },
     {
@@ -483,14 +483,14 @@
     {
       "id": 501,
       "name": "Biglietto per Scelta Identità S1",
-      "desc": "Usa quest' oggetto per selezionare una Identità della Stagione 1 (Incluse Identità di Eventi) da ottenere.",
-      "flavor": "Un biglietto capace di osservare e prendere un'Identità di un periodo specifico della caccia ai Rami Dorati della squadra LCB.\n'L' Abilità di trovare e tirare a sé un'Identità osservata in un certo periodo dimostra il notevole avanzamento in tecnologia della Limbus Company. - Ricercatori dello Specchio, Dipartimento Osservatorio Mondo Specchio LCA'"
+      "desc": "Usa quest'oggetto per selezionare un'Identità della Stagione 1 (Identità Evento incluse).",
+      "flavor": "Un biglietto capace di osservare ed estrarre un'Identità di un periodo specifico della caccia ai Rami Dorati della squadra LCB.\n'L' Abilità di trovare e tirare a sé un'Identità osservata in un certo periodo dimostra il notevole avanzamento in tecnologia della Limbus Company. - Ricercatori dello Specchio, Dipartimento Osservatorio Mondo Specchio LCA'"
     },
     {
       "id": 601,
       "name": "Biglietto per E.G.O del Pass Battaglia S1 Nominabile",
       "desc": "Usa quest' oggetto per selezionare un E.G.O del Pass Battaglia della Stagione 1 da ottenere.",
-      "flavor": "Un biglietto capace di osservare e prendere un E.G.O di un periodo specifico della caccia ai Rami Dorati della squadra LCB.\n'Recuperare un E.G.O, osservato in un periodo specifico, dalle profondità, è una ricerca molto più complicata del rendere delle Identità selezionabili. Fuhu. - Ricercatori dello Specchio, Dipartimento Osservatorio Mondo Specchio LCA'"
+      "flavor": "Un biglietto capace di osservare ed estrarre un E.G.O di un periodo specifico della caccia ai Rami Dorati della squadra LCB.\n'Recuperare un E.G.O, osservato in un periodo specifico, dalle profondità, è una ricerca molto più complicata del rendere delle Identità selezionabili. Fuhu. - Ricercatori dello Specchio, Dipartimento Osservatorio Mondo Specchio LCA'"
     },
     {
       "id": 12004,
@@ -519,8 +519,8 @@
     {
       "id": 502,
       "name": "Biglietto per Scelta Identità S2",
-      "desc": "Usa quest' oggetto per selezionare una Identità della Stagione 2 (Incluse Identità di Eventi) da ottenere.",
-      "flavor": "Un biglietto capace di osservare e prendere un'Identità di un periodo specifico della caccia ai Rami Dorati della squadra LCB.\n'L' Abilità di trovare e tirare a sé un'Identità osservata in un certo periodo dimostra il notevole avanzamento in tecnologia della Limbus Company. - Ricercatori dello Specchio, Dipartimento Osservatorio Mondo Specchio LCA'"
+      "desc": "Usa quest'oggetto per selezionare un'Identità della Stagione 2 (Identità Evento incluse).",
+      "flavor": "Un biglietto capace di osservare ed estrarre un'Identità di un periodo specifico della caccia ai Rami Dorati della squadra LCB.\n'L' Abilità di trovare e tirare a sé un'Identità osservata in un certo periodo dimostra il notevole avanzamento in tecnologia della Limbus Company. - Ricercatori dello Specchio, Dipartimento Osservatorio Mondo Specchio LCA'"
     },
     {
       "id": 235,
@@ -537,19 +537,25 @@
     {
       "id": 20030,
       "name": "[Tanica di Carburante degli Spazzini]",
-      "desc": "Trovata raramente. Convertita in 20 Cilindri di Carburante di Spazzini appena acquisita.\n\n<color=#a16a3b>Molto riguardo agli Spazzini è ancora un mistero. Da quando compiono questo loro lavoro? Da dove vengono? Si dice che l'unica istituzione con cui collaborino è la Testa. Il fluido di carburante degli Spazzini è una risorsa multifunzionale—forma i loro corpi, funzioa come arma per dissolvere tutto quello che trovano sulla loro strada, e fa da sostentamento. Questa è solo una curiosità personale, ma non posso non chiedermi come si propagano. Forse sono colpevoli delle sparizioni di bambini durante la Notte nei Vicoli… o dei rapimenti nella Periferia. - Estratto di un'intervista con Dipendente di LCCA</color>",
+      "desc": "Trovata raramente. Convertita in 20 Cilindri di Carburante di Spazzini appena acquisita.\n\n<color=#a16a3b>Molto riguardo agli Spazzini è ancora un mistero. Da quando compiono questo loro lavoro? Da dove vengono? Si dice che l'unica istituzione con cui collaborino è Il Capo. Il fluido di carburante degli Spazzini è una risorsa multifunzionale—forma i loro corpi, funzioa come arma per dissolvere tutto quello che trovano sulla loro strada, e fa da sostentamento. Questa è solo una curiosità personale, ma non posso non chiedermi come si propagano. Forse sono colpevoli delle sparizioni di bambini durante la Notte nei Vicoli… o dei rapimenti nella Periferia. - Estratto di un'intervista con Dipendente di LCCA</color>",
       "flavor": ""
     },
     {
       "id": 9001,
       "name": "Regalo di Kkomi",
-      "desc": "Aprilo per ricevere 401 Follia Gratuita.",
+      "desc": "Aprilo per ricevere 401 Lunacy Gratuita.",
       "flavor": "È come svegliarsi da uno strano sogno. È il regalo della notte di mezza primavera da parte di Kkomi, come scusa per averci preso a botte con i suoi pugni di pezza. \"Kkomi dice ci vediamo\" - Vergilius"
     },
     {
       "id": 30006,
       "name": "Luce Stellare dell'Immortalità",
-      "desc": "Usata nei Dungeon Specchio.\n\n<color=#a16a3b>Luce Stellare che può essere ottenuta solo finché lo Specchio dell'Immortalità rimane aperto. Per quanto le persone possano voler creare nuove storie con la Luce Stellare, possono solo cercare la poca Luce Stellare rimasta a terra—poiché le stelle non sono più nel cielo.</color>",
+      "desc": "Usata nei Dungeon Specchio.\n\n<color=#a16a3b>La Luce Stellare che può essere ottenuta solo finché lo Specchio dell'Immortalità rimane aperto. Per quanto le persone possano voler creare nuove storie con la Luce Stellare, possono solo cercare la poca Luce Stellare rimasta a terra—poiché le stelle non sono più nel cielo.</color>",
+      "flavor": ""
+    },
+    {
+      "id": 30007,
+      "name": "Luce Stellare dei Nomi e dei Ragni",
+      "desc": "Usata nei Dungeon Specchio.\n\n<color=#a16a3b>La Luce Stellare può essere raccolta solo in un fugace arco temporale. Lo sguardo si alza alle stelle nel cielo. Le stelle hanno visto, e poi sono cadute, aspettando di essere raccolte. Raccolte ed incatenate contro la loro volontà, sono costrette a brillare, dando vita a nuove storie.</color>",
       "flavor": ""
     },
     {
