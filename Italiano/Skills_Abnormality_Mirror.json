@@ -363,7 +363,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Se i PV del bersaglio sono sotto il 30%, lo uccide e si cura di 30 PV\nOttiene 2 [Enhancement] il turno successivo"
+                  "desc": "[OnSucceedAttackHead] Se i PV del bersaglio sono sotto il 30%, lo uccide e recupera 30 PV\nOttiene 2 [Enhancement] il turno successivo"
                 }
               ]
             }
@@ -942,13 +942,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Gloomy Moan",
+          "name": "Gemito Triste",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Sinking"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Sinking]"
                 }
               ]
             }
@@ -961,20 +961,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Raging Withdrawal",
+          "name": "Ritirata Furibonda",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Sinking"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Sinking]"
                 }
               ]
             }
@@ -987,20 +987,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sorrowful Recoil",
+          "name": "Repulsione Dolorosa",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Burst]"
                 }
               ]
             }
@@ -1013,23 +1013,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sorrowful Torrent",
+          "name": "Torrente Doloroso",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackHead] Infligge 2 [Burst]"
                 }
               ]
             }
@@ -1042,16 +1042,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cries Seeking Something",
-          "desc": "[WhenUse] Spawn an Vecchio Ombrello next turn",
+          "name": "Piagnistei in Cerca di Qualcosa",
+          "desc": "[WhenUse] Crea un Vecchio Ombrello il turno successivo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Sinking"
+                  "desc": "[OnSucceedAttack] Infligge 5 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Deal +15% damage for each Vecchio Ombrello"
+                  "desc": "[OnSucceedAttackHead] Infligge +15% danni per ogni Vecchio Ombrello"
                 }
               ]
             }
@@ -1064,8 +1064,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Waiting",
-          "desc": "[StartBattle] All enemies lose 20 PS",
+          "name": "Attesa",
+          "desc": "[StartBattle] Tutti i nemici perdono 20 PS",
           "coinlist": [
             {}
           ]
@@ -1077,8 +1077,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Scattering Sorrow",
-          "desc": "[EndSkill] Inflict +2 Rupture Count and +2 Sinking Count to all enemies",
+          "name": "Sparpaglia Tristezza",
+          "desc": "[EndSkill] Infligge +2 Conteggio [Burst] e +2 Conteggio [Sinking] a tutti i nemici",
           "coinlist": [
             {}
           ]
@@ -1090,13 +1090,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Entangling Talisman",
-          "desc": "[WhenUse] Inflict 2 Entangled Curse Talisman",
+          "name": "Talismano Aggrovigliante",
+          "desc": "[WhenUse] Infligge 2 [WrappedCurseTag]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture and +2 Rupture Count next turn"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Burst] e +2 Conteggio [Burst] il turno successivo"
                 }
               ]
             }
@@ -1109,27 +1109,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cumulating Curse",
-          "desc": "[WhenUse] Inflict 1 Entangled Curse Talisman",
+          "name": "Maledizione Accumulata",
+          "desc": "[WhenUse] Infligge 1 [WrappedCurseTag]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Entangled Curse Talisman by target's Entangled Curse Talisman"
+                  "desc": "[OnSucceedAttack] Infligge [WrappedCurseTag] pari a [WrappedCurseTag] del bersaglio"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Rupture next turn"
+                  "desc": "[OnSucceedAttackHead] Infligge 5 [Burst] il turno successivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture and +2 Rupture Count next turn"
+                  "desc": "[OnSucceedAttackHead] Infligge 2 [Burst] e +2 Conteggio [Burst] il turno successivo"
                 }
               ]
             }
@@ -1143,7 +1143,7 @@
         {
           "level": 1,
           "name": "Affinché Nessuno Pianga",
-          "desc": "[EndBattle] Remove all Reattached Curse Talisman",
+          "desc": "[EndBattle] Rimuove ogni [ReattachedCurseTag]",
           "coinlist": [
             {},
             {},
@@ -1152,10 +1152,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Infligge 5 [Paralysis] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Infligge 5 [Binding] il turno successivo"
                 }
               ]
             }
@@ -1168,8 +1168,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Transferring Talisman",
-          "desc": "[WhenUse] Remove all Entangled Curse Talisman from target; Gain the same amount of Reattached Curse Talisman",
+          "name": "Trasferimento dei Talismani",
+          "desc": "[WhenUse] Rimuovi ogni [WrappedCurseTag] dal bersaglio; Ottiene la stessa quantità di [ReattachedCurseTag]",
           "coinlist": [
             {}
           ]
@@ -1181,8 +1181,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Proliferating Curse",
-          "desc": "[WhenUse] Inflict Entangled Curse Talisman by target's Entangled Curse Talisman",
+          "name": "Maledizione Proliferante",
+          "desc": "[WhenUse] Infligge [WrappedCurseTag] pari alle Stack di [WrappedCurseTag] sul bersaglio",
           "coinlist": [
             {}
           ]
@@ -1194,13 +1194,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wanna Get Drunk?",
-          "desc": "In a clash, give 1 Morale Boost",
+          "name": "Ti Va Di Sbronzarci?",
+          "desc": "In uno Scontro, infligge 1 [Exalted]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Tremor and +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] Infligge 5 [Vibration] e +2 [Vibration] Count"
                 }
               ]
             }
@@ -1213,13 +1213,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Let's Share the Drink!",
-          "desc": "In a clash, give 2 Morale Boost\n[WhenUse] Heal 5% PV",
+          "name": "Facciamoci Un Drink!",
+          "desc": "In uno Scontro, infligge 1 [Exalted]\n[WhenUse] Recupera 5% dei PV",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Binding] il turno successivo"
                 }
               ]
             }
@@ -1232,14 +1232,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "This is All I Got!",
-          "desc": "In a clash, give 2 Morale Boost\nPrioritizes enemies with Tremor",
+          "name": "Questo È Tutto Ciò Che Ho!",
+          "desc": "In uno Scontro, infligge 2 [Exalted]\nDà priorità ai nemici con [Vibration]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst by target's Tremor Count"
+                  "desc": "[OnSucceedAttack] Causa [VibrationExplosion] in base a [Vibration] Count del bersaglio"
                 }
               ]
             }
@@ -1252,19 +1252,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'll Have This!",
-          "desc": "[CantDuel]\nCannot be redirected\nPrioritizes enemies with Morale Boost\nIf target has no Tipsy, Clash Power +5",
+          "name": "Me La Prendo Io!",
+          "desc": "[CantDuel]\nNon può essere intercettato\nDà priorità ai nemici con [Exalted]\nSe il bersaglio non ha [Tipsiness], Potere Scontro +5",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Morale Boost, deal +10% damage for each Count"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha [Exalted], infligge +10% danni per ogni Stack"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has Tipsy, deal 0 damage, and user loses 50 PV"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha [Tipsiness], infligge 0 danni, e chi la usa perde 50 PV"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Remove all Morale Boost or Tipsy"
+                  "desc": "[OnSucceedAttack] Rimuovi ogni [Exalted] o [Tipsiness]"
                 }
               ]
             }
@@ -1277,19 +1277,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'll Have This!",
-          "desc": "Prioritizes enemies with Morale Boost\nIf target has no Tipsy, Clash Power +5",
+          "name": "Me La Prendo Io!",
+          "desc": "Dà priorità ai nemici con [Exalted]\nSe il bersaglio non ha [Tipsiness], Potere Scontro +5",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Morale Boost, deal +100% damage for each Count"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha [Exalted], infligge +100% danni per ogni Stack"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has Tipsy, deal 0 damage, and user loses 50 PV"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha [Tipsiness], infligge 0 danni, e chi la usa perde 50 PV"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Remove all Morale Boost or Tipsy"
+                  "desc": "[OnSucceedAttack] Rimuovi ogni [Exalted] o [Tipsiness]"
                 }
               ]
             }
@@ -1302,13 +1302,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Not This Time!",
-          "desc": "Prioritizes Vino di Fata",
+          "name": "Non Stavolta!",
+          "desc": "Dà priorità al Vino di Fata",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this attacks Vino di Fata, heal 10% PV next turn, and gain 2 Attack Power Up, 2 Haste, and 2 Protection"
+                  "desc": "[OnSucceedAttack] Se questa attacca Vino di Fata, recupera 10% dei PV il turno successivo, e ottiene 2 [Enhancement], 2 [Agility], e 2 [Protection]"
                 }
               ]
             }
@@ -1321,8 +1321,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "You Like This Brew?",
-          "desc": "[WhenUse] Gain 1 Bind next turn",
+          "name": "Ti È Piacuta?",
+          "desc": "[WhenUse] Ottiene 1 [Binding] il turno successivo",
           "coinlist": [
             {}
           ]
@@ -1335,7 +1335,7 @@
         {
           "level": 1,
           "name": "Vino di Fata",
-          "desc": "[WhenUse] Convert opponent's Morale Boost into Tipsy",
+          "desc": "[WhenUse] Converte il [Exalted] del nemico in [Tipsiness]",
           "coinlist": [
             {}
           ]
@@ -1347,19 +1347,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Skim Wounds",
+          "name": "Ferite Sfoglie",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed, inflict 1 Paralyze"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha [Laceration], infligge 1 [Paralysis]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 2+ Bleed Count, inflict 5 Bleed"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha 2+ Conteggio [Laceration], infligge 5 [Laceration]"
                 }
               ]
             }
@@ -1372,16 +1372,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Entangled Injury",
+          "name": "Ferite Intrappolate",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed, inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha [Laceration], infligge 1 [Binding] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration]"
                 }
               ]
             }
@@ -1394,23 +1394,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Smeared Flesh",
+          "name": "Carne Sbrattata",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed, heal 20 PV"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha [Laceration], recupera 20 PV"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 2+ Bleed Count, inflict 5 Bleed"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha 2+ Conteggio [Laceration], infligge 5 [Laceration]"
                 }
               ]
             }
@@ -1423,13 +1423,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Casting Shade",
-          "desc": "[WhenUse] Spawn a Quadrifoglio Gigante next turn\n[WhenUse] Deal +5% damage per Bleed Count\n[DefeatDuel] The Quadrifoglio Gigante spawns with 70% PV",
+          "name": "Richiamo Ombre",
+          "desc": "[WhenUse] Pianta un Quadrifoglio Gigante il turno successivo\n[WhenUse] Infligge +5% danni per Conteggio [Laceration]\n[DefeatDuel] Il Quadrifoglio Gigante appare con il 70% dei PV",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Remove all Bleed Count"
+                  "desc": "[OnSucceedAttack] Rimuovi ogni Conteggio [Laceration]"
                 }
               ]
             }
@@ -1442,13 +1442,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Churning",
+          "name": "Sbattimento",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal by 1% of Max PV per target's Bleed\nRemove all Bleed Count"
+                  "desc": "[OnSucceedAttack] Recupera 1% dei PV Max per [Laceration] sul bersaglio\nRimuovi ogni Conteggio [Laceration]"
                 }
               ]
             }
@@ -1461,7 +1461,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sprout",
+          "name": "Crescita",
           "desc": ""
         }
       ]
@@ -1471,15 +1471,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Golden Fruit",
+          "name": "Frutto Dorato",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[DefeatDuel] Take 20 damage"
+                  "desc": "[DefeatDuel] Subisce 20 danni"
                 },
                 {
-                  "desc": "[DefeatDuel] Lose 1 Golden Sheen"
+                  "desc": "[DefeatDuel] Perde 1 [BeingGolden]"
                 }
               ]
             }
@@ -1492,7 +1492,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Solid Gold",
+          "name": "Oro Massiccio",
           "coinlist": [
             {}
           ]
@@ -1504,13 +1504,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Absorb Nutrients",
+          "name": "Assorbi Nutrienti",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Core heals 3 PV"
+                  "desc": "[OnSucceedAttack] Il corpo principale recupera 3 PV"
                 }
               ]
             },
@@ -1524,15 +1524,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Deteriorating Flesh",
+          "name": "Carne in Sfaldamento",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count next turn"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Laceration] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Vulnerabilità next turn"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Vulnerable] il turno successivo"
                 }
               ]
             }
@@ -1545,16 +1545,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Entangle",
+          "name": "Avvolgere",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Core heals 10 PV"
+                  "desc": "[OnSucceedAttack] Il corpo principale recupera 10 PV"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Infligge 5 [Laceration] il turno successivo"
                 }
               ]
             }
@@ -1567,20 +1567,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ram",
+          "name": "Ariete",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Burn"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Burn"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Combustion]"
                 }
               ]
             }
@@ -1593,13 +1593,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pin Down",
+          "name": "Fissaggio",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Burn Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Combustion]"
                 }
               ]
             }
@@ -1612,36 +1612,36 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge In",
+          "name": "Carica",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] Alza la Soglia di Vacillamento di 20% dei danni inflitti"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] Alza la Soglia di Vacillamento di 20% dei danni inflitti"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] Alza la Soglia di Vacillamento di 20% dei danni inflitti"
                 }
               ]
             }
@@ -1654,16 +1654,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Overflowing Sorrow",
-          "desc": "[DefeatDuel] Gain 1 Unresolved Sorrow",
+          "name": "Dolore Traboccante",
+          "desc": "[DefeatDuel] Ottiene 1 [Bull_Sadness]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target loses 15 PS"
+                  "desc": "[OnSucceedAttack] Il bersaglio perde 15 PS"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Alza la Soglia di Vacillamento di 50% dei danni inflitti"
                 }
               ]
             }
@@ -1676,16 +1676,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Heated Cries",
-          "desc": "[WinDuel] Gain 1 Haste and 1 Attack Power Up next turn",
+          "name": "Pianti Infuocati",
+          "desc": "[WinDuel] Ottiene 1 [Agility] e 1 [Enhancement] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Wavering Emotions"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Bull_BuzzingEmotion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Sinking Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Sinking]"
                 }
               ]
             }
@@ -1698,26 +1698,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Heated Screams",
-          "desc": "[WinDuel] Gain 1 Haste and 1 Attack Power Up next turn",
+          "name": "Urla Infuocate",
+          "desc": "[WinDuel] Ottiene 1 [Agility] e 1 [Enhancement] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Wavering Emotions"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Bull_BuzzingEmotion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Wavering Emotions"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Bull_BuzzingEmotion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Sinking]"
                 }
               ]
             }
