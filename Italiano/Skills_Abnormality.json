@@ -3193,7 +3193,7 @@
         {
           "level": 1,
           "name": "Testa Scossa",
-          "desc": "Bersagli il nemico con meno PV\n[WhenUse] Spende 2 [SelfCharge]\n[DefeatDuel] Perde 2 [SelfCharge]",
+          "desc": "Bersaglia il nemico con meno PV\n[WhenUse] Spende 2 [SelfCharge]\n[DefeatDuel] Perde 2 [SelfCharge]",
           "coinlist": [
             {},
             {
@@ -3213,7 +3213,7 @@
         {
           "level": 1,
           "name": "Coda Svincolata",
-          "desc": "Bersagli il nemico con meno PV\n[WhenUse] Spende 2 [SelfCharge]\n[DefeatDuel] Perde 3 [SelfCharge]",
+          "desc": "Bersaglia il nemico con meno PV\n[WhenUse] Spende 2 [SelfCharge]\n[DefeatDuel] Perde 3 [SelfCharge]",
           "coinlist": [
             {},
             {},
