@@ -5,8 +5,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "The Infinite Parade",
-          "desc": "[CantDuel]\nIf the target used a Defense Skill, the target does not take damage\n[WhenUse] Generate 1 Gondola next turn",
+          "name": "La Parata Infinita",
+          "desc": "[CantDuel]\nSe il bersaglio ha usato una Abilità Difensiva, il bersaglio non riceve danni\n[WhenUse] Genera 1 Gondola il prossimo turno",
           "coinlist": [
             {
               "coindescs": [
@@ -22,8 +22,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "The Eternal Festival",
-          "desc": "[CantDuel]\nIf the target used a Defense Skill, the target does not take damage\n[WhenUse] Generate 4 Gondola next turn",
+          "name": "Il Festival Eterno",
+          "desc": "[CantDuel]\nSe il bersaglio ha usato una Abilità Difensiva, il bersaglio non riceve danni\n[WhenUse] Genera 4 Gondole il prossimo turno",
           "coinlist": [
             {
               "coindescs": [
@@ -54,20 +54,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Burning Thirst",
-          "desc": "Final Power +1 for every 100 [BloodDinner] this unit consumed (max 5)\n[WhenUse] Base Power +1 for every 5 [Laceration] on the target (max 3)\n[WhenUse] Consume up to 30 [BloodDinner]: gain 1 [RegainedStrength] for every 10 [BloodDinner] consumed\n[DefeatDuel] Lose 3 SP",
+          "name": "Sete Bruciante",
+          "desc": "Potere Finale +1 per ogni 100 [BloodDinner] consumata da questa unità (max 5)\n[WhenUse] Potere Base +1 per ogni 5 [Laceration] sul bersaglio (max 3)\n[WhenUse] Consuma fino a 30 [BloodDinner]: ottiene 1 [RegainedStrength] per ogni 10 [BloodDinner] consumata\n[DefeatDuel] Perde 3 PS",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration] e +2 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration]"
                 }
               ]
             }
@@ -80,20 +80,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Be Impaled",
-          "desc": "[WhenUse] Consume up to 40 [BloodDinner]: gain 1 [RegainedStrength] and heal 3 SP for every 10 [BloodDinner] consumed\n\n[DefeatDuel] Lose 3 SP",
+          "name": "Impalamento",
+          "desc": "[WhenUse] Consuma fino a 40 [BloodDinner]: ottiene 1 [RegainedStrength] e recupera 3 PS per ogni 10 [BloodDinner] consumata\n\n[DefeatDuel] Perde 3 PS",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal Lust damage equal to 20% of the target's max HP"
+                  "desc": "[OnSucceedAttack] Infligge danno Lussuria pari a 20% dei PV massimi del bersaglio"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal Lust damage equal to 20% of the target's max HP"
+                  "desc": "[OnSucceedAttack] Infligge danno Lussuria pari a 20% dei PV massimi del bersaglio"
                 }
               ]
             }
@@ -106,33 +106,33 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Don Quixote Hardblood Arts 2 - Stake",
-          "desc": "Attacks the target with the most [Laceration]\nFinal Power +1 for every 100 [BloodDinner] this unit consumed (max 5)\n[WhenUse] Coin Power +1 for every 5 [Laceration] on target (max 2)",
+          "name": "Tecnica del Sangue Coagulato di Don Quixote 2 - Trafiggi",
+          "desc": "Attacca il bersaglio con più [Laceration]\nPotere Finale +1 per ogni 100 [BloodDinner] consumata da questa unità (max 5)\n[WhenUse] Potere Moneta +1 per ogni 5 [Laceration] sul bersaglio (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration] e +2 Conteggio [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal Lust damage equal to ([Laceration] Potency x Count)"
+                  "desc": "[OnSucceedAttack] Infligge danno Lussuria pari a ([Laceration] Potenza x Conteggio)"
                 }
               ]
             }
@@ -145,8 +145,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hardblood Wedge",
-          "desc": "Final Power +1 for every 100 [BloodDinner] this unit consumed (max 5)\n[StartBattle] Atk Weight +1 for every 3 [RegainedStrength] on self (max 2)\n[EndSkill] Consume 3 [RegainedStrength]\n[DefeatDuel] Deal -80% final damage",
+          "name": "Spine di Sangue Coagulato",
+          "desc": "Potere finale +1 per ogni 100 [BloodDinner] consumata da questa unità (max 5)\n[StartBattle] Portata Attacco +1 per ogni 3 [RegainedStrength] su di sé (max 2)\n[EndSkill] Consuma 3 [RegainedStrength]\n[DefeatDuel] Infligge -80% danno finale",
           "coinlist": [
             {
               "coindescs": [
@@ -154,13 +154,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration] e +3 Conteggio [Laceration]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Inflict 3 [Burst]"
+                  "desc": "[WinDuelAttack] Infligge 3 [Burst]"
                 },
                 {
-                  "desc": "[DefeatDuelAttack] Consume 1 [RegainedStrength]"
+                  "desc": "[DefeatDuelAttack] Consuma 1 [RegainedStrength]"
                 }
               ]
             },
@@ -170,17 +170,17 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Laceration]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Inflict 3 [Burst]"
+                  "desc": "[WinDuelAttack] Infligge 3 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration]"
                 }
               ]
             }
@@ -193,8 +193,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Desire for Blood",
-          "desc": "[WhenUse] Consume up to 40 [BloodDinner]: gain 1 [RegainedStrength] and heal 5 SP for every 10 [BloodDinner] consumed\n[WhenUse] Inflict +1 more [Laceration] Count for every 5 [RegainedStrength] (max 2)\n[DefeatDuel] Deal -80% final damage",
+          "name": "Brama di Sangue",
+          "desc": "[WhenUse] Consuma fino a 40 [BloodDinner]: ottiene 1 [RegainedStrength] e recupera 5 PS per ogni 10 [BloodDinner] consumata\n[WhenUse] Infligge +1 Conteggio [Laceration] aggiuntivo per ogni 5 [RegainedStrength] (max 2)\n[DefeatDuel] Infligge -80% danno finale",
           "coinlist": [
             {
               "coindescs": [
@@ -202,7 +202,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             },
@@ -212,7 +212,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             },
@@ -222,7 +222,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             },
@@ -232,7 +232,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Laceration]"
                 }
               ]
             }
@@ -245,8 +245,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Moment of Bloodfeast",
-          "desc": "[CantIdentify]\n[WhenUse] Consume up to 300 [BloodDinner]: gain 1 [RegainedStrength] and heal 3 SP for every 10 [BloodDinner] consumed\n[WhenUse] If this unit consumed [BloodDinner], heal 30 SP\n[DefeatDuel] Deal -80% final damage",
+          "name": "Ora dell'Emofagia",
+          "desc": "[CantIdentify]\n[WhenUse] Consuma fino a 300 [BloodDinner]: ottiene 1 [RegainedStrength] e recupera 3 PS per ogni 10 [BloodDinner] consumata\n[WhenUse] Se questa unità ha consumato [BloodDinner], recupera 30 PS\n[DefeatDuel] Infligge -80% danno finale",
           "coinlist": [
             {
               "coindescs": [
@@ -264,8 +264,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Don Quixote Hardblood Arts 4 - Sundering",
-          "desc": "Cannot be Staggered until he uses this Skill.\n[WhenUse] Consume up to 100 [BloodDinner]: gain 1 [RegainedStrength] and heal 15 SP for every 10 [BloodDinner] consumed\n[WhenUse] Clash Power +1 for every 30 [BloodDinner_Accumulation] by this unit (max 15)\n[DefeatDuel] Deal -50% damage, and the damage from this Skill does not Stagger the target.\n[EndSkill] For this turn and next turn, gain [AttackDown] and [DefenseDown] equal to the Clash Power gained with this Skill. (max 15)\n[DefeatDuel] Deal -80% final damage",
+          "name": "Tecnica del Sangue Coagulato di Don Quixote 4 - Scissione",
+          "desc": "Non può essere Stordito finché non ha usato questa Abilità.\n[WhenUse] Consuma fino a 100 [BloodDinner]: ottiene 1 [RegainedStrength] e recupera 15 PS per ogni 10 [BloodDinner] consumata\n[WhenUse] Potere Scontro +1 per ogni 30 [BloodDinner_Accumulation] da questa unità (max 15)\n[DefeatDuel] Infligge -50% danno, e il danno di questa Abilità non Stordisce il bersaglio.\n[EndSkill] Per questo turno e quello successivo, ottiene [AttackDown] e [DefenseDown] pari al Potere Scontro ottenuto con questa Abilità. (max 15)\n[DefeatDuel] Infligge -80% danno finale",
           "coinlist": [
             {
               "coindescs": [
@@ -273,10 +273,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 8 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 8 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 2 [RegainedStrength]"
+                  "desc": "[OnSucceedAttack] Consuma 2 [RegainedStrength]"
                 }
               ]
             }
@@ -289,8 +289,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Don Quixote Hardblood Arts 14: Mantle",
-          "desc": "Base Power +1 for every 100 [BloodDinner] this unit consumed (max 10)\n[DuelGuard]\n[WinDuel] Inflict 4 [Laceration] and [Burst]\n[DefeatDuel] Consume 2 [RegainedStrength]",
+          "name": "Tecnica del Sangue Coagulato di Don Quixote 14: Mantello",
+          "desc": "Potere Base +1 per ogni 100 [BloodDinner] consumata da questa unità (max 10)\n[DuelGuard]\n[WinDuel] Infligge 4 [Laceration] e [Burst]\n[DefeatDuel] Consuma 2 [RegainedStrength]",
           "coinlist": [
             {
               "coindescs": [
@@ -308,20 +308,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Frail, So Frail",
-          "desc": "[DuelCounter]\nBase Power +1 for every 5 [RegainedStrength]\nCoin Power +1 for every 5 [Laceration] on the target (max 2)\n[DefeatDuel] Lose 3 SP",
+          "name": "Fragile, Così Fragile",
+          "desc": "[DuelCounter]\nPotere Base +1 per ogni 5 [RegainedStrength]\nPotere Moneta +1 per ogni 5 [Laceration] sul bersaglio (max 2)\n[DefeatDuel] Perde 3 PS",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration] e +2 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration] e +2 Conteggio [Laceration]"
                 }
               ]
             }
@@ -334,34 +334,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bloody-Merry-Go-Round",
-          "desc": "[CantDuel]\n[WhenUse] Does not deal any damage against enemies; generate Coagulated Dream units next turn\n[WhenUse] For every 5 [RegainedStrength], inflict +1 more [Laceration] Count (max 2)",
+          "name": "Giostra-Insanguinata",
+          "desc": "[CantDuel]\n[WhenUse] Non infligge danno ai nemici; genera unità Sogno Coagulato il prossimo turno\n[WhenUse] Per ogni 5 [RegainedStrength], infligge +1 Conteggio [Laceration] in più (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 }
               ]
             }
@@ -374,8 +374,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Be Impaled",
-          "desc": "[DefeatDuel] Lose 3 SP\n[DefeatDuel] Deal -50% final damage",
+          "name": "Impalamento",
+          "desc": "[DefeatDuel] Perde 3 PS\n[DefeatDuel] Infligge -50% danno finale",
           "coinlist": [
             {
               "coindescs": [
@@ -388,10 +388,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] The target becomes staggered, then becomes [Penetration] next turn"
+                  "desc": "[OnSucceedAttack] Il bersaglio diventa stordito, diventa [Penetration] il prossimo turno"
                 },
                 {
-                  "desc": "[EndCoin] The target loses 25 [Laceration] Potency. Gain [Laceration] and increase [BloodDinner] equal to that value"
+                  "desc": "[EndCoin] Il bersaglio perde 25 Potenza [Laceration]. Ottiene [Laceration] e aumenta [BloodDinner] pari a quel valore"
                 }
               ]
             }
@@ -404,13 +404,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ascendant Don Quixote Hardblood Arts - The Sphere",
-          "desc": "Cannot be Staggered until he uses this Skill.\nDeal more damage equal to [BloodDinner_Common_Accumulation]. (max 300%)\n[WhenUse] Heal 30 SP\n[WhenUse] Clash Power +1 for every 10 [RegainedStrength]\n[EndSkill] Consume all [RegainedStrength]. Gain 5 [Vulnerable] this turn and next turn. Gain 2 [Binding] next turn.\n[DefeatDuel] Deal -80% final damage",
+          "name": "Tecnica Ascendente del Sangue Coagulato di Don Quixote - La Sfera",
+          "desc": "Non può essere Stordito finché non ha usato questa Abilità.\nInfligge più danno pari a [BloodDinner_Common_Accumulation]. (max 300%)\n[WhenUse] Cura 30 PS\n[WhenUse] Potere Scontro +1 per ogni 10 [RegainedStrength]\n[EndSkill] Consuma tutto [RegainedStrength]. Ottiene 5 [Vulnerable] questo turno e il prossimo. Ottiene 2 [Binding] prossimo turno.\n[DefeatDuel] Infligge -80% danno finale",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]"  
                 }
               ]
             },
@@ -430,8 +430,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tenacious Wound",
-          "desc": "If target has 6+ [Laceration] Potency, gain Coin Power +1 and gain +1 to [Laceration] Potency and Count inflicted by this Skill",
+          "name": "Ferita Tenace",
+          "desc": "Se i bersaglio ha 6+ Potenza [Laceration], ottiene Potere Moneta +1 and gain +1 to [Laceration] Potency and Count inflicted by this Skill",
           "coinlist": [
             {
               "coindescs": [
@@ -439,7 +439,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             },
@@ -449,7 +449,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration]"
                 }
               ]
             }
@@ -462,20 +462,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wound",
-          "desc": "If target has 6+ [Laceration] Potency, gain Coin Power +1 and gain +1 to [Laceration] Potency and Count inflicted by this Skill",
+          "name": "Ferisci",
+          "desc": "Se il bersaglio 6+ Potenza [Laceration], ottiene Potere Moneta +1 e aumenta di +1 la Potenza e Conteggio [Laceration] ingflitti da questa Abilità",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Laceration]"
                 }
               ]
             }
@@ -488,8 +488,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Brambles that Constrict",
-          "desc": "If target has 6+ [Laceration] Potency, this Skill inflicts +1 more [Laceration] Potency\nIf target has 15+ ([Laceration] + [Laceration] Count), gain +2 Atk Weight",
+          "name": "Rovi che Restringono",
+          "desc": "Se il bersaglio ha 6+ Potenza [Laceration], questa abilità infligge +1 Potenza [Laceration] aggiuntiva.\nSe il bersaglio ha 15+ (Potenza + Conteggio [Laceration]), ottiene +2 Portata Attacco",
           "coinlist": [
             {
               "coindescs": [
@@ -497,10 +497,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge 3 [Laceration] e +2 Conteggio [Laceration]"
                 }
               ]
             }
@@ -513,20 +513,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Polydipsic Petals",
-          "desc": "Attacks the target with the highest sum of [Laceration] Potency + Count\n[WhenUse] Coin Power +1 for every 6 [Laceration] Potency on target (max 2)",
+          "name": "Petali Assetati",
+          "desc": "Attacca il bersaglio con la maggiore somma di Potenza + Contreggio [Laceration]\n[WhenUse] Potere Moneta +1 per ogni 6 Potenza [Laceration] sul bersaglio (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [ScarletTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [ScarletTakeDamageUp]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on the target once (reduce [Laceration] Count by 1)"
+                  "desc": "[OnSucceedAttack] Attiva [Laceration] una volta sul bersaglio (riduce Conteggio [Laceration] di 1)"
                 }
               ]
             }
@@ -539,20 +539,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bursting Petals",
-          "desc": "Attacks the target with the highest sum of [Laceration] Potency + Count\n[WhenUse] Coin Power +1 for every 6 [Laceration] Potency on target (max 2)",
+          "name": "Petali Esplosivi",
+          "desc": "Attacca il bersaglio con la maggiore somma di Potenza + Contreggio [Laceration]\n[WhenUse] Potere Moneta +1 per ogni 6 Potenza [Laceration] sul bersaglio (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [ScarletTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [ScarletTakeDamageUp]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activate all [Laceration] on the target (completely reduce [Laceration] Count)"
+                  "desc": "[OnSucceedAttack] Attiva tutti i [Laceration] sul bersaglio (azzera completamente il Conteggio [Laceration])"
                 }
               ]
             }
@@ -565,13 +565,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Storm of Spikes",
-          "desc": "[WhenUse] If target has 6+ [Laceration] Potency, Final Power +2",
+          "name": "Tormenta di Spine",
+          "desc": "[WhenUse] Se il bersaglio ha 6+ Potenza [Laceration], Potere Finale +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on the target once (reduce [Laceration] Count by 1)"
+                  "desc": "[OnSucceedAttack] Attiva [Laceration] una volta sul bersaglio (riduce Conteggio [Laceration] di 1)"
                 }
               ]
             }
@@ -584,8 +584,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Polydipsic Thorn",
-          "desc": "[StartBattle] Gain 3 [AttackDmgUp] and 2 [Vulnerable]",
+          "name": "Spina Assetata",
+          "desc": "[StartBattle] Ottiene 3 [AttackDmgUp] e 2 [Vulnerable]",
           "coinlist": [
             {
               "coindescs": [
@@ -593,10 +593,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             },
@@ -606,10 +606,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 24 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 24 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             },
@@ -619,10 +619,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             }
@@ -635,8 +635,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Endless Spring of Blood",
-          "desc": "[DuelCounter]\n[WhenUse] Targets that clash against this Skill do not lose [Laceration] Count while clashing",
+          "name": "Fonte Infinita di Sangue",
+          "desc": "[DuelCounter]\n[WhenUse] I bersagli che si scontano con questa abilità non perdono Conteggio [Laceration] durante lo scontro",
           "coinlist": [
             {
               "coindescs": [
@@ -644,7 +644,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on the target once, and immediately consume [BloodDinner] generated by the [Laceration] damage"
+                  "desc": "[OnSucceedAttack] Attiva [Laceration] una volta sul bersaglio, e consuma immediatamente la [BloodDinner] generata dal danno da [Laceration]"
                 }
               ]
             },
@@ -654,7 +654,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on the target once, and immediately consume [BloodDinner] generated by the [Laceration] damage"
+                  "desc": "[OnSucceedAttack] Attiva [Laceration] una volta sul bersaglio, e consuma immediatamente la [BloodDinner] generata dal danno da [Laceration]"
                 }
               ]
             },
@@ -664,7 +664,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on the target once, and immediately consume [BloodDinner] generated by the [Laceration] damage"
+                  "desc": "[OnSucceedAttack] Attiva [Laceration] una volta sul bersaglio, e consuma immediatamente la [BloodDinner] generata dal danno da [Laceration]"
                 }
               ]
             }
@@ -677,8 +677,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Nutrient Craving",
-          "desc": "Activates at 100+ [BloodDinner]\n[EndBattle] Consume up to 100 [BloodDinner] to activate the following effects:\n- Heal the Core and the Body Parts' HP by [BloodDinner] consumed\n- Gain 1 [AttackUp] next turn for every 20 [BloodDinner] consumed",
+          "name": "Brama di Nutrienti",
+          "desc": "Si attiva a 100+ [BloodDinner]\n[EndBattle] Consuma fino a 100 [BloodDinner] per attivare i seguenti effetti:\n- Recupera PV al Nucleo e Parti pari alla [BloodDinner] consumata\n- Ottiene 1 [AttackUp] prossimo turno per ogni 20 [BloodDinner] consumata",
           "coinlist": [
             {
               "coindescs": [
@@ -696,8 +696,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Brambles that Yearn",
-          "desc": "[WhenUse] Consume up to 100 [BloodDinner] to activate the following effects:\n- Heal the Core and the Body Parts' HP by [BloodDinner] consumed\n- This Skill gains Final Power +1 for every 20 [BloodDinner] consumed\n[EndSkill] If this Skill consumed less than 30 [BloodDinner], gain 2 [Vulnerable] next turn",
+          "name": "Rovi che Bramano",
+          "desc": "[WhenUse] Consuma fino a 100 [BloodDinner] per attivare i seguenti effetti:\n- Recupera PV al Nucleo e Parti pari alla [BloodDinner] consumata\n- Questa Abilità ottiene Potenza Finale +1 per ogni 20 [BloodDinner] consumata\n[EndSkill] Se questa Abilità ha consumato 30 o meno [BloodDinner], ottiene 2 [Vulnerable] il prossimo turno",
           "coinlist": [
             {
               "coindescs": [
