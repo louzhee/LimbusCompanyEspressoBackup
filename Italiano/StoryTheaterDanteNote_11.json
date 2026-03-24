@@ -1,0 +1,24 @@
+{
+  "dataList": [
+    {
+      "id": "ConceptIncinerator",
+      "content": "Inceneritore di Concetti"
+    },
+    {
+      "id": "TheThumb",
+      "content": "Il Pollice"
+    },
+    {
+      "id": "ThePinky",
+      "content": "Il Mignolo"
+    },
+    {
+      "id": "Anamnaworm",
+      "content": "Anamnabruco"
+    },
+    {
+      "id": "NestA",
+      "content": "A Corp."
+    }
+  ]
+}

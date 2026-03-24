@@ -2975,7 +2975,7 @@
         {
           "level": 4,
           "name": "Evasione",
-          "desc": "Se il bersaglio ha 5+ [Laceration], Potere Moneta +2\n[OnSucceedEvade] Si cura di 3 PS",
+          "desc": "Se il bersaglio ha 5+ [Laceration], Potere Moneta +2\n[OnSucceedEvade] Recupera 3 PS",
           "coinlist": [
             {}
           ]
@@ -6397,7 +6397,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Si cura di del 100% dei danni inflitti"
+                  "desc": "[OnSucceedAttackHead] Recupera del 100% dei danni inflitti"
                 }
               ]
             }
@@ -6645,7 +6645,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si cura di 50% dei danni inflitti"
+                  "desc": "[OnSucceedAttack] Recupera 50% dei danni inflitti"
                 }
               ]
             }
@@ -6666,7 +6666,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si cura di PV pari al 50% dei danni inflitti\nSi cura di +3% per ognuno dei [NailPersonality] del bersaglio"
+                  "desc": "[OnSucceedAttack] Recupera PV pari al 50% dei danni inflitti\nRecupera il +3% dei PV per ognuno dei [NailPersonality] del bersaglio"
                 }
               ]
             }
@@ -7175,7 +7175,7 @@
         {
           "level": 1,
           "name": "Purifi…ca!",
-          "desc": "[WinDuel] Si cura di 3 PS",
+          "desc": "[WinDuel] Recupera 3 PS",
           "coinlist": [
             {
               "coindescs": [
@@ -7189,7 +7189,7 @@
         {
           "level": 2,
           "name": "Purifi…ca!",
-          "desc": "[WinDuel] Si cura di 5 PS",
+          "desc": "[WinDuel] Recupera 5 PS",
           "coinlist": [
             {
               "coindescs": [
@@ -7483,7 +7483,7 @@
         {
           "level": 2,
           "name": "Riscalda",
-          "desc": "[WhenUse] Si cura di 3 PS",
+          "desc": "[WhenUse] Recupera 3 PS",
           "coinlist": [
             {},
             {
@@ -7583,7 +7583,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Si cura di 6 PS"
+                  "desc": "[OnSucceedAttackHead] Recupera 6 PS"
                 },
                 {
                   "desc": "[OnSucceedAttack] Se il bersaglio ha 6+ Conteggio [Combustion], alza la Soglia di Vacillamento del 30% dei danni inflitti"
@@ -7607,7 +7607,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Si cura di 6 PS"
+                  "desc": "[OnSucceedAttackHead] Recupera 6 PS"
                 },
                 {
                   "desc": "[OnSucceedAttack] Se il bersaglio ha 6+ Conteggio [Combustion], alza la Soglia di Vacillamento del 30% dei danni inflitti"
@@ -8227,7 +8227,7 @@
         {
           "level": 1,
           "name": "Basta…",
-          "desc": "[StartBattle] Si cura di 5~10 PS",
+          "desc": "[StartBattle] Recupera 5~10 PS",
           "coinlist": [
             {}
           ]
@@ -8552,7 +8552,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Infligge 2 [Vibration]\nA 3+ Conteggio [Charge], Riusa questa Moneta se è uscita Testa (Fino a 2 volte)\nSe la Moneta viene Riusata due volte, infligge [Vibration], poi causa [VibrationExplosion]\nDopo [VibrationExplosion], riduce il Conteggio [Vibration] di 1",
-                  "summary": "[OnSucceedAttack] Causa [VibrationExplosion].\nRiusa una Moneta secondo le condizioni; Infligge +2 [Vibration] se Riusata.\nSe la Moneta viene Riusata due volte, causa [VibrationExplosion], poi riduce il Conteggio [Vibration]"
+                  "summary": "[OnSucceedAttack] Causa [VibrationExplosion].\nRiusa una Moneta secondo le condizioni; Infligge +2 [Vibration] se Riusata.\nSe la Moneta viene Riusata due volte, causa [VibrationExplosion], poi riduce Conteggio [Vibration]"
                 }
               ]
             }
@@ -8574,7 +8574,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Infligge 2 [Vibration]\nA 3+ Conteggio [Charge], Riusa questa Moneta se è uscita Testa (Fino a 2 volte)\nInfligge 2 [Vibration] in più ogni volta che la Moneta viene Riusata\nSe la Moneta viene Riusata due volte, infligge [Vibration], poi causa [VibrationExplosion]\nDopo [VibrationExplosion], riduce il Conteggio [Vibration] di 1",
-                  "summary": "[OnSucceedAttack] Causa [VibrationExplosion].\nRiusa una Moneta secondo le condizioni; Infligge +2 [Vibration] se Riusata.\nSe la Moneta viene Riusata due volte, causa [VibrationExplosion], poi riduce il Conteggio [Vibration]"
+                  "summary": "[OnSucceedAttack] Causa [VibrationExplosion].\nRiusa una Moneta secondo le condizioni; Infligge +2 [Vibration] se Riusata.\nSe la Moneta viene Riusata due volte, causa [VibrationExplosion], poi riduce Conteggio [Vibration]"
                 }
               ]
             }
@@ -8596,7 +8596,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Infligge 2 [Vibration]\nA 3+ Conteggio [Charge], Riusa questa Moneta se è uscita Testa (Fino a 2 volte)\nInfligge 2 [Vibration] in più ogni volta che la Moneta viene Riusata\nSe la Moneta viene Riusata due volte, infligge [Vibration], poi causa [VibrationExplosion]\nDopo [VibrationExplosion], riduce il Conteggio [Vibration] di 1",
-                  "summary": "[OnSucceedAttack] Causa [VibrationExplosion]\nRiusa una Moneta secondo le condizioni; Infligge +2 [Vibration] se Riusata.\nSe la Moneta viene Riusata due volte, causa [VibrationExplosion], poi riduce il Conteggio [Vibration]"
+                  "summary": "[OnSucceedAttack] Causa [VibrationExplosion]\nRiusa una Moneta secondo le condizioni; Infligge +2 [Vibration] se Riusata.\nSe la Moneta viene Riusata due volte, causa [VibrationExplosion], poi riduce Conteggio [Vibration]"
                 }
               ]
             }
@@ -8825,7 +8825,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Causa [VibrationExplosion]\nQuando causa [VibrationExplosion], riduce il Conteggio [Vibration] di 3, poi spende tutto il Conteggio [Charge] per alzare ancora la Soglia di Vacillamento del (Conteggio [Charge] x 5)% (Max 50%)",
-                  "summary": "[OnSucceedAttack] Causa [VibrationExplosion], poi riduce il Conteggio [Vibration] di 3; Spende Conteggio [Charge] per alzare ancora la Soglia di Vacillamento"
+                  "summary": "[OnSucceedAttack] Causa [VibrationExplosion], poi riduce Conteggio [Vibration] di 3; Spende Conteggio [Charge] per alzare ancora la Soglia di Vacillamento"
                 }
               ]
             }
@@ -8870,7 +8870,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Causa [VibrationExplosion]\nQuando causa [VibrationExplosion], riduce il Conteggio [Vibration] di 3, poi spende tutto il Conteggio [Charge] per alzare ancora la Soglia di Vacillamento del (Conteggio [Charge] x 5)% (Max 50%)",
-                  "summary": "[OnSucceedAttack] Causa [VibrationExplosion], poi riduce il Conteggio [Vibration] di 3; Spende Conteggio [Charge] per alzare ancora la Soglia di Vacillamento"
+                  "summary": "[OnSucceedAttack] Causa [VibrationExplosion], poi riduce Conteggio [Vibration] di 3; Spende Conteggio [Charge] per alzare ancora la Soglia di Vacillamento"
                 }
               ]
             }
@@ -9011,7 +9011,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Causa [VibrationExplosion], poi riduce il Conteggio [Vibration] di 2; poi consuma fino a 4 Conteggio [Charge] su di sé per infliggere Conteggio [Burst] pari al Conteggio [Charge] consumato"
+                  "desc": "[OnSucceedAttack] Causa [VibrationExplosion], poi riduce Conteggio [Vibration] di 2; poi consuma fino a 4 Conteggio [Charge] su di sé per infliggere Conteggio [Burst] pari al Conteggio [Charge] consumato"
                 }
               ]
             },
@@ -9045,7 +9045,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Causa [VibrationExplosion], poi riduce il Conteggio [Vibration] di 2; poi consuma fino a 4 Conteggio [Charge] su di sé per infliggere Conteggio [Burst] pari al Conteggio [Charge] consumato"
+                  "desc": "[OnSucceedAttack] Causa [VibrationExplosion], poi riduce Conteggio [Vibration] di 2; poi consuma fino a 4 Conteggio [Charge] su di sé per infliggere Conteggio [Burst] pari al Conteggio [Charge] consumato"
                 }
               ]
             },
@@ -9790,14 +9790,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Infligge 2 [Burst]\nSe il bersaglio ha 10+ [Burst], si cura di 20% dei danni inflitti"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Burst]\nSe il bersaglio ha 10+ [Burst], si cura del 20% dei danni inflitti"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Infligge 2 [Burst]\nSe il bersaglio ha 10+ [Burst], si cura di 20% dei danni inflitti"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Burst]\nSe il bersaglio ha 10+ [Burst], si cura del 20% dei danni inflitti"
                 }
               ]
             }
@@ -9811,14 +9811,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Infligge 2 [Burst]\nSe il bersaglio ha 10+ [Burst], si cura di 50% dei danni inflitti"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Burst]\nSe il bersaglio ha 10+ [Burst], si cura del 50% dei danni inflitti"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Infligge 2 [Burst]\nSe il bersaglio ha 10+ [Burst], si cura di 50% dei danni inflitti"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Burst]\nSe il bersaglio ha 10+ [Burst], si cura del 50% dei danni inflitti"
                 }
               ]
             }
@@ -9832,14 +9832,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Infligge 2 [Burst]\nSe il bersaglio ha 10+ [Burst], si cura di 50% dei danni inflitti"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Burst]\nSe il bersaglio ha 10+ [Burst], si cura del 50% dei danni inflitti"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Infligge 2 [Burst]\nSe il bersaglio ha 10+ [Burst], si cura di 50% dei danni inflitti"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Burst]\nSe il bersaglio ha 10+ [Burst], si cura del 50% dei danni inflitti"
                 }
               ]
             }
@@ -10924,7 +10924,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Si cura di 15 PS"
+                  "desc": "[EnemyKill] Recupera 15 PS"
                 }
               ]
             }

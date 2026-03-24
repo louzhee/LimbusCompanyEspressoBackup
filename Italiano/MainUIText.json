@@ -130,7 +130,7 @@
     },
     {
       "id": "mainui_battleresult_reward",
-      "content": "Ricompense"
+      "content": "Premi"
     },
     {
       "id": "mainui_battleresult_exclearreward",
@@ -306,7 +306,7 @@
     },
     {
       "id": "mainui_gacha_alreadyusedgacha",
-      "content": "Quota Giornaliera Esaurita"
+      "content": "Chance Giornaliera Esaurita"
     },
     {
       "id": "mainui_gacha_extract1",
@@ -318,7 +318,7 @@
     },
     {
       "id": "mainui_open_battlepass",
-      "content": "Il Pass Battaglia è sbloccato!"
+      "content": "Il Pass Battaglia è disponibile!"
     },
     {
       "id": "mainui_grade_without_space",
@@ -462,7 +462,7 @@
     },
     {
       "id": "mainui_mail_remains_count",
-      "content": "Cassetta"
+      "content": "Capacità"
     },
     {
       "id": "mainui_mail_warning",
@@ -546,7 +546,7 @@
     },
     {
       "id": "mainui_awaken_requirement_amount",
-      "content": "Richieste Risorse"
+      "content": "Risorse Richieste"
     },
     {
       "id": "mainui_passive_skill_addition",
@@ -998,7 +998,7 @@
     },
     {
       "id": "cant_receive_mail_all_main",
-      "content": "Nulla da riscattare con Ricevi Tutto”"
+      "content": "Nulla da riscattare con 'Ricevi Tutto'"
     },
     {
       "id": "attached_item",
@@ -1054,7 +1054,7 @@
     },
     {
       "id": "skip_tutorial_description",
-      "content": "Vuoi veramente saltare il tutorial?"
+      "content": "Vuoi saltare il tutorial?"
     },
     {
       "id": "min_speed_upgrade",
@@ -1110,7 +1110,7 @@
     },
     {
       "id": "mail_item_warning",
-      "content": "※ I rimborsi potrebbero essere limitati una volta ritirato l'articolo."
+      "content": "※ I rimborsi potrebbero essere limitati una volta ritirato l'articolo dalla Posta."
     },
     {
       "id": "mainui_unlock_condition_by_ego_awaken_level",
@@ -2023,6 +2023,14 @@
     {
       "id": "mainui_ego_gift_grade",
       "content": "Grado"
+    },
+    {
+      "id": "mainui_use_random_piece_package",
+      "content": "Usa Cassa di ScheggeEgo"
+    },
+    {
+      "id": "mainui_use_optional_piece_package",
+      "content": "Usa Cassa di ScheggeEgo A Scelta"
     }
   ]
 }

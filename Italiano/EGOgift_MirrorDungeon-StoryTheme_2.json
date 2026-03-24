@@ -22,7 +22,7 @@
             },
             {
                 "abilityID": 194271,
-                "simpleDesc": "Ottiene +6 Provocazione e 4 Aumento Difensivo per il turno successivo"
+                "simpleDesc": "Ottiene +6 Provocazione e 4 Livello Difensivo Aumentato per il turno successivo"
             }
         ]
     },
@@ -37,14 +37,14 @@
             },
             {
                 "abilityID": 294271,
-                "simpleDesc": "Ottiene +6 Provocazione e 4 Aumento Difensivo per il turno successivo"
+                "simpleDesc": "Ottiene +6 Provocazione e 4 Livello Difensivo Aumentato per il turno successivo"
             }
         ]
     },
     {
         "id": 9428,
         "name": "Cuore di Cetaceo",
-        "desc": "Sul Colpo con un'Abilità di Attacco contro nemici con [Laceration]: ottiene 1 [Breath]. (3 volte per turno per ogni personaggio)\nIn caso di Critico: 50% di probabilità di non consumare Conteggio [Breath]. (una volta per turno per ogni personaggio; incluse le Abilità E.G.O e le Abilità di Contrattacco)\nIn caso di Testa su un colpo Critico con un'Abilità Base: infligge +1 [Effetto Negativo] addizionale con quella Moneta. (una volta per turno per ogni personaggio; incluse le Abilità di Contrattacco ed escluse le Abilità E.G.O)",
+        "desc": "Sul Colpo con un'Abilità di Attacco contro nemici con [Laceration] o 'Sanguinamento Speciale' : Ottiene 1 [Breath]. (3 volte per turno per Identità)\nIn caso di Critico: 50% di probabilità di ottenere 1 [PenetrateResultUp] il turno successivo. (2 volte per turno per Identità; incluse le Abilità E.G.O e le Abilità di Contrattacco)\n\nIn caso di Testa su un colpo Critico con un'Abilità Base: Infligge +1 [Effetto Negativo] addizionale con quella Moneta. (una volta per turno per Identità; incluse le Abilità di Contrattacco ed escluse le Abilità E.G.O)",
         "simpleDesc": [
             {
                 "abilityID": 9428,
@@ -52,7 +52,7 @@
             },
             {
                 "abilityID": 94281,
-                "simpleDesc": "Probabilità di non consumare Conteggio [Breath]"
+                "simpleDesc": "Probabilità di ottenere 1 [PenetrateResultUp] il turno successivo"
             },
             {
                 "abilityID": 94282,
@@ -67,11 +67,11 @@
         "simpleDesc": [
             {
                 "abilityID": 9431,
-                "simpleDesc": "Ottiene 1 Aumento Offensivo & 1 Cure PV Aumentate"
+                "simpleDesc": "Ottiene 1 Livello Offensivo Aumentato & 1 Cure PV Aumentate"
             },
             {
                 "abilityID": 94311,
-                "simpleDesc": "Ottiene 1 Aumento Offensivo & 1 Cure PV Aumentate"
+                "simpleDesc": "Ottiene 1 Livello Offensivo Aumentato & 1 Cure PV Aumentate"
             }
         ]
     },
@@ -82,11 +82,11 @@
         "simpleDesc": [
             {
                 "abilityID": 19431,
-                "simpleDesc": "Ottiene 1 Aumento Offensivo & 1 Cure PV Aumentate"
+                "simpleDesc": "Ottiene 1 Livello Offensivo Aumentato & 1 Cure PV Aumentate"
             },
             {
                 "abilityID": 194311,
-                "simpleDesc": "Ottiene 1 Aumento Offensivo & 1 Cure PV Aumentate"
+                "simpleDesc": "Ottiene 1 Livello Offensivo Aumentato & 1 Cure PV Aumentate"
             },
             {
                 "abilityID": 194312,
@@ -101,11 +101,11 @@
         "simpleDesc": [
             {
                 "abilityID": 29431,
-                "simpleDesc": "Ottiene 1 Aumento Offensivo & 1 Cure PV Aumentate"
+                "simpleDesc": "Ottiene 1 Livello Offensivo Aumentato & 1 Cure PV Aumentate"
             },
             {
                 "abilityID": 294311,
-                "simpleDesc": "Ottiene 1 Aumento Offensivo & 1 Cure PV Aumentate"
+                "simpleDesc": "Ottiene 1 Livello Offensivo Aumentato & 1 Cure PV Aumentate"
             },
             {
                 "abilityID": 294312,
@@ -135,7 +135,7 @@
         "simpleDesc": [
             {
                 "abilityID": 9435,
-                "simpleDesc": "Infligge 1 Lentezza al nemico che si è ripreso dal Vacillamento"
+                "simpleDesc": "Infligge 1 Rallentamento al nemico che si è ripreso dal Vacillamento"
             },
             {
                 "abilityID": 94351,
@@ -150,7 +150,7 @@
       "simpleDesc": [
         {
           "abilityID": 19435,
-          "simpleDesc": "Infligge 2 Lentezza al nemico che si è ripreso dal Vacillamento"
+          "simpleDesc": "Infligge 2 Rallentamento al nemico che si è ripreso dal Vacillamento"
         },
         {
           "abilityID": 194351,
@@ -165,7 +165,7 @@
       "simpleDesc": [
         {
           "abilityID": 29435,
-          "simpleDesc": "Infligge 3 Lentezza al nemico che si è ripreso dal Vacillamento"
+          "simpleDesc": "Infligge 3 Rallentamento al nemico che si è ripreso dal Vacillamento"
         },
         {
           "abilityID": 294351,
@@ -210,7 +210,7 @@
         },
         {
           "abilityID": 9438,
-          "simpleDesc": "Un alleato casuale ottiene 2 Aumento Offensivo per il turno successivo"
+          "simpleDesc": "Un alleato casuale ottiene 2 Livello Offensivo Aumentato per il turno successivo"
         }
       ]
     },

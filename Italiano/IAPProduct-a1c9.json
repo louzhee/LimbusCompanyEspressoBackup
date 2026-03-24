@@ -38,12 +38,12 @@
     {
       "id": 460,
       "name": "Pacchetto Estrazione Mirata",
-      "desc": "Puoi ottenere i seguenti oggetti da questo Pacchetto Commemorativo per 「Nuova Estrazione Mirata - Proselito Dell'Indice:【Foglietto】 Faust & Leader del 3o Team di Avanguardia Udjat della LCA Outis」.\n\n· Biglietto per Decaestrazione x4"
+      "desc": "Puoi ottenere i seguenti oggetti da questo Pacchetto Commemorativo per 「Nuova Estrazione Mirata - Proselita Dell'Indice:【Foglietto】 Faust & Leader del 3o Team di Avanguardia Udjat della LCA Outis」.\n\n· Biglietto per Decaestrazione x4"
     },
     {
       "id": 461,
       "name": "Pacchetto Crescita Identità",
-      "desc": "Puoi ottenere i seguenti oggetti da questo Pacchetto Commemorativo per 「Nuova Estrazione Mirata - Proselito Dell'Indice:【Foglietto】 Faust & Leader del 3o Team di Avanguardia Udjat della LCA Outis」.\n\n· Modulo Lancio - Legame ID x 1\n· Biglietto per l'Addestramento Identità IV x 80\n· Biglietto per l'Addestramento Identità III x 20"
+      "desc": "Puoi ottenere i seguenti oggetti da questo Pacchetto Commemorativo per 「Nuova Estrazione Mirata - Proselita Dell'Indice:【Foglietto】 Faust & Leader del 3o Team di Avanguardia Udjat della LCA Outis」.\n\n· Modulo Lancio - Legame ID x 1\n· Biglietto per l'Addestramento Identità IV x 80\n· Biglietto per l'Addestramento Identità III x 20"
     },
     {
       "id": 462,
@@ -104,6 +104,36 @@
       "id": 471,
       "name": "3rd Anniversary\nIdentity Growth Pack",
       "desc": "A limited 3rd Anniversary Pack. Contains the following items:\n\n· Takeoff Module - ID Uptie x2\n· Identity Training Ticket IV x200"
+    },
+    {
+      "id": 472,
+      "name": "Target Extraction Pack",
+      "desc": "You can obtain the following items from this 「The 8th Walpurgis Night」 release commemorative pack.\n\n· Decaextraction Ticket x 4"
+    },
+    {
+      "id": 473,
+      "name": "Identity Growth Pack",
+      "desc": "You can obtain the following items from this「The 8th Walpurgis Night」 release commemorative pack.\n\n\n· Takeoff Module - ID Uptie x 1\n· Identity Training Ticket IV x 80\n· Identity Training Ticket III x 20"
+    },
+    {
+      "id": 474,
+      "name": "E.G.O Upgrade Pack",
+      "desc": "You can obtain the following items from this 「The 8th Walpurgis Night」 release commemorative pack.\n\n· Takeoff Module - E.G.O Spinning [HE] x 1"
+    },
+    {
+      "id": 475,
+      "name": "Target Extraction Pack",
+      "desc": "You can obtain the following items from this 「Intervallo V: LCB Regular Check-up BokGak」 release commemorative pack.\n\n· Decaextraction Ticket x 4"
+    },
+    {
+      "id": 476,
+      "name": "Identity Growth Pack",
+      "desc": "You can obtain the following items from this 「Intervallo V: LCB Regular Check-up BokGak」 release commemorative pack.\n\n\n· Takeoff Module - ID Uptie x 1\n· Identity Training Ticket IV x 80\n· Identity Training Ticket III x 20"
+    },
+    {
+      "id": 477,
+      "name": "E.G.O Upgrade Pack",
+      "desc": "You can obtain the following items from this 「Intervallo V: LCB Regular Check-up BokGak」 release commemorative pack.\n\n· Takeoff Module - E.G.O Spinning [HE] x 1"
     }
   ]
 }

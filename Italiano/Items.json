@@ -16,7 +16,7 @@
       "id": 3,
       "name": "Lunacy",
       "desc": "Un materiale cristallino a forma di rosa. Usata per effettuare estrazioni e comprare Casse di Encefalina.",
-      "flavor": "Accettare la pazzia è un passo necessario per andare avanti per gli umani."
+      "flavor": "Per gli umani, accettare la follia è un passo necessario per andare."
     },
     {
       "id": 11,
@@ -278,7 +278,7 @@
     },
     {
       "id": 10602,
-      "name": "[Stagione 2] ScheggiaEgo di Hong Lu's",
+      "name": "[Stagione 2] ScheggiaEgo di Hong Lu",
       "desc": "Usata per comprare le Identità ed E.G.O di Hong Lu e Filo dalla Dispensa.",
       "flavor": "Momenti sfuggenti da qualunque punto della vita del Peccatore, condensati in forma fisica. Le schegge fluttuano in aria.\nLe possibilità sono cosa effimera; vagano nel regno delle possibilità a meno che non vengano prese."
     },
@@ -478,7 +478,7 @@
       "id": 233,
       "name": "Modulo Lancio - Intreccio E.G.O [WAW] x1",
       "desc": "Porta il Grado Intreccio di un E.G.O al Grado 4. (Utilizzabile solo su E.G.O di Livello WAW o inferiore)",
-      "flavor": "Modulo di Intreccio E.G.O sviluppato dal Team R&S di LCA.\nIntreccia i fili lucenti con molte Schegge, alzando il Grado Intreccio E.G.O fino ad un certo livello a ritmo accelerato.\nNon sappiamo ancora quanto questo cuore chiamato E.G.O possa reggere alla pressione... dell' Intrecciare questi E.G.O basati su Animenti-Anormali senza pensare perché è conveniente."
+      "flavor": "Modulo di Intreccio E.G.O sviluppato dal Team R&S di LCA.\nIntreccia i fili lucenti con molte Schegge, alzando il Grado Intreccio E.G.O fino ad un certo livello a ritmo accelerato.\nNon sappiamo ancora quanto questo cuore chiamato E.G.O possa reggere alla pressione... dell' Intrecciare questi E.G.O basati su Psicomenti-Anormali senza pensare perché è conveniente."
     },
     {
       "id": 501,
@@ -501,8 +501,8 @@
     {
       "id": 234,
       "name": "Modulo Lancio - Intreccio E.G.O [HE] x1",
-      "desc": "Aumenta il Grado di Intreccio di un E.G.O al fino Grado 4. (Utilizzabile solo su E.G.O di Livello HE o inferiore)",
-      "flavor": "Il secondo Modulo di Intreccio E.G.O sviluppato dal Team R&S di LCA.\nIntreccia i fili lucenti con molte Schegge, alzando il Grado di Intreccio E.G.O fino al livello [HE] a ritmo accelerato.\nTessiamo tra loro le schegge con i fili per comprimerli in una forma. La luce calda dei fili ricorda la luce che un tempo cadette sulla Città per qualche giorno."
+      "desc": "Aumenta il Grado Intreccio di un E.G.O al fino Grado 4. (Utilizzabile solo su E.G.O di Livello HE o inferiore)",
+      "flavor": "Il secondo Modulo di Intreccio E.G.O sviluppato dal Team R&S di LCA.\nIntreccia i fili lucenti con molte Schegge, aumentando il Grado Intreccio E.G.O fino al livello [HE] a ritmo accelerato.\nTessiamo tra loro le schegge con i fili per comprimerli in una forma. La luce calda dei fili ricorda la luce che un tempo cadette sulla Città per qualche giorno."
     },
     {
       "id": 20024,
@@ -541,12 +541,6 @@
       "flavor": ""
     },
     {
-      "id": 9001,
-      "name": "Regalo di Kkomi",
-      "desc": "Aprilo per ricevere 401 Lunacy Gratuita.",
-      "flavor": "È come svegliarsi da uno strano sogno. È il regalo della notte di mezza primavera da parte di Kkomi, come scusa per averci preso a botte con i suoi pugni di pezza. \"Kkomi dice ci vediamo\" - Vergilius"
-    },
-    {
       "id": 30006,
       "name": "Luce Stellare dell'Immortalità",
       "desc": "Usata nei Dungeon Specchio.\n\n<color=#a16a3b>La Luce Stellare che può essere ottenuta solo finché lo Specchio dell'Immortalità rimane aperto. Per quanto le persone possano voler creare nuove storie con la Luce Stellare, possono solo cercare la poca Luce Stellare rimasta a terra—poiché le stelle non sono più nel cielo.</color>",
@@ -580,6 +574,12 @@
       "id": 20037,
       "name": "Luminous Sea Terror Sample",
       "desc": "Spawns rarely. Converted to 20 Sea Terror Sample immediately upon acquisition.\n\n<color=#a16a3b>A Sea Terror specimen, collected for research purposes. There was no hesitation in the hand that clove through the life its owner had once beheld with awe. One must delve into the undying light to evolve. It is an inevitable step.</color>",
+      "flavor": ""
+    },
+    {
+      "id": 9900,
+      "name": "Matassa di Filo",
+      "desc": "Usata per tessere le Façades delle Identità da proiettare.",
       "flavor": ""
     }
   ]

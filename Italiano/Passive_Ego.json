@@ -33,7 +33,7 @@
     {
       "id": 2030111,
       "name": "Passione Smoderata",
-      "desc": "Sul Colpo, se il bersaglio ha [Laceration], si cura di 3 PV"
+      "desc": "Sul Colpo, se il bersaglio ha [Laceration], recupera 3 PV"
     },
     {
       "id": 2030211,
@@ -57,18 +57,18 @@
     },
     {
       "id": 2050211,
-      "name": "Final Augment",
-      "desc": "If the E.G.O Skill <Screwloose Wallop> is used at less than 25% PV, gain 3 Attack Power Up, Defense Power Up, and Haste every turn, but then die in 3 turns."
+      "name": "Potenziamento Finale",
+      "desc": "Se l'Abilità E.G.O <Cazzotto Svitato> viene usata a meno con meno del 25% PV, ottiene 3 [Enhancement], [MDHcFaBb], e [Agility] ogni turno, ma muore dopo 3 turni."
     },
     {
       "id": 2050311,
-      "name": "Revelation from Above",
-      "desc": "After winning a clash with the leftmost skill on the Dashboard, apply 1 Attack Power Up or Defense Power Up to a random ally next turn."
+      "name": "Revelazione dall'Alto",
+      "desc": "Dopo aver vinto uno scontro con l'Abilità più a sinistra sul Pannello di Controllo, applica 1 [Enhancement] o [MDHcFaBb] ad un alleato casuale il turno successivo."
     },
     {
       "id": 2060111,
-      "name": "Ripple",
-      "desc": "At the start of the combat phase, heal PS for the ally with the least PS by the count of your highest A-Reson. value, excluding those in Panic."
+      "name": "Increspatura",
+      "desc": "All'inizio della fase di combattimento, cura i PS dell'alleato che ne ha di meno di (Rison-A più alta), alleati in stato di Panico esclusi."
     },
     {
       "id": 2060211,
@@ -452,18 +452,18 @@
     },
     {
       "id": 2040811,
-      "name": "Breath",
-      "desc": "Next Turn Start after using this E.G.O Skill: gain 1 [NebulizerInhale] (once per turn)\n- If this Skill defeated enemies, gain additional [NebulizerInhale] equal to the number of targets defeated\n- If this Skill defeated allies, gain (targets defeated x 2) additional [NebulizerInhale]\n- This value Stacks over this Encounter's duration"
+      "name": "Respiro",
+      "desc": "Dal turno successivo dopo aver usato questa Abilità E.G.O: Ottiene 1 [NebulizerInhale] (una volta per turno)\n- Se questa abilità sconfigge nemici, ottiene ulteriore [NebulizerInhale] pari al numero di bersagli sconfitti\n- Se questa Abilità sconfigge alleati, ottiene (bersagli sconfitti x 2) ulteriore [NebulizerInhale]\n- Questo valore si accumula durante tutto l'incontro"
     },
     {
       "id": 2020811,
-      "name": "Breath",
-      "desc": "Next Turn Start after using this E.G.O Skill: gain 1 [NebulizerExhale] (once per turn)\n- This value Stacks throughout the Encounter\n\nCombat Start: gain 1 [NebulizerExhale] every time this unit applies 10 [Breath] Count to allies with [NebulizerExhale] effects\n\nTurn End: starting from allies with the lowest PV percentages, heal ([NebulizerExhale] Stack)% PV for (highest Reson.) allies (max 6)\n- If the unit receiving healing has 20+ [Breath] Potency, activate healing 1 more time"
+      "name": "Respiro",
+      "desc": "Dal turno successivo dopo aver usato questa Abilità E.G.O: Ottiene 1 [NebulizerExhale] (una volta per turno)\n- Questo valore si accumula durante tutto l'incontro\n\nInizio Combattimento: Ottieni 1 [NebulizerExhale] per ogni volta che applica 10 Conteggio [Breath] agli alleati con gli effetti di [NebulizerExhale]\n\nFine Turno: A partire dagli alleati con la percentuale di PV minori, cura il (Stack di [NebulizerExhale])% dei loro PV a (Ris. più alta) alleati (max 6)\n- Se l'allteato che è stato curato ha 20+ Potenza [Breath], attiva la cura una volta in più"
     },
     {
       "id": 2090811,
-      "name": "Blazing Amusement",
-      "desc": "When a target with 10+ [Combustion] Count is defeated, inflict the [Combustion] Count on target between all enemies and heal PS 8 on self (negli Incontri Mirati, between all Parts; 3 max per target, 2 times per turn)\n- At max PS, heal 5 PS for 1 ally with the least PS instead"
+      "name": "Attrazione Fiammeggiante",
+      "desc": "Quando un bersaglio con 10+ Conteggio [Combustion] è sconfitto, distribuisce il Conteggio [Combustion] del bersaglio tra tutti i nemici e recupera 8 PS (negli Incontri Mirati, tra tutte le Parti; 3 max per bersaglio, 2 volte per turno)\n- A PS massimi, cura invece l'alleato con PS minori di 5 PS"
     },
     {
       "id": 2030811,
@@ -539,6 +539,16 @@
       "name": "Sanzu [三途]",
       "desc": "After using an Attack Skill, if the enemy is Staggered or defeated, gain 1 [CriticalDamageUp] next turn (3 times per turn)",
       "summary": ""
+    },
+    {
+      "id": 2100911,
+      "name": "Quello... era Proprio un Ritmo",
+      "desc": "Inizio Turno: Ottiene 2 [ThatIsRhythm]\n\nAll'Uccisione del Bersaglio: Questa unità recupera 5% PV e di 5 PS (una volta per turno)\n- Se il Berdaglio è stato ucciso dall'Abilità E.G.O - Armonia, raddoppia la quantità della cura di questo effetto\n\nFine Turno: Se questa unità ha perso PS questo turno, recupera (4 + somma di [Combustion] e [Laceration] su tutti i nemici / 10) PS (max 10, arrotondato per difetto)"
+    },
+    {
+      "id": 2021011,
+      "name": "Tizzoni Covati",
+      "desc": "Questo effetto siattiva immediatamente dopo aver usato l'Abilità E.G.O\n\nPer ogni 10 [Combustion] su di sé, aumenta la Potenza [Combustion] inflitta sui nemici con gli effetti delle Abilità Attacco Base di questa unità e gli effetti delle Monete di 1 (max 2, 'Bruciatura Speciale' esclusa)\n\nQuando questa unità usa l'Abilità 'Sintonia Massima S.F.A 【Corrosione Deteriorata】', non muore alla fine dell'Attacco; si cura invece del 40% dei suoi PV ed ottiene 2 [HitDamageUp] e 1 [CrimsonDamageUp] il turno successivo (una volta per Incontro)"
     }
   ]
 }

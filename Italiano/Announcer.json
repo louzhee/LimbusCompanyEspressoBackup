@@ -98,7 +98,7 @@
     },
     {
       "id": 25,
-      "name": "Ufficio\nPunto e Basta"
+      "name": "Ufficio\nAlto Calibro"
     },
     {
       "id": 26,
@@ -167,6 +167,14 @@
     {
       "id": 43,
       "name": "Angela\n<size=90%>(Direttrice della Biblioteca - Primi Giorni)</size>"
+    },
+    {
+      "id": 44,
+      "name": "Chesed"
+    },
+    {
+      "id": 45,
+      "name": "LCE Research Team"
     }
   ]
 }

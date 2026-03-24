@@ -66,22 +66,22 @@
         {
             "id": "AaCePcBn",
             "name": "Comando Incontestabile",
-            "desc": "Perde il 10% dei PV correnti quando usa un'Abilità. Potere Finale Abilità +1\nSul Colpo, Ahab si cura di 8 PS; applica 2 Respiro su sé ed Ahab",
+            "desc": "Perde il 10% dei PV correnti quando usa un'Abilità. Potere Finale Abilità +1\nSul Colpo, Ahab recupera 8 PS; applica 2 Respiro su sé ed Ahab",
             "summary": "Perde PV quando usa un'Abilità; Potere Finale +1",
             "undefined": "-"
         },
         {
             "id": "AaCePcBo",
             "name": "Ego di Pip",
-            "desc": "A Inizio Turno: Si cura 3 PS per Stack.\nLe Stack diminuiscono quando usa Weight of Guilt dopo aver fallito l'Evasione.\nA Fine Turno: Se le Stack sono 0, Vacilla.",
-            "summary": "Cura dei PS per Stack. Le stack si riducono quando fallisce un'Evasione o dopo aver usato determinate Abilità.",
+            "desc": "A Inizio Turno: Recupera 3 PS per Stack.\nLe Stack diminuiscono quando usa Weight of Guilt dopo aver fallito l'Evasione.\nA Fine Turno: Se le Stack sono 0, Vacilla.",
+            "summary": "Recupera PS per Stack. Le stack si riducono quando fallisce un'Evasione o dopo aver usato determinate Abilità.",
             "undefined": "-"
         },
         {
             "id": "AaCePcBp",
             "name": "Ego di Starbuck",
-            "desc": "A Inizio Turno: Ottiene 1 Mitigazione per ogni 5 Stack.\nDiminuisce per ogni Moneta distrutta negli Scontri contro i bersagli con Marchio della Preda.\nA Fine Turno: Se le Stack sono 0, Vacilla.",
-            "summary": "Ottiene Mitigazione per Stack. Le stack si riducono quando perde uno Scontro contro determinati bersagli.",
+            "desc": "A Inizio Turno: Ottiene 1 Protezione per ogni 5 Stack.\nDiminuisce per ogni Moneta distrutta negli Scontri contro i bersagli con Marchio della Preda.\nA Fine Turno: Se le Stack sono 0, Vacilla.",
+            "summary": "Ottiene Protezione per Stack. Le stack si riducono quando perde uno Scontro contro determinati bersagli.",
             "undefined": "-"
         },
         {
@@ -101,7 +101,7 @@
         {
             "id": "AaCePcBf",
             "name": "Panico Pallido",
-            "desc": "Ottiene 2 Lentezza a Fine Turno.\nOgni Moneta che viene lanciata da quest'unità cade su croce.",
+            "desc": "Ottiene 2 Rallentamento a Fine Turno.\nOgni Moneta che viene lanciata da quest'unità cade su croce.",
             "summary": "",
             "undefined": "-"
         },
