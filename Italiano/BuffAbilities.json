@@ -86,7 +86,7 @@
     },
     {
       "id": "Vibration",
-      "desc": "Quando subisce un attacco che innesca Scoppio Vibrazione, alza la Soglia di Vacillamento di {0}. Dura {1} turno/i."
+      "desc": "Quando subisce un attacco che innesca Scoppio Vibrazione, alza la Soglia di Stordimento di {0}. Dura {1} turno/i."
     },
     {
       "id": "DefAdderByStackCeilToInt",
@@ -322,7 +322,7 @@
     },
     {
       "id": "MRR521",
-      "desc": "Rimuovo la prima Soglia di Vacillamento"
+      "desc": "Rimuovo la prima Soglia di Stordimento"
     },
     {
       "id": "MRR557",
@@ -398,7 +398,7 @@
     },
     {
       "id": "RemoveFirstBreakSection",
-      "desc": "Rimuove la prima Soglia di Vacillamento"
+      "desc": "Rimuove la prima Soglia di Stordimento"
     },
     {
       "id": "MinSpeedAdderIncludeFirstTurn",

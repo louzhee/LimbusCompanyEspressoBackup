@@ -2470,7 +2470,7 @@
     {
       "id": 9092,
       "name": "Oscillatore Accoppiato",
-      "desc": "Inizio Turno: Questo Dono si attiva per tutto l'Incontro quando 5 o più Identità hanno Abilità Attacco che applicano Potenza o Conteggio [Vibration] o '<noparse>Vibrazione</noparse> Speciale'. (escluse le Abilità E.G.O; escluse le Riserve)\n\nInfliggi 5 [Vibration] e +5 Conteggio [Vibration] a tutti i nemici. (o tutte le parti dell'Anormalità; una volta per ondata)\n\nInfliggi 5 Potenza [Vibration] e 2 [Vulnerable] in questo turno e nel turno successivo ai nemici affetti da [VibrationExplosion]. (Si attiva una volta per Abilità Attacco che innesca [VibrationExplosion])\n\nDopo che vengono innescati 3 [VibrationExplosion] su un bersaglio in questo turno, il bersaglio Vacillerà all'Inizio del prossimo Turno e verrà aggiunta una nuova Soglia di Vacillamento al 66% e una al 33% dei PV correnti del bersaglio. (Una volta per Incontro)\n\nQuando viene attivato [Switch_Vibration] o [FusionVibration], infliggi 1 [Vulnerable] (3 volte per turno)",
+      "desc": "Inizio Turno: Questo Dono si attiva per tutto l'Incontro quando 5 o più Identità hanno Abilità Attacco che applicano Potenza o Conteggio [Vibration] o '<noparse>Vibrazione</noparse> Speciale'. (escluse le Abilità E.G.O; escluse le Riserve)\n\nInfliggi 5 [Vibration] e +5 Conteggio [Vibration] a tutti i nemici. (o tutte le parti dell'Anormalità; una volta per ondata)\n\nInfliggi 5 Potenza [Vibration] e 2 [Vulnerable] in questo turno e nel turno successivo ai nemici affetti da [VibrationExplosion]. (Si attiva una volta per Abilità Attacco che innesca [VibrationExplosion])\n\nDopo che vengono innescati 3 [VibrationExplosion] su un bersaglio in questo turno, il bersaglio Vacillerà all'Inizio del prossimo Turno e verrà aggiunta una nuova Soglia di Stordimento al 66% e una al 33% dei PV correnti del bersaglio. (Una volta per Incontro)\n\nQuando viene attivato [Switch_Vibration] o [FusionVibration], infliggi 1 [Vulnerable] (3 volte per turno)",
       "simpleDesc": [
         {
           "abilityID": 9092,
@@ -2809,7 +2809,7 @@
     {
       "id": 29103,
       "name": "Dolore della Rabbia Repressa++",
-      "desc": "Quando un alleato infligge Potenza o Conteggio [Combustion] o '<noparse>Bruciatura</noparse> Speciale' con l'effetto di un'Abilità ad un nemico che ha [Combustion] o '<noparse>Bruciatura</noparse> Speciale', guadagnano 1 [Agility] nel turno successivo. (una volta per Abilità, 3 volte per turno)\n\nSe le unità affette hanno [Agility], guadagnano invece 2 [Agility], 2 [AttackUp], e <style=\"upgradeHighlight\">2 [AttackDmgUp]</style>.",
+      "desc": "Quando un alleato infligge Potenza o Conteggio [Combustion] o '<noparse>Bruciatura</noparse> Speciale' con l'effetto di un'Abilità ad un nemico che ha [Combustion] o '<noparse>Bruciatura</noparse> Speciale', guadagna 1 [Agility] nel turno successivo. (una volta per Abilità, 3 volte per turno)\n\nSe le unità affette hanno [Agility], guadagnano invece 2 [Agility], 2 [AttackUp], e <style=\"upgradeHighlight\">2 [AttackDmgUp]</style>.",
       "simpleDesc": [
         {
           "abilityID": 29103,
@@ -3653,7 +3653,7 @@
     {
       "id": 9135,
       "name": "Generatore Imitativo",
-      "desc": "[Gli effetti si applicano solo alla 1° e 2° Identità Schierata]\n\nSi attiva quando l'unità ha 10+ (Conteggio [Charge] + '<noparse>Carica</noparse> Speciale') ad Inizio Turno.\n\n- Abilità a Moneta Positiva: Potere <noparse>Moneta Positiva +</noparse>1 per l'Abilità 3 che guadagna o consuma Conteggio [Charge] o '<noparse>Carica</noparse> Speciale'.\n- Abilità a Moneta Negativa: Invece di guadagnare Potere Moneta Positiva, guadagna Potere Base +(4 / N. di Monete) (min 1; arrotondato per difetto)\n\n- Abilità a Moneta Positiva: Se questa Abilità ha meno di 5 Potere Base, infligge +25% di danno; se ha 5+ Potere Base, guadagna un ulteriore Potere <noparse>Moneta Positiva +</noparse>1.\n- Abilità a Moneta Negativa: Invece di guadagnare Potere Moneta Positiva, guadagna Potere Base +(4 / N. di Monete) (min 1; arrotondato per difetto)",
+      "desc": "[Gli effetti si applicano solo alla 1° e 2° Identità Schierata]\n\nSi attiva quando l'unità ha 10+ (Conteggio [Charge] + '<noparse>Carica</noparse> Speciale' (Potenza Fissa)) ad Inizio Turno.\n\n- Abilità a Moneta Positiva: Potere <noparse>Moneta Positiva +</noparse>1 per l'Abilità 3 che guadagna o consuma Conteggio [Charge] o '<noparse>Carica</noparse> Speciale' (Potenza Fissa).\n- Abilità a Moneta Negativa: Invece di guadagnare Potere Moneta Positiva, guadagna Potere Base +(4 / N. di Monete) (min 1; arrotondato per difetto)\n\n- Abilità a Moneta Positiva: Se questa Abilità ha meno di 5 Potere Base, infligge +25% di danno; se ha 5+ Potere Base, guadagna un ulteriore Potere <noparse>Moneta Positiva +</noparse>1.\n- Abilità a Moneta Negativa: Invece di guadagnare Potere Moneta Positiva, guadagna Potere Base +(4 / N. di Monete) (min 1; arrotondato per difetto)\n\n※ For 'Unique Charge' that has both Potency and Count, its Count will be used for above calculations",
       "simpleDesc": [
         {
           "abilityID": 9135,
@@ -3668,7 +3668,7 @@
     {
       "id": 9136,
       "name": "Frammento dell'Attrito",
-      "desc": "Si attiva quando vengono usate le Abilità E.G.O che guadagnano o consumano Conteggio [Charge] o '<noparse>Carica</noparse> Speciale'.\n\nGuadagna Potere Finale uguale a (risorse E.G.O Invidia + somma delle altre risorse E.G.O/3 consumate) e infliggi +50% di danno\n\nPer le Abilità E.G.O Invidia: Prima di Attaccare, guadagna Conteggio [Charge] addizionale in base al grado dell'E.G.O (ZAYIN guadagna +2 Conteggio, TETH guadagna +3 Conteggio, HE guadagna +4 Conteggio, e così via), e infliggi +((Conteggio [Charge] su sé stessi + '<noparse>Carica</noparse> Speciale') x 5)% di danno. (200% max)",
+      "desc": "Si attiva quando vengono usate le Abilità E.G.O che guadagnano o consumano Conteggio [Charge] o '<noparse>Carica</noparse> Speciale' (Potenza Fissa).\n\nGuadagna Potere Finale uguale a (risorse E.G.O Invidia + somma delle altre risorse E.G.O/3 consumate) e infliggi +50% di danno\n\nPer le Abilità E.G.O Invidia: Prima di Attaccare, guadagna Conteggio [Charge] addizionale in base al grado dell'E.G.O (ZAYIN guadagna +2 Conteggio, TETH guadagna +3 Conteggio, HE guadagna +4 Conteggio, e così via), e infliggi +((Conteggio [Charge] + '<noparse>Carica</noparse> Speciale' (Potenza Fissa) su sé stessi) x 5)% di danno. (200% max)\n\n※ For 'Unique Charge' that has both Potency and Count, its Count will be used for above calculations",
       "simpleDesc": [
         {
           "abilityID": 9136,
@@ -4411,11 +4411,11 @@
     {
       "id": 9165,
       "name": "Ingranaggi Incastrati",
-      "desc": "Inizio Turno: Questo Dono si attiva per tutto l'Incontro quando 5 o più Identità hanno Abilità Attacco che applicano Potenza o Conteggio [Vibration] o '<noparse>Vibrazione</noparse> Speciale'. (escluse le Abilità E.G.O; escluse le Riserve)\n\nQuando [VibrationExplosion] viene innescato su un bersaglio per la 6° volta in questo turno, aggiungi una Soglia di Vacillamento addizionale al 0% dei PV correnti del bersaglio (Una volta per Incontro)\n\nInfliggi 1 [Vulnerable] quando viene attivato [Switch_Vibration] o [FusionVibration] (una volta per turno)",
+      "desc": "Inizio Turno: Questo Dono si attiva per tutto l'Incontro quando 5 o più Identità hanno Abilità Attacco che applicano Potenza o Conteggio [Vibration] o '<noparse>Vibrazione</noparse> Speciale'. (escluse le Abilità E.G.O; escluse le Riserve)\n\nQuando [VibrationExplosion] viene innescato su un bersaglio per la 6° volta in questo turno, aggiungi una Soglia di Stordimento addizionale al 0% dei PV correnti del bersaglio (Una volta per Incontro)\n\nInfliggi 1 [Vulnerable] quando viene attivato [Switch_Vibration] o [FusionVibration] (una volta per turno)",
       "simpleDesc": [
         {
           "abilityID": 9165,
-          "simpleDesc": "Aggiungi una Soglia di Vacillamento"
+          "simpleDesc": "Aggiungi una Soglia di Stordimento"
         },
         {
           "abilityID": 91651,
@@ -4839,7 +4839,7 @@
     {
       "id": 9199,
       "name": "Orli Strappati",
-      "desc": "Per le Abilità Attacco 2 Perforanti: Livello Offensivo +2; se l'Abilità ha 2- Monete, guadagna anche Potere Scontro +(2/N. di Monete).\n- Per le Identità dell'Alleanza per la Liberazione Tecnologica: l'effetto si applica a tutte le Abilità Attacco Perforanti Base\n\nInizio Turno: le Identità dell'Alleanza per la Liberazione Tecnologica guadagnano (N. di effetti negativi su sé stessi) [AttackUp]. (max 3)",
+      "desc": "Per le Abilità Attacco 2 Perforanti: Livello Offensivo +2; se l'Abilità ha 2- Monete, guadagna anche Potere Scontro +(2/N. di Monete).\n- Per le Identità dell'Alleanza per la Liberazione dalla Tecnologia: l'effetto si applica a tutte le Abilità Attacco Perforanti Base\n\nInizio Turno: le Identità dell'Alleanza per la Liberazione dalla Tecnologia guadagnano (N. di effetti negativi su sé stessi) [AttackUp]. (max 3)",
       "simpleDesc": [
         {
           "abilityID": 9199,
@@ -4854,7 +4854,7 @@
     {
       "id": 19199,
       "name": "Orli Strappati+",
-      "desc": "Per le Abilità Attacco 2 Perforanti: Livello Offensivo +2; se l'Abilità ha 2- Monete, guadagna anche Potere Scontro +(2/N. di Monete).\n- Per le Identità dell'Alleanza per la Liberazione Tecnologica: l'effetto si applica a tutte le Abilità Attacco Perforanti <style=\"upgradeHighlight\">o con Affinità Gola</style> Base\n\nInizio Turno: le Identità dell'Alleanza per la Liberazione Tecnologica guadagnano <style=\"upgradeHighlight\">(N. di effetti negativi su sé stessi + 1)</style> [AttackUp]. (max <style=\"upgradeHighlight\">4</style>)",
+      "desc": "Per le Abilità Attacco 2 Perforanti: Livello Offensivo +2; se l'Abilità ha 2- Monete, guadagna anche Potere Scontro +(2/N. di Monete).\n- Per le Identità dell'Alleanza per la Liberazione dalla Tecnologia: l'effetto si applica a tutte le Abilità Attacco Perforanti <style=\"upgradeHighlight\">o con Affinità Gola</style> Base\n\nInizio Turno: le Identità dell'Alleanza per la Liberazione dalla Tecnologia guadagnano <style=\"upgradeHighlight\">(N. di effetti negativi su sé stessi + 1)</style> [AttackUp]. (max <style=\"upgradeHighlight\">4</style>)",
       "simpleDesc": [
         {
           "abilityID": 19199,
@@ -4869,7 +4869,7 @@
     {
       "id": 29199,
       "name": "Orli Strappati++",
-      "desc": "Per le Abilità Attacco 2 Perforanti: Livello Offensivo +2; se l'Abilità ha 2- Monete, guadagna anche Potere Scontro +(2/N. di Monete).\n- Per le Identità dell'Alleanza per la Liberazione Tecnologica: l'effetto si applica a <style=\"upgradeHighlight\">tutte</style> le Abilità Attacco Base\n\nInizio Turno: le Identità dell'Alleanza per la Liberazione Tecnologica guadagnano <style=\"upgradeHighlight\">1 Potere Scontro Aumentato</style> e (valore della più grande Stack tra gli effetti negativi su sé stessi + 1) [AttackUp]. (max <style=\"upgradeHighlight\">5</style>)",
+      "desc": "Per le Abilità Attacco 2 Perforanti: Livello Offensivo +2; se l'Abilità ha 2- Monete, guadagna anche Potere Scontro +(2/N. di Monete).\n- Per le Identità dell'Alleanza per la Liberazione dalla Tecnologia: l'effetto si applica a <style=\"upgradeHighlight\">tutte</style> le Abilità Attacco Base\n\nInizio Turno: le Identità dell'Alleanza per la Liberazione dalla Tecnologia guadagnano <style=\"upgradeHighlight\">1 Potere Scontro Aumentato</style> e (valore della più grande Stack tra gli effetti negativi su sé stessi + 1) [AttackUp]. (max <style=\"upgradeHighlight\">5</style>)",
       "simpleDesc": [
         {
           "abilityID": 29199,

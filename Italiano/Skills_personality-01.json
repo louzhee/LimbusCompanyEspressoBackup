@@ -633,14 +633,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Abbassa la propria Soglia di Vacillamento pari a [KnowledgeExplored]"
+                  "desc": "[OnSucceedAttackHead] Abbassa la propria Soglia di Stordimento pari a [KnowledgeExplored]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Abbassa la propria Soglia di Vacillamento pari a [KnowledgeExplored]"
+                  "desc": "[OnSucceedAttackHead] Abbassa la propria Soglia di Stordimento pari a [KnowledgeExplored]"
                 }
               ]
             }
@@ -654,14 +654,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Abbassa la propria Soglia di Vacillamento pari a [KnowledgeExplored]"
+                  "desc": "[OnSucceedAttack] Abbassa la propria Soglia di Stordimento pari a [KnowledgeExplored]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Abbassa la propria Soglia di Vacillamento pari a [KnowledgeExplored]"
+                  "desc": "[OnSucceedAttack] Abbassa la propria Soglia di Stordimento pari a [KnowledgeExplored]"
                 }
               ]
             }
@@ -675,14 +675,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Abbassa la propria Soglia di Vacillamento pari a [KnowledgeExplored]"
+                  "desc": "[OnSucceedAttack] Abbassa la propria Soglia di Stordimento pari a [KnowledgeExplored]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Abbassa la propria Soglia di Vacillamento pari a [KnowledgeExplored]"
+                  "desc": "[OnSucceedAttack] Abbassa la propria Soglia di Stordimento pari a [KnowledgeExplored]"
                 }
               ]
             }

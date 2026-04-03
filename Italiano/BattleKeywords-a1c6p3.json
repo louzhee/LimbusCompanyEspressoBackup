@@ -31,8 +31,8 @@
     {
       "id": "AaCfPcBc",
       "name": "Tecnica Incatenante",
-      "desc": "- Max 3\n- Fine Turno: aumenta di 1\n- Fine Turno: ottiene Rallentamento pari alle Stack di questo effetto.\n- Fine Turno: se ha 3 Stack, Vacilla per il resto dell'Incontro.\nNon si esaurisce.",
-      "summary": "Ottiene Rallentamento pari alle Stack il turno successivo.\nSe ha 3 Stack, Vacilla per il resto dell'Incontro.",
+      "desc": "- Max 3\n- Fine Turno: aumenta di 1\n- Fine Turno: ottiene Rallentamento pari alle Stack di questo effetto.\n- Fine Turno: se ha 3 Stack, viene Stordito per il resto dell'Incontro.\nNon si esaurisce.",
+      "summary": "Ottiene Rallentamento pari alle Stack il turno successivo.\nSe ha 3 Stack, viene Stordito per il resto dell'Incontro.",
       "undefined": "-"
     },
     {
@@ -50,7 +50,7 @@
     {
       "id": "AaCfPcBn",
       "name": "Cuore da Spezzare",
-      "desc": "- Ogni Resistenza a Affinità Peccato sale di (Stack x 0.2)\n- A 3 Stack, Vacilla.",
+      "desc": "- Ogni Resistenza alle Affinità Peccato sale di (Stack x 0.2)\n- A 3 Stack, viene Stordito.",
       "undefined": "-"
     },
     {

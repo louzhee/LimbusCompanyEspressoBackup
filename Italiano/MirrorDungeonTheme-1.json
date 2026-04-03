@@ -58,7 +58,7 @@
     },
     {
       "id": 1015,
-      "name": "Il Male Incarnato"
+      "name": "La Definizione del Male"
     },
     {
       "id": 1016,
@@ -412,6 +412,10 @@
     {
       "id": 1125,
       "name": "Controllo di Routine LCB BokGak"
+    },
+    {
+      "id": 3001,
+      "name": "Il R.d.P."
     }
   ]
 }
